@@ -1,0 +1,325 @@
+.topArea{
+    height: 100px;
+    width:  100%;
+}
+
+#totals{
+    text-align: center;
+     height: 80px;
+     width:  100%;
+     background: black;
+     color: white;
+     font-family: arial bold;
+     font-weight: 900;
+     font-size: 12px;
+      margin-top: 10px;
+}
+
+#modW{
+    width: 20%;
+}
+#tot1B{
+    float: left;
+    width: 20%;
+    text-align: center;
+    margin-top: 5px;
+}
+
+
+#tot2B{
+    float: left;
+    width: 20%;
+    text-align: center;
+    margin-top: 5px;
+}
+#tot3B{
+    float: left;
+    width: 20%;
+    text-align: center;
+    margin-top: 5px;
+}
+#tot4B{
+    float: left;
+    width: 20%;
+    text-align: center;
+    margin-top: 5px;
+}
+#tot5B{
+    float: left;
+    width: 20%;
+    text-align: center;
+    margin-top: 5px;
+}
+
+#tot1{
+    float: left;
+    width: 10%;
+    text-align: center;
+    margin-top: 5px;
+}
+#tot2{
+    float: left;
+    width: 10%;
+    text-align: center;
+    margin-top: 5px;
+}
+#tot3{
+    float: left;
+    width: 10%;
+    text-align: center;
+    margin-top: 5px;
+}
+#tot4{
+    float: left;
+    width: 10%;
+    text-align: center;
+    margin-top: 5px;
+}
+#tot5{
+    float: left;
+    width: 10%;
+    text-align: center;
+    margin-top: 5px;
+}
+#tot6{
+    float: left;
+    width: 10%;
+    text-align: center;
+    margin-top: 5px;
+}
+#tot7{
+    float: left;
+    width: 10%;
+    text-align: center;
+    margin-top: 5px;
+}
+#tot8{
+    float: left;
+    width: 10%;
+    text-align: center;
+    margin-top: 5px;
+}
+#tot9{
+    float: left;
+    width: 10%;
+    text-align: center;
+    margin-top: 5px;
+}
+#tot10{
+    float: left;
+    width: 10%;
+    text-align: center;
+    margin-top: 5px;
+}
+#tot11{
+    float: left;
+    width: 10%;
+    text-align: center;
+    margin-top: 5px;
+}
+#tot{
+    float: left;
+    width: 100%;
+    text-align: center;
+    margin-top: 5px;
+}
+
+.totals11 span {
+    width: 9% !important;
+}
+
+
+#tot1X{
+    float: left;
+    width: 16.67%;
+    text-align: center;
+    margin-top: 5px;
+}
+
+
+#tot2X{
+    float: left;
+    width: 16.67%;
+    text-align: center;
+    margin-top: 5px;
+}
+#tot3X{
+    float: left;
+    width: 16.67%;
+    text-align: center;
+    margin-top: 5px;
+}
+#tot4X{
+    float: left;
+    width: 16.67%;
+    text-align: center;
+    margin-top: 5px;
+}
+#tot5X{
+    float: left;
+    width: 16.67%;
+    text-align: center;
+    margin-top: 5px;
+}
+#tot6X{
+    float: left;
+    width: 16.67%;
+    text-align: center;
+    margin-top: 5px;
+}
+#tot7X{
+    float: left;
+    width: 16.67%;
+    text-align: center;
+    margin-top: 5px;
+}
+
+
+.title{
+    font-weight: 800;
+    font-size: 18px;
+    width: 100%;
+    position: relative;
+    text-align: center;
+}
+
+.left{
+    float: left;
+    width: 40%;
+    text-align: center;
+}
+
+.right{
+    float: right;
+    width: 25%;
+    text-align: center;
+}
+
+.leftM{
+    float: left;
+    width: 25%;
+    text-align: center;
+    margin-top: 5px;
+}
+
+.rightM{
+    float: left;
+    width: 25%;
+    text-align: center;
+    margin-top: 5px;
+}
+.leftM2{
+    float: left;
+    width: 25%;
+    text-align: center;
+    margin-top: -15px;
+}
+.leftM3{
+    float: left;
+    width: 25%;
+    text-align: center;
+    margin-top: -15px;
+}
+
+.leftM2B{
+    float: left;
+    width: 25%;
+    text-align: center;
+    margin-top: 5px;
+}
+.leftM3B{
+    float: left;
+    width: 25%;
+    text-align: center;
+    margin-top: 5px;
+}
+.leftM4B{
+    float: left;
+    width: 25%;
+    text-align: center;
+    margin-top: 5px;
+}
+.rightM2{
+    float: left;
+    width: 25%;
+    text-align: center;
+    margin-top: 5px;    
+}
+
+.row1{
+    background-color: #FFFFC4;
+     font-family: arial;
+     font-size: 12px;
+}
+.row2{
+    background-color: #FFF09E;
+     font-family: arial;
+     font-size: 12px;
+}
+.overFlag {
+    color: red;
+}
+.justFlag {
+  color:  orange;
+}
+.ns{
+    color: red;
+}
+.abs{
+    color: red;
+}
+.cell1{
+    color: #AF002A;
+}
+.cell2{
+    color: #F60018;
+}
+.cell3{
+    color: #000000;
+}
+.tableCenter{
+    text-align: center;
+}
+.button1 {
+    border: 1px solid #616163;
+    background: #4A4B4C none repeat scroll 0% 0%;
+    font-size: 8pt;
+    padding-top: 3px;
+    padding-bottom: 2px;
+    font-weight: 200;
+    font-style: normal;
+    font-family: "Arial","Helvetica","Times",serif;
+    color: #FCB040;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.print {
+    text-decoration: none;
+    text-transform: uppercase;
+    padding: 5px 15px;
+    border: 1px solid #056FC4;
+    color: #FFF;
+    background: transparent url("../images/button.png") repeat-x scroll 0px 0px;
+}
+
+@media print {        
+   .expand-div{
+        overflow: visible !important;
+        height: auto !important;
+   }
+}
+
+.header {
+    width: 0px;
+    line-height: 11px;
+    height: 15px;
+    border: medium none;
+    background-image: none;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+a{
+    color: blue;
+}

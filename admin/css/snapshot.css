@@ -1,0 +1,148 @@
+body  { 
+text-align: center;
+background-color:#FFFFFFF;
+background-image:url('../images/carbon_fibre.png');
+margin: 0;
+}
+
+#compHeader {
+position: relative;
+top: 30px;
+margin-left: auto; 
+margin-right: auto;
+width: 65%;
+height: auto;
+text-align: left;
+font-size: 19pt;
+font-weight: 100;
+font-style: normal;
+font-family: "Arial","Helvetica","Times",serif;
+color: #FFF;
+}
+
+#memberHouse {
+position: relative;
+top: 60px;
+margin-left: auto; 
+margin-right: auto;
+padding-left: 40px;
+padding-bottom: 5px;
+-moz-border-radius: 8px 8px 8px 8px;
+border-radius: 8px 8px 8px 8px;
+box-shadow: 7px 7px 5px #000;
+width: 65%;
+height: auto;
+background-color: #FFF;
+}
+
+.blue {
+padding-top: 0px;
+padding-bottom: 25px;
+padding-right: 80px;
+text-align: left;
+font-size: 12pt;
+font-weight: 900;
+font-style: normal;
+font-family: "Arial","Helvetica","Times",serif;
+color: #3300CC;
+}
+
+.blueName {
+padding-top: 30px;
+padding-right: 80px;
+text-align: left;
+font-size: 12pt;
+font-weight: 900;
+font-style: normal;
+font-family: "Arial","Helvetica","Times",serif;
+color: #3300CC;
+}
+
+.blackOne {
+padding-top: 30px;
+text-align: left;
+font-size: 14pt;
+font-weight: 700;
+font-style: normal;
+font-family: "Arial","Helvetica","Times",serif;
+color: #000;
+}
+
+.status{
+padding-top: 0px;
+padding-bottom: 25px;
+text-align: left;
+font-size: 12pt;
+font-weight: 500;
+font-style: normal;
+font-family: "Arial","Helvetica","Times",serif;
+}
+
+.flag{
+padding-top: 0px;
+padding-bottom: 25px;
+text-align: left;
+font-size: 11pt;
+font-weight: 500;
+font-style: normal;
+font-family: "Arial","Helvetica","Times",serif;
+}
+
+.photo {
+padding-top: 50px;
+padding-left: 110px;
+padding-right: 70px;
+text-align: center;
+}
+
+.logo {
+padding-right: 0px;
+text-align: right;
+}
+
+#footer  {
+position: relative; 
+margin-left: auto; 
+margin-right: auto;
+top:  100px;
+text-align: center;
+font-size: 10pt;
+font-weight: 500;
+font-style: normal;
+font-family: "Arial","Helvetica","Times",serif;
+color: #FBF9ED
+}
+
+#memNum {
+border:0px;
+font-size: 12pt;
+font-weight: 700;
+font-style: normal;
+font-family: "Arial","Helvetica","Times",serif;
+color: #000;
+background-color: #FFF;
+}
+
+
+#vbut {
+border:0px;
+background-color: #FFF;
+}
+
+.button1 {
+    border: 1px solid #616163;
+    background: none repeat scroll 0% 0% #4A4B4C;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    font-size: 9pt;
+    font-weight: 200;
+    font-style: normal;
+    font-family: "Arial","Helvetica","Times",serif;
+    color: #FCB040;
+    cursor: pointer;
+}
+
+
+
+
+

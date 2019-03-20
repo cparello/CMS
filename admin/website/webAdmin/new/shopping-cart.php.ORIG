@@ -1,0 +1,186 @@
+<?php
+include_once('php/connection.php');
+?>
+<!doctype html>
+<html class="no-js" lang="en">
+<head>
+    <?php include_once('inc/meta.php'); ?>
+    <link rel="stylesheet" href="css/signature_pad.css">
+</head>
+<body>
+    <?php include_once('inc/header.php'); ?>
+    
+    <div class="row margin-top-bottom">
+    	<div class="small-12 large-12 columns">
+            <h3>Your Cart</h3>
+            <table width="100%">
+                <thead>
+                    <tr>
+                        <th width="10%">Item #</th>
+                        <th width="24%">Item</th>
+                        <th width="50%">Description</th>
+                        <th width="6%">Price</th>
+                        <th width="10%" class="text-center">Remove</th>
+                    </tr>
+                </thead>
+                
+                <tbody>
+                	<?php
+					$cart = $_SESSION['cart'];
+					$cartList = explode('|',$cart);
+					$total = 0;
+					
+					$counter = 1;
+					foreach ($cartList as $item) {
+						$itemDetails = explode(',',$item);
+						$itemId = trim($itemDetails[0]);
+						$retail_cost = trim($itemDetails[1]);
+						$sales_tax = trim($itemDetails[2]);
+						$product_desc = trim($itemDetails[3]);
+						
+						$total += $retail_cost;
+						
+						$total = sprintf("%.2f", $total);
+						
+						if ($numberOfCartItems == 1 AND ($product_desc == "")){
+							$optionalMessage = "Your cart is empty!";
+						} else {
+							$optionalMessage = "";
+							if($product_desc != ""){
+							$stmt = $dbMain ->prepare("SELECT description, picture FROM website_product_info WHERE item_marker = '$itemId'");
+							$stmt->execute();      
+							$stmt->store_result();      
+							$stmt->bind_result($description, $pictureMain); 
+							$stmt->fetch();   
+							$stmt->close(); 
+							
+							echo '<tr>
+							<td>' . $counter . '</td>
+							<td>' . $product_desc . '</td>
+							<td>' . $description . '</td>
+							<td>$' . $retail_cost . '</td>
+							<td class="text-center"><i class="fa fa-times alert"></i></td>
+							</tr>';
+							$counter++;
+							}
+						}
+					}
+					echo '<tr>
+					<td></td>
+					<td></td>
+					<td class="text-right"><strong>Total Cost</strong></td>
+					<td>$' . $total . '</td>
+					<td></td>
+					</tr>';
+					?>
+                </tbody>
+            </table>
+        </div>
+    </div>
+    
+    <div class="row">
+        <div class="small-12 large-12 columns">
+            <h3>Payment Information</h3>
+        </div>
+    </div>
+    
+    <div class="row">
+        <div class="small-12 large-6 columns">
+            <p><strong>Credit Card Payment</strong></p>
+            <select  name="card_type" id="card_type">
+                <option value>Card Type</option>
+                <option value="Visa" >Visa</option>
+                <option value="MC" >MasterCard</option>
+                <option value="Amex" >American Express</option>
+                <option value="Disc" >Discover</option>
+            </select>
+            <input name="card_name" type="text" id="card_name" value="" placeholder="Name on Card">
+            <input name="card_number" type="text" id="card_number" value="" placeholder="Card Number">
+            <input name="card_cvv" type="text" id="card_cvv" value="" placeholder="Security Code">
+            
+            <div class="row">
+                <div class="small-6 large-6 columns">
+                    <label>Exp. Month
+                    <select name="card_month" id="card_month">
+                        <option value="">Month</option>
+                        <option value="01" >January</option>
+                        <option value="02" >February</option>
+                        <option value="03" >March</option>
+                        <option value="04" >April</option>
+                        <option value="05" >May</option>
+                        <option value="06" >June</option>
+                        <option value="07" >July</option>
+                        <option value="08" >August</option>
+                        <option value="09" >September</option>
+                        <option value="10" >October</option>
+                        <option value="11" >November</option>
+                        <option value="12" >December</option>
+                    </select>
+                    </label>
+                </div>
+                
+                <div class="small-6 large-6 columns">
+                    <label>Exp. Year
+                    <select name="card_year" id="card_year">
+                        <option value="">Year</option>
+                        <option value="15" >2015</option>
+                        <option value="16" >2016</option>
+                        <option value="17" >2017</option>
+                        <option value="18" >2018</option>
+                        <option value="19" >2019</option>
+                        <option value="20" >2020</option>
+                        <option value="21" >2021</option>
+                        <option value="22" >2022</option>
+                        <option value="23" >2023</option>
+                        <option value="24" >2024</option>
+                        <option value="25" >2025</option>
+                        <option value="26" >2026</option>
+                        <option value="27" >2027</option>
+                        <option value="28" >2028</option>
+                    </select>
+                    </label>
+                </label>
+                </div>
+            </div>
+            
+          	<input  name="credit_pay" type="text" id="credit_pay" value="" placeholder="Credit Payment">
+        </div>
+        
+        <div class="small-12 large-6 columns">
+            <p><strong>Bank Payment</strong></p>
+            <input  name="bank_name" type="text" id="bank_name"  value="" placeholder="Bank Name">
+			<select name="account_type" id="account_type">
+                <option value="">Account Type</option>
+                <option value="C" >Personal Checking</option>
+                <option value="B" >Business Checking</option>
+                <option value="S" >Savings</option>
+            </select>
+			<input name="account_name" type="text" id="account_name" value="" placeholder="Account Name">
+			<input name="account_num" type="text" id="account_num" value="" placeholder="Account Number">
+			<input name="aba_num" type="text" id="aba_num" value="" placeholder="Routing Number">
+			<input name="ach_pay" type="text" id="ach_pay" value="" placeholder="ACH Payment">
+        </div>
+    </div>
+    
+    <div class="row">
+    	<div class="small-12 large-12 columns">
+            <div id="signature-pad" class="m-signature-pad">
+                <div class="m-signature-pad--body">
+                  <canvas></canvas>
+                </div>
+            
+                <div class="m-signature-pad--footer">
+                    <strong>Sign above</strong><br>
+                    <a data-action="clear" href="#">Clear</a> &mdash; <a data-action="save" href="#">Save</a>
+                    <input type="hidden" id="input_name" name="input_name" value="">
+                </div>
+			</div>
+        </div>
+        <center><input type="button" value="Submit Information" id="qty" class="button buttonSubmit buttonPassesGreen buttonSize" field="number_memberships"></center>
+     </div>
+    
+    <script type="text/javascript" src="js/signature_pad.js"></script>
+	<script type="text/javascript" src="js/signaturePad.js"></script>
+    <?php include_once('inc/footer.php'); ?>
+</body>
+</html>

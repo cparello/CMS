@@ -1,0 +1,173 @@
+body  { 
+text-align: center;
+background-color:#FFFFFFF;
+background-image:url('../images/carbon_fibre.png');
+margin: 0;
+}
+
+#compHeader {
+position: relative;
+top: 25px;
+margin-left: auto; 
+margin-right: auto;
+width: 925px;
+height: auto;
+text-align: left;
+font-size: 19pt;
+font-weight: 100;
+font-style: normal;
+font-family: "Arial","Helvetica","Times",serif;
+color: #FFF;
+}
+
+
+#buttonHouse {
+position: relative;
+padding-left: 0px;
+top: 60px;
+margin-left: auto; 
+margin-right: auto;
+width: 925px;
+height: 30px;
+}
+
+#newMem {
+float: left;
+height: 25px;
+width: 110px;
+padding-top: 10px;
+border-top-right-radius: 8px;
+border-top-left-radius: 8px; 
+cursor: pointer
+}
+
+#guestReg {
+float: left;
+margin-left: 5px;
+height: 25px;
+width: 120px;
+padding-top: 10px;
+border-top-right-radius: 8px;
+border-top-left-radius: 8px; 
+cursor: pointer
+}
+
+#searchMem {
+float: left;
+margin-left: 5px;
+height: 25px;
+width: 120px;
+padding-top: 10px;
+border-top-right-radius: 8px;
+border-top-left-radius: 8px; 
+cursor: pointer
+}
+
+#reCard {
+float: left;
+margin-left: 5px;
+height: 25px;
+width: 120px;
+padding-top: 10px;
+border-top-right-radius: 8px;
+border-top-left-radius: 8px; 
+cursor: pointer
+}
+
+#checkIn {
+float: left;
+margin-left: 5px;
+height: 25px;
+width: 120px;
+padding-top: 10px;
+border-top-right-radius: 8px;
+border-top-left-radius: 8px; 
+cursor: pointer
+}
+
+#pointSale {
+float: left;
+margin-left: 5px;
+height: 25px;
+width: 110px;
+padding-top: 10px;
+border-top-right-radius: 8px;
+border-top-left-radius: 8px; 
+cursor: pointer
+}
+
+#scheduler {
+float: left;
+margin-left: 5px;
+height: 25px;
+width: 90px;
+padding-top: 10px;
+border-top-right-radius: 8px;
+border-top-left-radius: 8px; 
+cursor: pointer
+}
+
+
+#clockIn {
+float: left;
+margin-left: 5px;
+height: 25px;
+width: 100px;
+padding-top: 10px;
+border-top-right-radius: 8px;
+border-top-left-radius: 8px; 
+cursor: pointer
+}
+
+
+.buttonText {
+text-align: center;
+font-size: 9pt;
+font-weight: 500;
+font-style: normal;
+font-family: "Arial","Helvetica","Times",serif;
+color: #FFF;
+background-color:  #3E39D3;
+}
+
+
+#contentFrame {
+position: relative;
+top: 65px;
+margin-left: auto; 
+margin-right: auto;
+padding-left: 0px;
+padding-bottom: 5px;
+border-bottom-right-radius: 8px;
+border-bottom-left-radius: 8px; 
+box-shadow: 7px 7px 5px #000;
+width: 925px;
+height: auto;
+background-color: #FFF;
+}
+
+#footer  {
+position: relative; 
+margin-left: auto; 
+margin-right: auto;
+top:  105px;
+text-align: center;
+font-size: 10pt;
+font-weight: 500;
+font-style: normal;
+font-family: "Arial","Helvetica","Times",serif;
+color: #FBF9ED
+}
+
+.button1 {
+    border: 1px solid #616163;
+    background: none repeat scroll 0% 0% #4A4B4C;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    font-size: 9pt;
+    font-weight: 200;
+    font-style: normal;
+    font-family: "Arial","Helvetica","Times",serif;
+    color: #FCB040;
+    cursor: pointer;
+}

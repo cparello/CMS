@@ -1,0 +1,723 @@
+body{
+margin: 0px;
+}
+
+#libHost {
+position:relative;
+width: 995px;
+top: 460px;
+padding-bottom: 20px;
+left: 25px;
+}
+
+.white{
+font-size: 1pt;
+font-weight: 100;
+font-style: normal;
+color: #FFFFFF;
+}
+
+#note {
+position:absolute;
+top: 300px;
+left: 80px;
+padding:8px;
+background-color: #FFFFFF;
+border:1px solid #4A4B4C;
+visibility:hidden;
+z-index: 6;
+}
+
+
+#noteCheck {
+position: relative;
+top: 5px;
+left: 15px;
+}
+
+
+.checkText {
+font-size: 8pt;
+font-weight: 300;
+font-style: normal;
+/*font-family: "Arial","Helvetica","Times",serif;*/ font-family: "Open Sans", "Arial", "Helvetica", sans-serif;
+padding-right: 10px;
+padding-top: 0px;
+padding-bottom: 0px;
+color: #FFFFFF;
+}
+
+.dob {
+font-size: 8pt;
+font-weight: 500;
+font-style: normal;
+/*font-family: "Arial","Helvetica","Times",serif;*/ font-family: "Open Sans", "Arial", "Helvetica", sans-serif;
+color: #600;
+}
+
+.tabBoard1 {
+margin-bottom: 0px;
+border:1px solid #4A4B4C;
+border-collapse:collapse;
+}
+
+.tabBoard2 {
+margin-bottom: 20px;
+border:1px solid #4A4B4C;
+border-collapse:collapse;
+}
+
+.tabHead {
+background-color: #4A4B4C;
+}
+
+.pad {
+padding-bottom: 8px;
+}
+
+
+.black {
+font-size: 8pt;
+font-weight: 500;
+font-style: normal;
+/*font-family: "Arial","Helvetica","Times",serif;*/ font-family: "Open Sans", "Arial", "Helvetica", sans-serif;
+color: #000000;
+z-index: 2
+}
+
+.blackBold {
+font-size: 9pt;
+font-weight: 800;
+font-style: normal;
+/*font-family: "Arial","Helvetica","Times",serif;*/ font-family: "Open Sans", "Arial", "Helvetica", sans-serif;
+color: #000000;
+z-index: 2
+}
+
+.green {
+font-size: 8pt;
+font-weight: 700;
+font-style: normal;
+/*font-family: "Arial","Helvetica","Times",serif;*/ font-family: "Open Sans", "Arial", "Helvetica", sans-serif;
+color: #360;
+z-index: 2
+}
+
+.oBtext  {
+position: relative;
+top: 0px;
+text-align: left;
+padding-left: 10px;
+font-size: 9pt;
+font-weight: 300;
+font-style: normal;
+/*font-family: "Arial","Helvetica","Times",serif;*/ font-family: "Open Sans", "Arial", "Helvetica", sans-serif;
+color: #FFFFFF;
+}
+
+
+input{
+background: #FFFFFF;
+border: 1px solid #616163
+}
+
+textarea{
+background: #FFFFFF;
+border: 1px solid #616163
+}
+
+input[type=checkbox] {
+   border: none;
+   background: none;
+}
+
+input[type=radio] {
+   border: none;
+   background: none;
+}
+
+#headerButs {
+position: absolute;
+top:10px;
+left: 15px;
+}
+
+.button1 {
+    border: 1px solid #616163;
+    background:  #4A4B4C;
+    font-size: 8pt;
+    font-weight: 200;
+    font-style: normal;
+    /*font-family: "Arial","Helvetica","Times",serif;*/ font-family: "Open Sans", "Arial", "Helvetica", sans-serif;
+    color: #FCB040;
+}
+
+
+.button1:hover  {
+    font-size: 8pt;
+    font-weight: 200;
+    font-style: normal;
+    /*font-family: "Arial","Helvetica","Times",serif;*/ font-family: "Open Sans", "Arial", "Helvetica", sans-serif;
+    color: #FFFFFF;
+}
+
+
+.space {
+word-spacing: 5px;
+font-size: 8pt;
+font-weight: 500;
+font-style: normal;
+/*font-family: "Arial","Helvetica","Times",serif;*/ font-family: "Open Sans", "Arial", "Helvetica", sans-serif;
+color: #000000;
+}
+
+
+#contractTypeHeader  {
+position: relative;
+margin-left: auto; 
+margin-right: auto;
+margin-bottom: 15px;
+margin-top: 15px;
+height: auto;
+width: 800px;
+top:  35px;
+text-align: center;
+font-size: 12pt;
+font-weight: 900;
+font-style: normal;
+/*font-family: "Arial","Helvetica","Times",serif;*/ font-family: "Open Sans", "Arial", "Helvetica", sans-serif;
+color: #439B81;
+z-index: 2;
+}
+
+#selectServiceTab {
+position: relative;
+top:35px;
+height: 30px;
+width: 500px;
+}
+
+.tabText {
+position: relative;
+right: -10px;
+top: 5px;
+font-size: 12pt;
+font-weight: 300;
+font-style: normal;
+/*font-family: "Arial","Helvetica","Times",serif;*/ font-family: "Open Sans", "Arial", "Helvetica", sans-serif;
+color: #000000;
+}
+
+.container {
+position: relative;
+top:50px;
+left:10px;
+width: 1000px;
+margin-left: 15px;
+}
+
+.container p {
+margin-bottom: 1px;
+margin-top: 1px;
+padding: 3px;
+background: #4A4B4C;
+border: 1px solid #616163;
+font-size: 9pt;
+font-weight: 300;
+font-style: normal;
+/*font-family: "Arial","Helvetica","Times",serif;*/ font-family: "Open Sans", "Arial", "Helvetica", sans-serif;
+color: #FCB040;
+}
+
+    
+.container div {
+  padding: 0px;
+}
+
+.plus {
+position:absolute;
+right: 15px;
+font-size: 12pt;
+font-weight: 900;
+font-style: normal;
+/*font-family: "Arial","Helvetica","Times",serif;*/ font-family: "Open Sans", "Arial", "Helvetica", sans-serif;
+}
+
+
+#paymentSummaryTab {
+position: relative;
+top: 60px;
+left: 0px;
+margin-bottom: 15px;
+margin-top: 15px;
+height: 30px;
+width: 500px;
+}
+
+
+.tabText2 {
+position: relative;
+right: 0px;
+top: 5px;
+font-size: 12pt;
+font-weight: 300;
+font-style: normal;
+/*font-family: "Arial","Helvetica","Times",serif;*/ font-family: "Open Sans", "Arial", "Helvetica", sans-serif;
+color: #000000;
+outline: 1px solid #999999;
+background-color: #D8D8D8;
+padding-top: 5px;
+padding-bottom: 5px;
+padding-left: 10px;
+padding-right: 20px;
+}
+
+
+#overFields {
+position: relative;
+top:  27px;
+width: 1000px;
+left: 15px;
+height: 40px;
+}
+
+
+#payTerms  {
+position: relative;
+margin-left: auto; 
+margin-right: auto;
+height: 230px;
+top:  30px;
+left: 15px;
+}
+
+
+.status {
+position: absolute; 
+width: 125px;
+height:220px;
+border: 1px solid #4A4B4C;
+left:0px;
+top: 0px;
+}
+
+.status1 {
+position: absolute;
+top: 0px;
+left: 0px;
+width: 125px;
+height: 20px;
+background-color: #4A4B4C;
+}
+
+.status2 {
+position: relative;
+top: 20px;
+left: 0px;
+width: 125px;
+height: 190px;
+margin-top:0px; 
+margin-left: auto; 
+margin-right: auto;
+}
+
+.monthly {
+position: absolute; 
+width: 220px;
+height:220px;
+border: 1px solid #4A4B4C;
+margin-top:0px; 
+margin-left: 0px; 
+margin-right: 0px;
+left:165px;
+top: -1px;
+}
+
+.monthly1 {
+position: absolute;
+top: 0px;
+left: 0px;
+width: 220px;
+height: 20px;
+background-color: #4A4B4C;
+}
+
+.monthly2 {
+position: relative;
+top: 0px;
+left: 0px;
+width: 220px;
+height: 200px;
+margin-top:20px; 
+margin-left: auto; 
+margin-right: auto;
+}
+
+.full {
+position: absolute; 
+width: 220px;
+height:220px;
+border: 1px solid #4A4B4C;
+left: 425px;
+top: -1px;
+}
+
+.full1 {
+position: absolute;
+top: 0px;
+left: 0px;
+width: 220px;
+height: 20px;
+background-color: #4A4B4C;
+}
+
+
+.full2 {
+position: relative;
+top: 0px;
+left: 0px;
+width: 220px;
+height: 200px;
+margin-top:20px; 
+margin-left: auto; 
+margin-right: auto;
+}
+
+.summary {
+position: absolute; 
+width: 310px;
+height:220px;
+border: 1px solid #4A4B4C;
+left: 680px;
+top: -1px;
+}
+
+.summary1 {
+position: absolute;
+top: 0px;
+left: 0px;
+width: 310px;
+height: 20px;
+background-color: #4A4B4C;
+}
+
+
+.servtxt  {
+position: absolute;
+top: 3px;
+text-align: left;
+padding-left: 10px;
+font-size: 9pt;
+font-weight: 300;
+font-style: normal;
+/*font-family: "Arial","Helvetica","Times",serif;*/ font-family: "Open Sans", "Arial", "Helvetica", sans-serif;
+color: #FFFFFF;
+overflow: auto;
+z-index: 1;
+}
+
+.oBox3 {
+position: absolute;
+top: 20px;
+left: 0px;
+width: 305px;
+height: 197px;
+overflow: auto;
+}
+
+#membersInfoTab {
+position: relative;
+top: 35px;
+left: 0px;
+margin-bottom: 15px;
+margin-top: 15px;
+height: 30px;
+width: 500px;
+}
+
+
+#userForm1   {
+position: relative; 
+margin-left: auto; 
+margin-right: auto;
+top:  450px;
+left:10px;
+width: 995px;
+border: 1px solid #4A4B4C;
+z-index: 2;
+}
+
+
+
+
+
+.memHeader {
+position: absolute;
+top: 0px;
+left: 0px;
+width: 995px;
+height: 20px;
+background-color: #4A4B4C;
+}
+
+
+.memContact {
+position: relative;
+top: 3px;
+left: 0px;
+width: 995px;
+height: auto;
+margin-top:20px; 
+margin-bottom:10px; 
+margin-left: auto; 
+margin-right: auto;
+}
+
+#userForm2   {
+position: relative; 
+margin-left: auto; 
+margin-right: auto;
+top:  55px;
+left:10px;
+width: 995px;
+border: 1px solid #4A4B4C;
+z-index: 2;
+}
+
+#paymentInfoTab {
+position: relative;
+top: 510px;
+left: 0px;
+margin-bottom: 15px;
+margin-top: 15px;
+height: 30px;
+width: 500px;
+}
+
+#todaypay {
+position: relative;
+top:40px;
+left: 10px;
+height: 30px;
+width: 995px;
+}
+
+
+#secTab  {
+position: relative;
+width: 100%;
+border-collapse:collapse;
+}
+
+.buttonSign {
+border: 1px solid #616163;
+background: #4A4B4C;
+padding-left: 5px;
+padding-right: 5px;
+padding-top: 7px;
+padding-bottom: 7px;
+font-size: 8pt;
+font-weight: 200;
+font-style: normal;
+/*font-family: "Arial","Helvetica","Times",serif;*/ font-family: "Open Sans", "Arial", "Helvetica", sans-serif;
+color: #FCB040;
+}
+
+.buttonSign:hover {
+font-size: 8pt;
+font-weight: 200;
+font-style: normal;
+/*font-family: "Arial","Helvetica","Times",serif;*/ font-family: "Open Sans", "Arial", "Helvetica", sans-serif;
+color: #FFFFFF;
+}
+
+.buttonSubmit {
+border: 1px solid #616163;
+background: #4A4B4C;
+padding-left: 5px;
+padding-right: 5px;
+padding-top: 7px;
+padding-bottom: 7px;
+font-size: 8pt;
+font-weight: 200;
+font-style: normal;
+/*font-family: "Arial","Helvetica","Times",serif;*/ font-family: "Open Sans", "Arial", "Helvetica", sans-serif;
+color: #FCB040;
+}
+
+.buttonSubmit:hover {
+font-size: 8pt;
+font-weight: 200;
+font-style: normal;
+/*font-family: "Arial","Helvetica","Times",serif;*/ font-family: "Open Sans", "Arial", "Helvetica", sans-serif;
+color: #FFFFFF;
+}
+
+.buttonPrint {
+border: 1px solid #616163;
+background:  #4A4B4C;
+padding-left: 5px;
+padding-right: 5px;
+padding-top: 7px;
+padding-bottom: 7px;
+font-size: 8pt;
+font-weight: 200;
+font-style: normal;
+/*font-family: "Arial","Helvetica","Times",serif;*/ font-family: "Open Sans", "Arial", "Helvetica", sans-serif;
+color: #FCB040;
+}
+
+.buttonPrint:hover {
+font-size: 8pt;
+font-weight: 200;
+font-style: normal;
+/*font-family: "Arial","Helvetica","Times",serif;*/ font-family: "Open Sans", "Arial", "Helvetica", sans-serif;
+color: #FFFFFF;
+}
+
+
+.locationColor {
+color: #600000
+}
+
+
+.creditPay {
+position: relative; 
+top: 550px;
+left: 10px;
+width: 1000px;
+margin-left: auto; 
+margin-right: auto;
+z-index: 3;
+}
+
+.creditPay1 {
+position: absolute;
+top: 0px;
+left: 0px;
+width: 500px;
+height: 20px;
+background-color: #4A4B4C;
+}
+
+.creditPay2 {
+position: relative;
+top: 20px;
+left: 0px;
+width: 493px;
+margin-top:0px; 
+margin-left: 0px; 
+margin-right: auto;
+padding-left: 5px;
+padding-bottom: 5px;
+border: 1px solid #4A4B4C;
+}
+
+
+.bankPay1 {
+position: absolute;
+top: 0px;
+left: 499px;
+width: 498px;
+height: 20px;
+background-color: #4A4B4C;
+}
+
+.bankPay2 {
+position: absolute;
+top: 20px;
+left: 499px;
+width: 491px;
+margin-top:0px; 
+margin-left: auto; 
+margin-right: auto;
+padding-left: 5px;
+padding-bottom: 8px;
+border: 1px solid #4A4B4C;
+}
+
+
+.cashPay {
+position: relative; 
+top: 560px;
+width: 1000px;
+height: 55px;
+left: 10px;
+margin-left: auto; 
+margin-right: auto;
+z-index: 3;
+}
+
+.cashPay1 {
+position: absolute;
+top: 0px;
+left: 0px;
+width: 500px;
+height: 20px;
+background-color: #4A4B4C;
+}
+
+.cashPay2 {
+position: absolute;
+top: 20px;
+left: 0px;
+width: 498px;
+margin-top:0px; 
+margin-left: 0px; 
+margin-right: auto;
+padding-bottom: 4px;
+padding-top: 2px;
+border: 1px solid #4A4B4C;
+}
+
+
+.checkPay1 {
+position: absolute;
+top: 0px;
+left: 499px;
+width: 498px;
+height: 20px;
+background-color: #4A4B4C;
+}
+
+.checkPay2 {
+position: relative;
+top: 20px;
+left: 499px;
+width: 496px;
+margin-top:0px; 
+margin-left: 0px; 
+margin-right: auto;
+padding-bottom: 4px;
+padding-top: 2px;
+border: 1px solid #4A4B4C;
+}
+
+
+#printCont {
+position: relative;
+top: 35px;
+width: 995px;
+margin-left: 0px; 
+margin-right: auto;
+margin-bottom: 10px;
+padding-bottom: 20px;
+text-align: center;
+}
+
+
+#submitOrder {
+position: relative;
+top: -7px;
+left:500px;
+width: 495px;
+margin-left: 0px; 
+margin-right: auto;
+margin-bottom: 10px;
+text-align: center;
+}
+
+#memNum {
+visibility: hidden;
+}
+

@@ -1,0 +1,50 @@
+
+div.popHint div.menu_form_header {
+  position: absolute;
+  border: 1px solid black;
+  width: 270px;
+  padding-left: 7px;
+  line-height: 19px;
+  vertical-align: middle;
+  text-decoration: none;
+  text-align: left;
+  font-family: Arial;
+  font-weight: 500;
+  font-size:  11px;
+  color:   #000;
+  background-color: #C5C6C8;
+  cursor:  default;
+  margin: auto;
+  overflow: auto; 
+  z-index: 3;
+}
+
+
+div.popHint img.menu_form_exit {
+  float:  right;
+  margin: 0px 0px 0px 0px;
+  cursor: pointer;
+  z-index: 3;
+}
+
+
+.hintBut {
+color:#050; 
+font-family:  Arial; 
+font-weight: 900;
+font-size:  12px;
+text-align: center;
+background-color:#fed; 
+border:1px solid; 
+border-color: #696 #363 #363 #696;
+}
+
+.alignMiddle {
+vertical-align: middle;
+border: 0;
+} 
+
+.alignTop {
+vertical-align: top;
+border: 0;
+} 

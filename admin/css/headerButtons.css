@@ -1,0 +1,109 @@
+#headerButs {
+position: absolute;
+top:10px;
+width: 100%;
+}
+
+
+tr.searchFields {
+border: 0px;
+}
+
+table.searchTable {
+border-collapse:separate;
+border:  0px;
+}
+
+#headerButOne {
+margin-left: 80px;
+width: auto;
+float: left;
+
+    margin-left: 100px;
+}
+
+#headerButTwo {
+margin-right: 15px;
+width: auto;
+float: right;
+}
+
+#headerButThree {
+margin-right: 35px;
+width: auto;
+float: right;
+height:60px;
+}
+
+.clear { 
+clear: both;
+}
+
+.bord  {
+border: 0px;
+}
+
+.top {
+padding-top: 0px;
+
+}
+
+input.new_button { 
+background: transparent url(../images/new_member_but.png) no-repeat center top;
+width:201px; 
+height:42px;
+cursor: pointer;
+} 
+
+input.search_button { 
+background: transparent url(../images/search_but.png) no-repeat center top;
+width:126px; 
+height:49px;
+cursor: pointer;
+} 
+
+.buttonSched {
+   border-top: 1px solid #0dfc00;
+   background: #00ff09;
+   background: -webkit-gradient(linear, left top, left bottom, from(#42a650), to(#00ff09));
+   background: -webkit-linear-gradient(top, #42a650, #00ff09);
+   background: -moz-linear-gradient(top, #42a650, #00ff09);
+   background: -ms-linear-gradient(top, #42a650, #00ff09);
+   background: -o-linear-gradient(top, #42a650, #00ff09);
+   padding: 8px 16px;
+   -webkit-border-radius: 10px;
+   -moz-border-radius: 10px;
+   border-radius: 10px;
+   -webkit-box-shadow: rgba(0,0,0,1) 0 1px 0;
+   -moz-box-shadow: rgba(0,0,0,1) 0 1px 0;
+   box-shadow: rgba(0,0,0,1) 0 1px 0;
+   text-shadow: rgba(0,0,0,.4) 0 1px 0;
+   color: #000000;
+   font-size: 24px;
+   font-family: Georgia, serif;
+   text-decoration: none;
+   vertical-align: middle;
+   cursor: pointer;
+
+    color: #ffffff;
+    background: #6aa342;
+    background: #6ca439;
+    background: #009444;
+   }
+.buttonSched:hover {
+   border-top-color: #ff0303;
+   background: #ff0303;
+   color: #000000;
+   cursor: pointer;
+
+    color: #ffffff;
+    background: #a5228e;
+   }
+.buttonSched:active {
+   border-top-color: #1b435e;
+   background: #1b435e;
+   cursor: pointer;
+
+    background: #003a5d;
+   }
+   

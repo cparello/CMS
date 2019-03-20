@@ -1,0 +1,310 @@
+body{
+margin: 0px;
+background-color: #FFF;
+}
+
+#house1 {
+position: absolute; 
+top: 0px;
+height: 10in;
+width: 8in;
+margin: 0px;
+}
+
+#house2 {
+position: relative; 
+top: 10.3in;
+height: 10in;
+width: 8in;
+margin: 0px;
+}
+
+#house3 {
+position: relative; 
+top: 10.55in;
+height: 10in;
+width: 8in;
+margin: 0px;
+}
+
+#house4 {
+position: relative; 
+top: 10.8in;
+height: 10in;
+width: 8in;
+margin: 0px;
+}
+
+
+.logo {
+position: absolute; 
+top:  .25in;
+left: 0in;
+width: 3.2in;
+height: 1in;
+padding-top: .3in;
+padding-left: .5in;
+text-align: left;
+}
+
+.businessInfo {
+position: absolute; 
+top:  .25in;
+left: 5.75in;
+width: 2.3in;
+height: 1.4in;
+text-align: left;
+font-size: 1em;
+font-weight: 300;
+font-style: normal;
+font-family: "Arial","Helvetica","Times",serif;
+color:  #7E7F81
+}
+
+
+
+#title {
+position: relative; 
+top:  1.8in;
+left: .37in;
+width: 5in;
+height: 1in;
+text-align: left;
+font-size: 1em;
+font-weight: 300;
+font-style: normal;
+font-family: "Arial","Helvetica","Times",serif;
+color:  #7E7F81
+}
+
+img.displayed {
+display: block;
+margin-left: auto;
+margin-right: auto 
+}
+
+.grey1 {
+text-align: left;
+font-size: 1em;
+font-weight: 300;
+font-style: normal;
+font-family: "Arial","Helvetica","Times",serif;
+color:  #7E7F81
+}
+
+.grey2 {
+text-align: left;
+font-size: 1.2em;
+font-weight: 600;
+font-style: normal;
+font-family: "Arial","Helvetica","Times",serif;
+color:  #7E7F81
+}
+
+#nameDate {
+position: relative;
+top:  1.65in;
+left: .37in;
+width: 7in;
+height: .49in;
+border-bottom-style: double;
+text-align: left;
+font-size: 1em;
+font-weight: 300;
+font-style: normal;
+font-family: "Arial","Helvetica","Times",serif;
+color:  #000000
+}
+
+
+#paymentInfoTitle {
+position: relative;
+top:  2.1in;
+left: .37in;
+width: 6in;
+height: .25in;
+text-align: left;
+font-size: 1em;
+font-weight: 700;
+font-style: normal;
+font-family: "Arial","Helvetica","Times",serif;
+color:  #000000
+}
+
+
+#paymentInfoContent {
+position: relative;
+top:  2.1in;
+left: .51in;
+width: 6.05in;
+height: auto;
+border-top-style:  solid;
+border-top-width:2px;
+padding-top: .15in;
+padding-left: .8in;
+text-align: left;
+font-size: 1em;
+font-weight: 700;
+font-style: normal;
+font-family: "Arial","Helvetica","Times",serif;
+color:  #000000;
+}
+
+#deductAddTitle {
+position: relative;
+top:  2.4in;
+left: .33in;
+width: 6in;
+height: .25in;
+text-align: left;
+font-size: 1em;
+font-weight: 700;
+font-style: normal;
+font-family: "Arial","Helvetica","Times",serif;
+color:  #000000
+}
+
+#deductAddContent {
+position: relative;
+top:  2.39in;
+left: .51in;
+width: 6.05in;
+height: auto;
+border-top-style:  solid;
+border-top-width:2px;
+padding-top: .15in;
+padding-left: .8in;
+padding-bottom: .25in;
+text-align: left;
+font-size: 1em;
+font-weight: 700;
+font-style: normal;
+font-family: "Arial","Helvetica","Times",serif;
+color:  #000000;
+}
+
+
+.pad {
+padding-left: .8in;
+}
+
+.padTwo {
+padding-top: .15in;
+}
+
+.tA {
+text-align: center;
+}
+
+.tProps  {
+width: 90%;
+}
+
+.tBord {
+border-style: solid;
+border-width: 1px;
+padding-top: 8px;
+padding-bottom: 8px;
+font-size: 1em;
+font-weight: 300;
+font-style: normal;
+font-family: "Arial","Helvetica","Times",serif;
+color:  #666
+}
+
+.padBottom {
+padding-bottom: 3px;
+}
+
+
+#adjustment {
+position: relative;
+top: 2.5in;
+width: 6.9in;
+left: .33in;
+text-align: left;
+font-size: 1em;
+font-weight: 700;
+font-style: normal;
+font-family: "Arial","Helvetica","Times",serif;
+color:  #000000;
+border-top-style:  solid;
+border-top-width: 2px;
+border-bottom-style:  solid;
+border-bottom-width: 2px;
+padding-top: .15in;
+padding-bottom: .15in;
+padding-left: .15in;
+}
+
+#adjustment2 {
+position: relative;
+top: 2.7in;
+width: 6.9in;
+left: .33in;
+text-align: left;
+font-size: 1em;
+font-weight: 700;
+font-style: normal;
+font-family: "Arial","Helvetica","Times",serif;
+color:  #000000;
+border-top-style:  solid;
+border-top-width: 2px;
+border-bottom-style:  solid;
+border-bottom-width: 2px;
+padding-top: .15in;
+padding-bottom: .15in;
+padding-left: .15in;
+}
+
+#adjustment3 {
+position: relative;
+top: 3.5in;
+width: 6.9in;
+left: .33in;
+text-align: left;
+font-size: 1em;
+font-weight: 700;
+font-style: normal;
+font-family: "Arial","Helvetica","Times",serif;
+color:  #000000;
+border-top-style:  solid;
+border-top-width: 2px;
+border-bottom-style:  solid;
+border-bottom-width: 2px;
+padding-top: .15in;
+padding-bottom: .15in;
+padding-left: .15in;
+}
+
+#adjustment4 {
+position: relative;
+top: 4.0in;
+width: 6.9in;
+left: .33in;
+text-align: left;
+font-size: 1em;
+font-weight: 700;
+font-style: normal;
+font-family: "Arial","Helvetica","Times",serif;
+color:  #000000;
+border-top-style:  solid;
+border-top-width: 2px;
+border-bottom-style:  solid;
+border-bottom-width: 2px;
+padding-top: .15in;
+padding-bottom: .15in;
+padding-left: .15in;
+}
+
+#botPad {
+position: relative;
+top: 5.0in;
+padding-bottom: .2in;
+width: 6.9in;
+}
+
+
+
+
+

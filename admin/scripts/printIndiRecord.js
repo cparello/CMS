@@ -1,0 +1,5 @@
+function printIndiRecord() {
+
+window.print();
+
+}

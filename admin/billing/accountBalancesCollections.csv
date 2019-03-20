@@ -1,0 +1,610 @@
+firstname, midname, lastName, address, city, state, zip, 1stphone, 2ndPhone, 3rdPhone, amountDue, dateOfServiveDefault, refNum, origCreditor, service Description, ServiceWasForIfMinor, Email 
+Martin,,Aguilera,6135 Reseda Blvd Apt 212,Reseda,CA,91335,(805) 298-2041,(000) 000-0000,,48.00,2014-07-31 23:59:59,33360,Burbank Athletic Club,Monthly Membership,,snakeman_137@em.com 
+Victory,,Brown,3650 Regal Pl Apt 38,Los Angeles,CA,90068,(424) 200-0485,(000) 000-0000,,48.00,2014-07-31 23:59:59,29494,Burbank Athletic Club,Monthly Membership,,vbanastasia@yahoo.com 
+Francisco,,Vargas,123 Victory Blvd,N Hollywood,CA,91606,(000) 000-0000,(000) 000-0000,,50.00,2015-05-31 23:59:59,45394,Burbank Athletic Club,Monthly Membership,,none@email.com 
+Hagop,,Devedzhyan,336 W Providencia Ave,Burbank,CA,91506,(818) 726-8533,(000) 000-0000,,50.00,2015-05-31 23:59:59,26131,Burbank Athletic Club,Monthly Membership,,hyeway818@yahoo.com 
+Jaime,,Ditterline,327 Birmingham Rd,Burbank,CA,91504,(818) 392-7055,(000) 000-0000,,30.00,2014-07-31 23:59:59,25919,Burbank Athletic Club,Monthly Membership,,jditterline@prulite.com 
+Sonia,,Dobrzynski,4477 Colbath Ave Apt 1,Sherman Oaks,CA,91423,(000) 000-0000,(000) 000-0000,,48.00,2014-07-31 23:59:59,25877,Burbank Athletic Club,Monthly Membership,,svdski@gmail.com 
+Estella,,Garcia,5340 Cahuenga Blvd,N Hollywood,CA,91601,(818) 749-5114,(818) 749-5114,,90.00,2015-01-31 23:59:59,45534,Burbank Athletic Club,Monthly Membership,Michael Magana,none@email.com 
+Erick,,Flores,12009 Vanowen St #2,North Hollywood,CA,91605,(818) 203-2871,(000) 000-0000,,30.00,2014-07-31 23:59:59,24320,Burbank Athletic Club,Monthly Membership,,granados_erick@yahoo.com 
+Saleena,,Mariano,6624 Radford Ave,N. Hollywood,AL,91606,(818) 399-0391,(000) 000-0000,,86.00,2015-06-16 23:59:59,34441,Burbank Athletic Club,Monthly Membership,,None@email.com 
+Diana,,Ramos,7710 Bonner Ave,Sun Valley,CA,91352,(818) 626-0200,(000) 000-0000,,50.00,2015-05-31 23:59:59,46532,Burbank Athletic Club,Monthly Membership,,none@email.com 
+Lauren,,Williams,610 E San Jose #101,Burbank,AL,91501,(909) 919-8800,(000) 000-0000,,105.00,2015-05-16 23:59:59,33977,Burbank Athletic Club,Monthly Membership,,laurennicholewilliams@yahoo.com 
+Victor,Manuel,Lopez,12380 Filmore St,Sylmar,CA,91342,(818) 934-3009,(818) 934-3009,,30.00,2015-07-31 23:59:59,46527,Burbank Athletic Club,Monthly Membership,,none@none.com 
+Ashley,,Hellebrandt,2133 N Dymond ST,Burbank,CA,91505,(818) 378-9121,(000) 000-0000,,40.00,2015-07-01 23:59:59,46518,Burbank Athletic Club,Monthly Membership,,none@email.com 
+Rose,Elia,Johnson,630 E. Orange Grove Ave. Apt. A,Burbank,CA,91505,(818) 588-3711,(747) 200-7526,,40.00,2015-07-01 23:59:59,46130,Burbank Athletic Club,Monthly Membership,,none@none.com 
+Martha,,Gallegos,1440 W. Jefferson Blvd,Los Angeles,CA,90007,(213) 446-5890,(000) 000-0000,,100.00,2014-12-31 23:59:59,46396,Burbank Athletic Club,Monthly Membership,,none@email.com 
+manuel,,vasquez,1424 N Hollywood,Way,CA,91505,(213) 321-5316,(213) 321-5316,,90.00,2015-01-31 23:59:59,45507,Burbank Athletic Club,Monthly Membership,,none@email.com 
+ANGELA,,GALLEGOS-LOPEZ,7872 CLABECK AVE,SUN VALLEY,CA,91352,(000) 000-0000,(323) 327-2413,,100.00,2014-12-31 23:59:59,46494,Burbank Athletic Club,Monthly Membership,,KELLYGALLEGOS694@HOTMAIL.COM 
+Rachelle,,Rountree,1841 N Pass Ave,Burbank,CA,91505,(818) 736-2725,(000) 000-0000,,60.00,2015-05-01 23:59:59,8064,Burbank Athletic Club,Monthly Membership,,stlesbyshell@gmail.com 
+Maria,,Ramos,7710  Bonner Ave,Sun Valley,CA,91352,(818) 626-0207,(000) 000-0000,,50.00,2015-05-31 23:59:59,46533,Burbank Athletic Club,Monthly Membership,,none@email.com 
+Xing,,Xu,1200 W Riverside Dr Apt 262,Burbank,CA,91506,(323) 479-3769,(000) 000-0000,,30.00,2015-07-31 23:59:59,1714,Burbank Athletic Club,Monthly Membership,,xetnoc528@gmail.com 
+Tatevik,A,Shaumyan,1133 Raymond Ave,Glendale,CA,91201,(818) 624-0955,(000) 000-0000,,30.00,2015-07-30 23:59:59,46804,Burbank Athletic Club,Monthly Membership,,andreashaum@gmail.com 
+Karen,,Dorvilus,11659 Hamlin Street Apt 2,North Hollywood,CA,91606,(424) 216-8403,(000) 000-0000,,60.00,2015-05-01 23:59:59,45863,Burbank Athletic Club,Monthly Membership,,afterain84@yahoo.com 
+Estella,,Garcia,5340 Cahuenga Blvd,N Hollywood,CA,91601,(818) 749-5114,(818) 749-5114,,90.00,2015-01-31 23:59:59,45533,Burbank Athletic Club,Monthly Membership,Javier Solis,none@email.com 
+carlos,jose,ramos,3437 s la brea ave,los angeles,CA,90016,(323) 252-4901,(323) 556-4075,,124.00,2015-03-31 23:59:59,45012,Burbank Athletic Club,Monthly Membership,,jonnyramos92@yahoo.com 
+Ana,,Gallegos,1758 S. Middle Pl,Los Angeles,CA,90062,(323) 684-7277,(000) 000-0000,,100.00,2014-12-31 23:59:59,46395,Burbank Athletic Club,Monthly Membership,,none@email.com 
+Susan,,Contreras,1028 Justin Ave,Glendale,CA,91201,8184518036,(000)-000-0000,,70.00,2015-03-31 23:59:59,45972,Burbank Athletic Club,Monthly Membership,,gilbertstickers@aol.com 
+Michael,,Vichyonan,801 W. Windsor Rd.,Glendale,CA,91205,(586) 819-6868,(586) 819-6868,,40.00,2015-07-01 23:59:59,45828,Burbank Athletic Club,Monthly Membership,,none@none.com 
+Luis,,Lupercio,7919 Satsuma Ave,Sun Valley,CA,91352,(818) 765-1848,(818) 397-7827,,60.00,2015-05-01 23:59:59,45827,Burbank Athletic Club,Monthly Membership,,none@none.com 
+Eric,,Yeroshek,3954 Glenfeliz Blvd,Los Angeles,CA,90039,(530) 304-6301,(000) 000-0000,,50.00,2015-05-31 23:59:59,45631,Burbank Athletic Club,Monthly Membership,,none@email.com 
+DANA,,HIETT,1304 W BURBANK BLVD,BURBANK,CA,91506,(000) 000-0000,(213) 587-2782,,90.00,2015-01-31 23:59:59,45627,Burbank Athletic Club,Monthly Membership,,GEANJJONES55@LIVE.COM 
+Tyler,,Christman,10149 Colwell,Sun Valley,CA,91352,(262) 504-9963,(262) 504-9963,,90.00,2015-01-31 23:59:59,45551,Burbank Athletic Club,Monthly Membership,,none@email.com 
+Jessica,,Henning,227 S Cardondelet ST,Los angeles,CA,90057,(612) 607-9665,(612) 607-9665,,60.00,2015-05-01 23:59:59,45503,Burbank Athletic Club,Monthly Membership,,none@email.com 
+MEDIK,,ATAMNIAN,2041 5 TH ST APT 201,Glendale,CA,91201,(000) 000-0000,(818) 653-3265,,20.00,2014-08-31 23:59:59,45481,Burbank Athletic Club,Monthly Membership,,MEDIK.ATAMIAN@YAHOO.COM 
+Jesse,,Alvarez,14148 Hamlin St,Van Nuys,CA,91401,(818) 447-5376,(818) 447-5376,,130.00,2014-10-01 23:59:59,45354,Burbank Athletic Club,Monthly Membership,,none@email.com 
+Miguel,,cosme,10500 virginia ave,south gate,CA,90280,(323) 359-0623,(323) 359-0623,,60.00,2015-05-01 23:59:59,45313,Burbank Athletic Club,Monthly Membership,,none@email.com 
+Janet,,Villalobos,10355,pacoima,CA,91331,(818) 317-5945,(000) 000-0000,,124.00,2004-04-17 23:59:59,34341,Burbank Athletic Club,Monthly Membership,,none@none.com 
+HOVANES,,VIRABIAN,14740 ERWIN ST APT 104,VAN NUYS,CA,91411,(818) 988-7873,(818) 926-3293,,86.00,2014-06-16 23:59:59,34432,Burbank Athletic Club,Monthly Membership,,HOVO_31@YAHOO.COM 
+Raul,,Guzman,10215 East Ave,Little Rock,CA,93543,(661) 944-6141,(000) 000-0000,,181.00,2015-01-16 23:59:59,34757,Burbank Athletic Club,Monthly Membership,,sk8ing029@gmail.com 
+Jasmin,,Arias,6612 Ensign Ave.,North Hollywood,CA,91606,(818) 397-9283,(818) 397-9283,,30.00,2014-07-31 00:00:00,47079,Burbank Athletic Club,Monthly Membership,,none@none.com 
+Saul,,Ayon,112 Elm ave apt A,GLENDALE,CA,91201,(000) 000-0000,(000) 000-0000,,30.00,2015-07-30 23:59:59,46851,Burbank Athletic Club,Monthly Membership,,none@email.com 
+Patrick,,Whitney,1137 Winchester ave apt A,Glendale,CA,91201,(000) 000-0000,(209) 810-1334,,-332.00,2014-12-31 23:59:59,34248,Burbank Athletic Club,Monthly Membership,,patrickwhitney@rocketmail.com 
+Marcos,,Rodriguez,8100 Natick Ave,Panorama,CA,91402,(818) 916-7996,(818) 916-7996,,48.00,2015-07-30 23:59:59,34290,Burbank Athletic Club,Monthly Membership,,mrmarcosra91606@gmail.com 
+Martin,,Castro,7314 Hinds Ave apt 6,N. Hollywood,AL,91605,(818) 559-0974,(000) 000-0000,,181.00,2015-01-16 23:59:59,34439,Burbank Athletic Club,Monthly Membership,,None@email.com 
+Martin,,Perez,14037 Oxnard St #31,Van Nuys,CA,91401,(818) 814-1134,(000) 000-0000,,181.00,2015-01-16 23:59:59,34440,Burbank Athletic Club,Monthly Membership,,None@email.com 
+Steven,,Martinez,8654 Sunland Blvd apt 207,Sun Valley,AL,91352,(818) 470-2838,(818) 470-2838,,219.00,2014-11-16 23:59:59,34461,Burbank Athletic Club,Monthly Membership,,steven.martinez96@yahoo.com 
+James M,,Hernandez,1723 Grismer Ave B15,burbank,AL,91504,(818) 568-2626,(000) 000-0000,,143.00,2015-03-16 23:59:59,34451,Burbank Athletic Club,Monthly Membership,,jamesh1010@yahoo.com 
+Alineh,,Megherdich,1328 East Wilson Ave apt 6,Glendale,ca,91206,(818)-640-4294,(000)-000-000,,86.00,2015-06-16 23:59:59,33978,Burbank Athletic Club,Monthly Membership,,almegherdich@yahoo.com 
+Terron,J,McElroy,10741 Moorpark St. Apt 9,Toluca Lake,CA,91602,(818) 392-0273,(000) 000-0000,,40.00,2015-07-01 23:59:59,46783,Burbank Athletic Club,Monthly Membership,,terronmac@gmail.com 
+Gabriela,,Raya,7422 Cartwright Ave,Sun Valley,ca,91352,(818)-219-7636,(000)-000-000,,155.00,2014-05-16 23:59:59,34445,Burbank Athletic Club,Monthly Membership,,None@email.com 
+sandra,,day,1005 w verdugo ave,burbank,CA,91505,(818) 471-7509,(818) 471-7509,,80.00,2015-03-03 23:59:59,45506,Burbank Athletic Club,Monthly Membership,,none@email.com 
+Jessica,Briones,De Ramirez,14141 Erwin st Apt 8,van nuys,CA,91401,(818) 359-3570,(818) 359-3570,,48.00,2015-08-16 23:59:59,33949,Burbank Athletic Club,Monthly Membership,,jess.ram1978@gmail.com 
+Diego,,Sanchez,1234 North Maple,burbank,AL,91505,(818) 934-7211,(818) 309-6935,,67.00,2015-07-16 23:59:59,34436,Burbank Athletic Club,Monthly Membership,,dsanchez1698@yahoo.com 
+Martin,,Duirdo,14037 Oxnard St #31,Van Nuys,CA,91401,(818) 814-1134,(818) 814-1134,,181.00,2015-01-16 23:59:59,34107,Burbank Athletic Club,Monthly Membership,Martin Castro,none@email.com 
+Erika,,Skinlo,1141 N Orchard Dr,burbank,CA,91506,(714) 910-3953,(000) 000-0000,,-338.00,2015-07-16 23:59:59,34457,Burbank Athletic Club,Monthly Membership,,erik.neno@gmail.com 
+Olivia,J,Rowe,11930 Saticoy Street,North Hollywood,CA,91605,5704478899,(000)-000-0000,,70.00,2015-03-31 23:59:59,45371,Burbank Athletic Club,Monthly Membership,,ojwit@aol.com 
+Celia,J,Reid,11659 Hamlin Street Apt 2,North Hollywood,CA,91606,(424) 216-8403,(000) 000-0000,,60.00,2015-04-30 23:59:59,45966,Burbank Athletic Club,Monthly Membership,,celiajeninereid@gmail.com 
+Maria,,Castillo,1005 W Angeleno Ave Apt C,Burbank,CA,91506,8185883123,(000)-000-0000,,70.00,2015-03-31 23:59:59,46085,Burbank Athletic Club,Monthly Membership,,mariadchavez55@gmail.com 
+Mike,A,Vega,3900 W. Heffron Drive,Burbank,CA,91505,(310) 770-5616,(000) 000-0000,,90.00,2015-01-31 23:59:59,46097,Burbank Athletic Club,Monthly Membership,,gotitmike@sbcglobal.net 
+Efren,,Perez,11415 tiara street,North Hollywood,CA,91603,8188523294,(000)-000-0000,,70.00,2015-03-31 23:59:59,46144,Burbank Athletic Club,Monthly Membership,,efren_perez11@hotmail.com 
+chris,,parello,123 harmony way,burbank,KY,91504,(999) 999-9999,(999) 999-9999,,40.00,2015-06-30 23:59:59,46328,Burbank Athletic Club,Monthly Membership,,hancockjs084@gmail.com 
+Carlo,,St Juste Jr,8557 Remick Ave,Sun Valley,CA,91352,(818) 527-2356,(000) 000-0000,,70.00,2015-03-31 23:59:59,46563,Burbank Athletic Club,Monthly Membership,,cstjuste@live.com 
+Erin,,Schutt,5038 cahuenga blvd #7,north hollywood,CA,91601,(321) 298-9459,(000) 000-0000,,100.00,2014-12-31 23:59:59,46407,Burbank Athletic Club,Monthly Membership,,erin.eliz.welch@gmail.com 
+Janet,,Garcia,6056,North Hollywood,CA,91606,(818) 922-5585,(000) 000-0000,,30.00,2015-07-31 23:59:59,46265,Burbank Athletic Club,Monthly Membership,,none@email.com 
+Matthew,,Magallon,3631 Figueroa St,Glendale,CA,91206,(818) 919-5969,(818) 919-5969,,50.00,2015-05-31 23:59:59,46210,Burbank Athletic Club,Monthly Membership,,none@email.com 
+Paolo,,Chuidian,1123 N Florence St,Burbank,CA,91505,(818) 276-5552,(818) 276-5552,,40.00,2015-07-01 23:59:59,46174,Burbank Athletic Club,Monthly Membership,,none@email.com 
+karit,y,alvarado,7661 beck ave,north Hollywood,CA,91605,(818) 748-5385,(000) 000-0000,,50.00,2015-05-31 23:59:59,46118,Burbank Athletic Club,Monthly Membership,,lacandy_75@yahoo.com 
+Alvaro,,Alvarenga,1302 N Gordon st,Hollywood,CA,90028,(562) 479-2109,(562) 479-2109,,80.00,2015-03-03 23:59:59,46099,Burbank Athletic Club,Monthly Membership,,none@email.com 
+Rosemary,,Hurtado,6530 Vineland Apt 111,North Hollywood,CA,91606,(818) 912-4643,(000) 000-0000,,70.00,2015-03-31 23:59:59,46082,Burbank Athletic Club,Monthly Membership,,none@none.com 
+Michael,,Parker,6654 Kostruras PL,Winnetka,CA,91306,(818) 212-3481,(000) 000-0000,,60.00,2015-05-01 23:59:59,45870,Burbank Athletic Club,Monthly Membership,,none@email.com 
+Erving,Robert,Leon,13350 Eustace St.,Pacoima,CA,91331,(818) 624-5123,(818) 624-5123,,30.00,2015-07-31 23:59:59,46572,Burbank Athletic Club,Monthly Membership,,none@none.com 
+Dajshanae,K,Elliott,300 W Tujunga Ave,Burbank,CA,91502,(818) 823-3447,(000) 000-0000,,50.00,2015-05-31 23:59:59,46916,Burbank Athletic Club,Monthly Membership,Dajshanae Elliott,swyteness@gmail.com 
+Tomi,C,Stewart,300 W Tujunga Ave,Burbank,CA,91502,(818) 441-2329,(000) 000-0000,,50.00,2015-05-31 23:59:59,46915,Burbank Athletic Club,Monthly Membership,,swyteness@gmail.com 
+Jeffrey,,Chaney,603 E. Verdugo,Burbank,CA,91501,(248) 330-6381,(248) 330-6381,,30.00,2015-07-31 23:59:59,46443,Burbank Athletic Club,Monthly Membership,,jeffrey.a.chaney@gmail.com 
+tadeh,,aghoorian,1326 n colombus ave apt14,Glendale,CA,91202,8184898881,(000)-000-0000,,30.00,2014-07-31 23:59:59,47145,Burbank Athletic Club,Monthly Membership,,nareh_shahbazian@yahoo.com 
+Blas,,Muro,1075 7 hortense,toluca lake,CA,91602,(000) 000-0000,(323) 359-9667,,40.00,2015-07-01 23:59:59,47149,Burbank Athletic Club,Monthly Membership,,none@none.com 
+Marietha,,Dubin,3010 W Victory Blvd,Burbank,CA,91505,(818) 515-0651,(000) 000-0000,,50.00,2015-05-31 23:59:59,47116,Burbank Athletic Club,Monthly Membership,,none@email.com 
+Esmeralda,,Sepulveda,6707 Camilla ave,N Hollywood,CA,91606,(661) 348-0694,(000) 000-0000,,50.00,2015-05-31 23:59:59,46982,Burbank Athletic Club,Monthly Membership,,none@email.com 
+Hubera,,Pineda Amaya,5851 Whitnall Hwy Apt 7,N hollywood,CA,91601,(818) 571-5609,(818) 571-5609,,100.00,2014-12-31 23:59:59,46961,Burbank Athletic Club,Monthly Membership,,none@email.com 
+Josefina,,Dobin,11530 Dearborn Port,Pacoima,CA,91331,(917) 704-2131,(000) 000-0000,,50.00,2015-05-31 23:59:59,46920,Burbank Athletic Club,Monthly Membership,,none@email.com 
+Arrik,,McQueen,6904 Radford ave apt 8,North Hollywood,CA,91605,(000) 000-0000,(818) 397-7624,,100.00,2014-12-31 23:59:59,46154,Burbank Athletic Club,Monthly Membership,,none@none.com 
+Yadhira,,Newman,1600 N San Fernando Blvd Apt 104,burbank,CA,91504,(818) 736-2699,(000) 000-0000,,100.00,2014-12-31 23:59:59,46136,Burbank Athletic Club,Monthly Membership,,yadhira72@gmail.com 
+Tracy,,Fisher,28326 Arroyo CT,Castic,CA,91384,(661) 400-5393,(661) 400-5393,,30.00,2015-07-31 23:59:59,46867,Burbank Athletic Club,Monthly Membership,,none@none.com 
+Jessica,,Quintanilla,1992 N. Ontario St,Burbank,CA,91505,(818) 562-0793,(818) 562-0793,,90.00,2015-01-31 23:59:59,46811,Burbank Athletic Club,Monthly Membership,,none@email.com 
+Andres,,Campos,345 E Verdugo Ave,Burbank,CA,91505,(818) 844-7137,(999) 999-9999,,30.00,2015-07-31 23:59:59,46687,Burbank Athletic Club,Monthly Membership,,none@email.com 
+Helen,,Siajes-morillo,11258 hatteras st unit 1,North Hollywood,CA,91601,(000) 000-0000,(818) 799-1859,,40.00,2015-07-01 23:59:59,46653,Burbank Athletic Club,Monthly Membership,,none@none.com 
+narbeh,,shanazarian,8188 glencrest drive,sun valley,CA,91352,(818) 300-8532,(000) 000-0000,,70.00,2015-03-28 23:59:59,46726,Burbank Athletic Club,Monthly Membership,narbeh shanazarian,natashatadros@gmail.com 
+Kyle,,Irmiter,888 N Alameda St Apt 226E,Los Angeles,CA,90012,(818) 934-3354,(818) 934-3354,,50.00,2015-05-31 23:59:59,47935,Burbank Athletic Club,Monthly Membership,,none@none.com 
+Deryck,,Martinez,1920 Clark ave,Burbank,CA,91505,(000) 000-0000,(000) 000-0000,,40.00,2015-07-01 23:59:59,47247,Burbank Athletic Club,Monthly Membership,,none@none.com 
+JENNIFER,,MARTINEZ,7617 KRAST AVE.,NORTH HOLLYWOOD,CA,91605,(000) 000-0000,(818) 220-6573,,70.00,2015-05-31 23:59:59,47892,Burbank Athletic Club,Monthly Membership,,none@none.com 
+Ashley,,Holbrooks,1171 Allen Ave Apt 109,Glendale,CA,91201,(818) 565-9768,(818) 565-9768,,60.00,2015-05-01 23:59:59,47656,Burbank Athletic Club,Monthly Membership,,ashleyholbrooks@gmail.com 
+Joseph,,Luntumbuez,2204 N. Valley St.,Burbank,CA,91505,(310) 562-6347,(310) 562-6347,,100.00,2014-12-31 23:59:59,47644,Burbank Athletic Club,Monthly Membership,,email@email.com 
+Alysia,,Hart,5419 Hollywood Blvd. C168,Hollywood,CA,90027,(323) 508-1759,(323) 508-1759,,100.00,2014-12-31 23:59:59,47641,Burbank Athletic Club,Monthly Membership,,none@none.com 
+Steven,,Medley,5419 Hollywood Blvd. C168,Hollywood,CA,90027,(323) 508-1759,(323) 508-1759,,100.00,2014-12-31 23:59:59,47640,Burbank Athletic Club,Monthly Membership,,none@none.com 
+Merisa,A,Muljat,1607 W Kenneth Rd,Glendale,CA,91201,(818) 572-7319,(000) 000-0000,,90.00,2015-01-31 23:59:59,47628,Burbank Athletic Club,Monthly Membership,,merisatorneo@gmail.com 
+Tiffany,,Parker,1924 Church ST,Burbank,CA,91504,(615) 631-0444,(000) 000-0000,,50.00,2015-05-31 23:59:59,47623,Burbank Athletic Club,Monthly Membership,,none@email.com 
+Tyren,Charmaine,Perry,P.O. Box 701,Burbank,CA,91503,(818) 679-3858,(818) 679-3858,,60.00,2015-05-01 23:59:59,47538,Burbank Athletic Club,Monthly Membership,,none@none.com 
+Patrick,,Hogg,PO Box 2133,Burbank,CA,91505,(909) 630-8447,(000) 000-0000,,40.00,2015-07-01 23:59:59,47510,Burbank Athletic Club,Monthly Membership,,none@none.com 
+emily grace,,frazier,9730 rotta ave,sunland,CA,91040,(000) 000-0000,(818) 326-9735,,60.00,2015-05-01 23:59:59,47500,Burbank Athletic Club,Monthly Membership,,emilygfrazier@yahoo.com 
+joshua derrell,,wright,1617 n naomi st,Burbank,CA,91505,(000) 000-0000,(818) 846-3215,,70.00,2015-03-31 23:59:59,47499,Burbank Athletic Club,Monthly Membership,,joshd_wright@hotmail.com 
+Anthony,,Koshkarian,6637 Riverton,N Hollywood,CA,91606,(818) 309-8991,(000) 000-0000,,40.00,2015-07-01 23:59:59,47478,Burbank Athletic Club,Monthly Membership,,none@email.com 
+JEREMY,,MORRIS,4105 W MAGNOLIA BLVD UNIT B,BURBANK,CA,91505,(000) 000-0000,(626) 319-9052,,90.00,2015-01-31 23:59:59,47470,Burbank Athletic Club,Monthly Membership,,none@none.com 
+JULIAN,,HARRIS,33 GEARY CIR,SALINAS,CA,93907,(000) 000-0000,(831) 809-6465,,70.00,2015-03-31 23:59:59,47469,Burbank Athletic Club,Monthly Membership,,none@none.com 
+Juan,,Rodriguez,5321 Harmony Ave,N Hollywood,CA,91601,(818) 471-5008,(818) 471-5008,,90.00,2015-01-31 23:59:59,47387,Burbank Athletic Club,Monthly Membership,,none@email.com 
+Ivan,,Mayorga,6610 Whitsett Avenue,North Hollywood,CA,91605,(818) 284-0052,(000) 000-0000,,50.00,2015-05-31 23:59:59,47367,Burbank Athletic Club,Monthly Membership,,none@none.com 
+Alletta,,Mayorga,6610 Whitsett Avenue,North Hollywood,CA,91606,(818) 653-8451,(000) 000-0000,,50.00,2015-05-31 23:59:59,47366,Burbank Athletic Club,Monthly Membership,,none@none.com 
+Blanca,,Flores,6113 Clyburn Ave #57,North Hollywood,CA,91606,(818) 205-6689,(000) 000-0000,,40.00,2015-07-01 23:59:59,47325,Burbank Athletic Club,Monthly Membership,,cookiesrule2520@gmail.com 
+Isidro,,Ocampo,PO Box 2133,Burbank,CA,91505,(818) 471-6478,(000) 000-0000,,60.00,2015-05-01 23:59:59,47273,Burbank Athletic Club,Monthly Membership,,none@none.com 
+Erica,,Yepez,PO Box 2133,Burbank,CA,91505,(818) 471-6290,(000) 000-0000,,60.00,2015-05-01 23:59:59,47274,Burbank Athletic Club,Monthly Membership,,none@none.com 
+BRIAN,,GLANVILLE,2416 W VICTORY BLVD Num117,Burbank,CA,91506,(000) 000-0000,(818) 433-8542,,60.00,2015-05-01 23:59:59,47811,Burbank Athletic Club,Monthly Membership,,none@none.com 
+BRIEANNE,,GLANVILLE,2416 W VICTORY BLVD Num117,BURBANK,CA,91506,(000) 000-0000,(818) 433-8544,,60.00,2015-05-01 23:59:59,47810,Burbank Athletic Club,Monthly Membership,,none@none.com 
+SHARON,,BARCLAY,2416 W VICTORY BLVD Num117,Burbank,CA,91506,(000) 000-0000,(818) 433-8860,,60.00,2015-05-01 23:59:59,47809,Burbank Athletic Club,Monthly Membership,,none@none.com 
+LERNIK,,ALEKSAN,1136 WINCHESTER AVE APT 101,Glendale,CA,91201,(000) 000-0000,(000) 000-0000,,40.00,2015-07-01 23:59:59,47952,Burbank Athletic Club,Monthly Membership,,none@none.com 
+Lori,,Ortiz,915 E cedar ave,burbank,CA,91501,(818) 441-6413,(818) 441-6413,,60.00,2015-05-01 23:59:59,47394,Burbank Athletic Club,Monthly Membership,,none@email.com 
+Derrick,,Garcia,10920 Hesby st,Toluca Terrace,CA,91601,(818) 850-9008,(000) 000-0000,,50.00,2015-05-31 23:59:59,47285,Burbank Athletic Club,Monthly Membership,,none@email.com 
+Vanessa,,Morejon,226 N frederic St,Burbank,CA,91502,(818) 612-1473,(818) 612-1473,,169.92,2015-01-31 23:59:59,46025,Burbank Athletic Club,Monthly Membership,,none@email.com 
+Cristian,,Orozco,11321 Runnymede St,Sun Valley,CA,91352,(818) 660-3642,(818) 660-3642,,70.00,2015-03-31 23:59:59,45330,Burbank Athletic Club,Monthly Membership,,crisorozco95@yahoo.com 
+HOVANES,,VIRABIAN,14740 ERWIN ST APT 104,VAN NUYS,CA,91411,(818) 988-7873,(818) 926-3293,,29.00,2014-09-16 00:00:00,34432,Burbank Athletic Club,Monthly Membership,,HOVO_31@YAHOO.COM 
+Elena,E,Herrera,2317 West Blvd,Los Angeles,CA,90016,(323) 947-8322,(000) 000-0000,,70.00,2015-03-31 23:59:59,46833,Burbank Athletic Club,Monthly Membership,,elena.herrera3@hotmail.com 
+MEDIK,,ATAMNIAN,2041 5 TH ST APT 201,Glendale,CA,91201,(000) 000-0000,(818) 653-3265,,100.00,2014-12-31 00:00:00,45481,Burbank Athletic Club,Monthly Membership,,MEDIK.ATAMIAN@YAHOO.COM 
+RAQUEL ANDREINA,,HEBELER,251 W VERDUGO AVE B,Burbank,CA,91502,(000) 000-0000,(818) 445-6941,,90.00,2015-01-30 23:59:59,47601,Burbank Athletic Club,Monthly Membership,,none@none.com 
+Chris,D,Estrada,17360 Sarita Ave,Canyon Country,CA,91387,(818) 219-3886,(000) 000-0000,,40.00,2015-07-01 23:59:59,48433,Burbank Athletic Club,Monthly Membership,,christopher.estrada.0@gmail.com 
+Ismael,,Valles,12958 goleta st,Pacoima,CA,91331,(818) 288-8571,(000) 000-0000,,100.00,2014-12-31 23:59:59,48361,Burbank Athletic Club,Monthly Membership,,ismael.valles@gmail.com 
+Satu,,Rautaharju,451 B North Shelton Street,Burbank,CA,91506,(347) 579-6375,(000) 000-0000,,70.00,2015-03-31 23:59:59,48353,Burbank Athletic Club,Monthly Membership,,satu.makeda@gmail.com 
+Keenan,,Stott,7300 Lankershim Blvd Apt 262,North Hollywood,CA,91608,(901) 679-4883,(901) 679-4883,,90.00,2015-01-31 23:59:59,48278,Burbank Athletic Club,Monthly Membership,,none@none.com 
+Jannet,,Gonzalez,14045 Oxnard St APT 304,Van Nuys,CA,91401,(818) 809-3523,(818) 809-3523,,90.00,2015-01-31 23:59:59,48193,Burbank Athletic Club,Monthly Membership,,none@none.com 
+Max,A,Pote,10832 Otsego St.,North Hollywood,CA,91601,(615) 574-8806,(000) 000-0000,,60.00,2015-05-01 23:59:59,48154,Burbank Athletic Club,Monthly Membership,,maxwell.a.pote@gmail.com 
+Jorge,,Jimenez,8619 Robert Ave,Sun Valley,CA,91352,(818) 509-4698,(818) 509-4698,,90.00,2015-01-31 23:59:59,48128,Burbank Athletic Club,Monthly Membership,,none@email.com 
+Delfina,,Zuniga,250 S Reno St Apt 12,Los Angeles,CA,90057,(213) 572-8538,(213) 572-8538,,90.00,2015-01-31 23:59:59,48127,Burbank Athletic Club,Monthly Membership,,none@email.com 
+Maria,,Flores,10950 Saticoy ST Apt 25,Sun Valley,CA,91352,(818) 281-8776,(000) 000-0000,,30.00,2015-07-31 23:59:59,48019,Burbank Athletic Club,Monthly Membership,,none@email.com 
+Grikor,,Dovlatian,14635 Hart ST,Van Nuys,CA,91405,(818) 472-4254,(000) 000-0000,,80.00,2015-03-03 23:59:59,47993,Burbank Athletic Club,Monthly Membership,,none@email.com 
+Krystal,W,Keables,2415 N Myers St,Burbank,CA,91504,(818) 239-6129,(000) 000-0000,,30.00,2015-07-31 23:59:59,47980,Burbank Athletic Club,Monthly Membership,,krystalkeables@aol.com 
+JAKELINE,,SANCHEZ,10729 NEWHAVEN ST APT 36,SUN VALLY,CA,91352,(818) 795-8805,(000) 000-0000,,190.00,2014-10-01 23:59:59,48033,Burbank Athletic Club,Monthly Membership,,none@none.com 
+MEGHEDIE,,PARTIAI,614 VERDUGO AVE APT T 208,BURBANK,CA,91501,(818) 720-0479,(000) 000-0000,,10.00,2015-05-31 23:59:59,48468,Burbank Athletic Club,Monthly Membership,,none@none.com 
+Robert,,Naughton,713 James town rd,Burbank,CA,91504,(000) 000-0000,(818) 427-3843,,40.00,2015-07-01 23:59:59,45296,Burbank Athletic Club,Monthly Membership,,none@none.com 
+Cris,,Hernandez,6423 Tujunga Ave apt 2,N Hollywood,CA,91606,(818) 660-3283,(818) 660-3283,,50.00,2015-05-30 23:59:59,46390,Burbank Athletic Club,Monthly Membership,,crish22381@yahoo.com 
+Christopher,,Velez,7101 Whitsett Ave Apt 2,N Hollywood,CA,91605,(951) 210-8033,(000) 000-0000,,70.00,2015-03-31 23:59:59,48289,Burbank Athletic Club,Monthly Membership,,none@email.com 
+Amesha,,Velez,7101 Whitsett Ave Apt 2,N Hollywood,CA,92404,(951) 210-8054,(000) 000-0000,,70.00,2015-03-31 23:59:59,48288,Burbank Athletic Club,Monthly Membership,,none@email.com 
+MEDIK,,ATAMNIAN,2041 5 TH ST APT 201,Glendale,CA,91201,(000) 000-0000,(818) 653-3265,,130.00,2014-10-01 00:00:00,45481,Burbank Athletic Club,Monthly Membership,,MEDIK.ATAMIAN@YAHOO.COM 
+Michael,P,Thomas,913 Tufts Avenue,Burbank,CA,91504,818-642-6469,(000)-000-0000,,15.00,2014-08-31 23:59:59,45647,Burbank Athletic Club,Monthly Membership,,mike@mtccs.net 
+RAQUEL,,CRISTOBAL,336 N ISABEL ST APT 2,GLENDALE,CA,91206,(818) 636-7573,(000) 000-0000,,82.00,2015-06-30 23:59:59,48634,Burbank Athletic Club,Monthly Membership,,none@none.com 
+michael kim,,donahoo,5062 lankershim blvd apt 2026,NORTH HOLLYWOOD,CA,91601,(000) 000-0000,(000) 000-0000,,90.00,2015-01-31 23:59:59,48638,Burbank Athletic Club,Monthly Membership,,none@none.com 
+Vladimir,,Cassel,7526 Laurel Cyn Blvd Apt 101,N Hollywood,CA,91605,(818) 693-1825,(000) 000-0000,,60.00,2015-05-01 23:59:59,48675,Burbank Athletic Club,Monthly Membership,,none@email.com 
+Alex,Steven,Popovici,531 N Reese Pl,Burbank,CA,91506,(818) 319-7045,(818) 319-7045,,80.00,2015-03-03 23:59:59,48747,Burbank Athletic Club,Monthly Membership,,none@none.com 
+Michael,,Knight,5009 Denny Ave,N Hollywood,CA,91601,(310) 456-4353,(000) 000-0000,,40.00,2015-07-01 23:59:59,48785,Burbank Athletic Club,Monthly Membership,,none@email.com 
+cliff,,firooz,6315 tahoe drive,los angeles,CA,90068,2135728934,(000)-000-0000,,40.00,2015-07-01 23:59:59,48797,Burbank Athletic Club,Monthly Membership,,clifffirooz@yahoo.com 
+Miguel,,Garcia,6635 Klump Ave Apt 4,N Hollywood,CA,91606,(818) 853-1207,(000) 000-0000,,50.00,2015-05-31 23:59:59,48816,Burbank Athletic Club,Monthly Membership,,none@email.com 
+Hillary,,Salbacka,11312 Morrison apt 13,N Hollywood,CA,91601,(831) 713-0689,(000) 000-0000,,100.00,2014-12-31 23:59:59,48819,Burbank Athletic Club,Monthly Membership,,none@email.com 
+Daryl,,Callen,11312 Morrison St Apt 13,N Hollywood,CA,91601,(831) 713-0689,(000) 000-0000,,100.00,2014-12-31 23:59:59,48820,Burbank Athletic Club,Monthly Membership,,none@email.com 
+Aeden,,Babish,5100 Riverton Ave Unit 13,N Hollywood,CA,91601,(310) 367-0867,(000) 000-0000,,60.00,2015-05-01 23:59:59,48887,Burbank Athletic Club,Monthly Membership,,none@email.com 
+Jarvis,,Vance,11915 kling st apt 17,Valley Village,CA,91607,817-703-4013,(000)-000-0000,,40.00,2015-07-01 23:59:59,48924,Burbank Athletic Club,Monthly Membership,,jadava7841@yahoo.com 
+peter,,ritchie,8325 w 1st st,los angeles,CA,90048,(323) 449-2934,(000) 000-0000,,190.00,2015-03-31 23:59:59,51696,Burbank Athletic Club,Monthly Membership,,fatpete1@hotmail.com 
+EVAN JEROME,,MALERBA,27840 LASSEN ST,CASTAIC,CA,91384,(000) 000-0000,(000) 000-0000,,60.00,2015-05-01 23:59:59,48941,Burbank Athletic Club,Monthly Membership,,none@none.com 
+Nicole,M,Koob,422 Fischer St. Apt. A,Glendale,CA,91205,805-300-2045,(000)-000-0000,,80.00,2015-03-03 23:59:59,48952,Burbank Athletic Club,Monthly Membership,,nmkoob@gmail.com 
+Kristine,,Aslanyan,5708 case ave apt c,north hollywood,CA,91601,(818) 601-1642,(000) 000-0000,,80.00,2015-03-03 23:59:59,48956,Burbank Athletic Club,Monthly Membership,,kristine_a85@yahoo.com 
+Jon,,Varsobia,6030 Woodman Ave #18,Van Nuys,CA,91402,8187300195,(000)-000-0000,,60.00,2015-05-01 23:59:59,48977,Burbank Athletic Club,Monthly Membership,,jvarsobia@yahoo.com 
+Mariam,,Celaya,208 W Verdugo,Burbank,CA,91502,(818) 561-9259,(000) 000-0000,,40.00,2015-07-01 23:59:59,49012,Burbank Athletic Club,Monthly Membership,,none@email.com 
+Sandra,Lizbeth,Gomez,5725 Vineland Ave Apt 11,North Hollywood,CA,91601,(209) 704-1975,(209) 704-1975,,70.00,2015-03-31 23:59:59,49033,Burbank Athletic Club,Monthly Membership,,none@none.com 
+Melanie,R,Caudillo,1616 N Naomi,Burbank,CA,91505,(818) 209-3827,(000) 000-0000,,30.00,2015-07-31 23:59:59,49074,Burbank Athletic Club,Monthly Membership,Melanie Caudillo,818concepts@gmail.com 
+Daniel,,Rivera,7810 Laurel Canyon Vlvd APT 4,North Hollywood,CA,91605,(818) 720-3845,(818) 720-3845,,80.00,2015-03-03 23:59:59,49082,Burbank Athletic Club,Monthly Membership,,none@none.com 
+Ayesha,,Owens,5306 Cahuenga Blvd. Apt. 9,North Hollywood,CA,91601,(310) 754-5933,(000) 000-0000,,90.00,2015-01-31 23:59:59,49103,Burbank Athletic Club,Monthly Membership,,alexysjuliana@yahoo.com 
+Margarito,,Salazar,313 Elmwood Ave,Burbank,CA,91506,(818) 299-6416,(818) 299-6416,,100.00,2014-12-31 23:59:59,49145,Burbank Athletic Club,Monthly Membership,,none@mail.com 
+Rafael,A,Martinez,448 Vine St,Glendale,CA,91204,8187208165,(000)-000-0000,,60.00,2015-05-01 23:59:59,49147,Burbank Athletic Club,Monthly Membership,,R.AlexanderMartinez@hotmail.com 
+Narek,,Abgaryan,8753,Sun Valley,CA,91352,(818) 414-9797,(000) 000-0000,,100.00,2014-12-31 23:59:59,48943,Burbank Athletic Club,Monthly Membership,,none@email.com 
+RICHARD,,FALCONE,5926 CLEON AVE,NORTH HOLLYWOOD,CA,91601,(000) 000-0000,(818) 720-6743,,80.00,2015-03-03 23:59:59,48624,Burbank Athletic Club,Monthly Membership,,none@none.com 
+carmen,v,contreras,7500 laurel cyn blvd #102,north hollywood,CA,91605,818-220-2950,(000)-000-0000,,90.00,2015-01-31 23:59:59,48948,Burbank Athletic Club,Monthly Membership,,veronicalerma1272@yahoo.com 
+Laura,,Beckwith,432 Allen ave,glendale,CA,91201,(818) 660-8672,(818) 660-8672,,40.00,2015-07-01 23:59:59,48073,Burbank Athletic Club,Monthly Membership,,loblovey68@yahoo.com 
+MEDIK,,ATAMNIAN,2041 5 TH ST APT 201,Glendale,CA,91201,(000) 000-0000,(818) 653-3265,,120.00,2014-10-31 00:00:00,45481,Burbank Athletic Club,Monthly Membership,,MEDIK.ATAMIAN@YAHOO.COM 
+Erika,,Gomez,10711 Victory Blvd Apt 302,North Hollywood,CA,91606,7759103008,(000)-000-0000,,90.00,2015-01-31 23:59:59,48802,Burbank Athletic Club,Monthly Membership,,gomezerika08@hotmail.com 
+Mikoleen,,Sandoval,6609 Ethhel Ave,North Hollywood,CA,91606,(818) 640-3200,(818) 640-3200,,60.00,2015-05-01 23:59:59,48895,Burbank Athletic Club,Monthly Membership,,none@email.com 
+Alex,,Mendoza,2133 N. Screenland Drive,Burbank,CA,91505,(818) 795-1666,(000) 000-0000,,80.00,2015-03-03 23:59:59,48951,Burbank Athletic Club,Monthly Membership,,alx.mendoza72@gmail.com 
+Jesus,A,Gomez,559 n ardmore ave #201,los angeles,CA,90004,3232178390,(000)-000-0000,,90.00,2015-01-31 23:59:59,49169,Burbank Athletic Club,Monthly Membership,,jjgomez28@aol.com 
+Xavier,,Cedeno,303 E Elmwood Ave Apt 101,Burbank,CA,91502,(818) 642-1336,(000) 000-0000,,60.00,2015-05-01 23:59:59,49186,Burbank Athletic Club,Monthly Membership,,none@email.com 
+Cameron,Lynai,Weist,823 E Cedar,Burbank,CA,91501,(818) 331-1471,(818) 331-1471,,30.00,2015-07-31 23:59:59,49201,Burbank Athletic Club,Monthly Membership,,none@none.com 
+Chris,,Rangsipat,1237 N. Hollywoodway,Burbank,CA,91505,6269757630,(000)-000-0000,,70.00,2015-03-31 23:59:59,49421,Burbank Athletic Club,Monthly Membership,,chrisrangsipat@gmail.com 
+tanaporn,,rangsipat,1237 N. Hollywood way #B,Burbank,CA,91505,6269755587,(000)-000-0000,,70.00,2015-03-31 23:59:59,49446,Burbank Athletic Club,Monthly Membership,,chrisrangsipat@gmail.com 
+Nancy,,Many,1812 W Burbank Blvd,Burbank,CA,91506,(818) 219-2992,(000) 000-0000,,80.00,2015-03-03 23:59:59,49494,Burbank Athletic Club,Monthly Membership,,none@email.com 
+Jesse,,Prince,1812 W Burbank Blvd,Burbank,CA,91506,(818) 219-2992,(000) 000-0000,,80.00,2015-03-03 23:59:59,49495,Burbank Athletic Club,Monthly Membership,,none@email.com 
+Luis,S.,Ruiz,1511 W. Alameda Ave.,Burbank,CA,91506,8186475252,(000)-000-0000,,90.00,2015-01-31 23:59:59,49564,Burbank Athletic Club,Monthly Membership,,lousand40@hotmail.com 
+Tyler,,Gori,312 N. Catalina St.,Burbank,CA,91505,(818) 903-8095,(000) 000-0000,,40.00,2015-07-01 23:59:59,49565,Burbank Athletic Club,Monthly Membership,,tylergori@yahoo.com 
+Nadia,,Rodriguez,16631 Tribune Street,Granada Hills,CA,91344,(661) 974-6517,(661) 974-6517,,100.00,2014-12-31 23:59:59,49626,Burbank Athletic Club,Monthly Membership,,none@none.com 
+Wilson,,Abrego,223 tujunga ave apt 102,burbank,CA,91502,(323) 791-0585,(323) 791-0585,,30.00,2015-07-31 23:59:59,49641,Burbank Athletic Club,Monthly Membership,,none@email.com 
+CRISTAL,,MARQUEZ,904 N LINCON ST.,Burbank,CA,91506,(000) 000-0000,(000) 000-0000,,90.00,2015-01-31 23:59:59,49703,Burbank Athletic Club,Monthly Membership,,NON@NO.COM 
+Everardo,,Arreola,1363 E. Acacia Ave. #8,Glendale,CA,91205,8184971441,(000)-000-0000,,80.00,2015-03-03 23:59:59,48734,Burbank Athletic Club,Monthly Membership,,ever8823@gmail.com 
+Luz Elena,,Ramirez,1363 E. Acacia Ave. #8,Glendale,CA,91205,8188214312,(000)-000-0000,,80.00,2015-03-03 23:59:59,48737,Burbank Athletic Club,Monthly Membership,Luz Elena Ramirez,lucichanga92@outlook.com 
+Charnelle,,Webster,11130 Victory Blvd,N Hollywood,CA,91606,(818) 292-0192,(818) 292-0192,,70.00,2015-03-31 23:59:59,49197,Burbank Athletic Club,Monthly Membership,,none@email.com 
+Stephanie,A,Payez,415 S verdugo dr apt101,burbank,CA,91502,(818) 201-9917,(000) 000-0000,,30.00,2015-07-31 23:59:59,49295,Burbank Athletic Club,Monthly Membership,Stephanie Payez,stephaniepayez@gmail.com 
+roman,,puentes,415 s verdugo dr apt101,burbank,CA,91502,(562) 781-1448,(000) 000-0000,,30.00,2015-07-31 23:59:59,49296,Burbank Athletic Club,Monthly Membership,roman puentes,jhead626@gmail.com 
+Precious,P,Bahinting,6705 RIVERTON AVE,North Hollywood,CA,91606,8187992453,(000)-000-0000,,178.00,2015-03-03 23:59:59,49483,Burbank Athletic Club,Monthly Membership,,preciousbahinting@yahoo.com 
+ALMA,,ACEVEDO,345 N BUENA VISTA ST,BURBANK,CA,91505,(000) 000-0000,(818) 714-9404,,115.00,2014-03-03 00:00:00,48597,Burbank Athletic Club,Monthly Membership,,none@none.com 
+Luz,,Russi,6444 Tujunga Ave Apt A,N Hollywood,CA,91606,(818) 452-9759,(000) 000-0000,,60.00,2015-05-01 23:59:59,48888,Burbank Athletic Club,Monthly Membership,,none@email.com 
+Henry,,Hernandez,330 s new hampshire Num20,los Angeles,CA,90020,(818) 915-4272,(818) 915-4272,,90.00,2015-01-31 23:59:59,49366,Burbank Athletic Club,Monthly Membership,,none@email.com 
+MEDIK,,ATAMNIAN,2041 5 TH ST APT 201,Glendale,CA,91201,(000) 000-0000,(818) 653-3265,,110.00,2014-12-01 00:00:00,45481,Burbank Athletic Club,Monthly Membership,,MEDIK.ATAMIAN@YAHOO.COM 
+Jessica,S,Blair,10904 meseta dr.,Shadow Hills,CA,91040,8189224617,(000)-000-0000,,70.00,2015-03-31 23:59:59,49314,Burbank Athletic Club,Monthly Membership,Jessica Blair,threeforchrist@hotmail.com 
+Susan,,Varner,1432 N Ontario St,Burbank,CA,91505,(818) 795-1714,(000) 000-0000,,40.00,2015-07-01 23:59:59,49221,Burbank Athletic Club,Monthly Membership,,none@email.com 
+William,,Kelleher,1136 N Columbus Ave,Glendale,CA,91202,(978) 821-5424,(000) 000-0000,,-290.00,2014-12-01 23:59:59,49243,Burbank Athletic Club,Monthly Membership,,wkelleher39@gmail.com 
+LUIS,,VARGAS,13503 PIERCE ST,PACOIMA,CA,91331,(000) 000-0000,(818) 470-8955,,80.00,2015-03-03 23:59:59,49215,Burbank Athletic Club,Monthly Membership,,LEONELVLDZ9@GMAIL.COM 
+Mynda,,Rayos Del Sol,1717 Scott Rd,Burbank,CA,91504,(818) 770-0416,(818) 770-0416,,120.00,2014-10-31 23:59:59,48832,Burbank Athletic Club,Monthly Membership,,none@none.com 
+James,E,Bunton,12000 Riverside Drive #210,Valley Village,CA,91601,310-854-2722,(000)-000-0000,,80.00,2015-03-03 23:59:59,49210,Burbank Athletic Club,Monthly Membership,,movejb@mac.com 
+Kyla,,Mckevitt,1432 N Ontario st,Burbank,CA,91505,(972) 439-4982,(000) 000-0000,,60.00,2015-05-01 23:59:59,49373,Burbank Athletic Club,Monthly Membership,,none@email.com 
+Josefina,,Aparicio,506 Irving Ave Apt. A,Glendale,CA,91201,(310) 948-5301,(000) 000-0000,,40.00,2015-07-01 23:59:59,49453,Burbank Athletic Club,Monthly Membership,,josieaparicio@icloud.com 
+serena,m,gonzalez,4950 aldama street,los angeles,CA,90042,323-274-9919,(000)-000-0000,,100.00,2014-12-31 23:59:59,49770,Burbank Athletic Club,Monthly Membership,,serenamariegonzalez@gmail.com 
+Kailee,D,Groveman,11601 Haynes St,North Hollywood,CA,91606,818-903-4269,(000)-000-0000,,100.00,2014-12-31 23:59:59,49778,Burbank Athletic Club,Monthly Membership,,kailee_groveman@yahoo.com 
+Jesse,,benavidez,7815 FernCola Ave,Sun Valley,CA,91352,(323) 381-0679,(323) 381-0679,,80.00,2015-03-03 23:59:59,49857,Burbank Athletic Club,Monthly Membership,,none@mail.com 
+Jennifer,,Contreras,7815 Ferncola Ave,Sun Valley,CA,91352,(818) 405-8598,(818) 405-8598,,80.00,2015-03-03 23:59:59,49858,Burbank Athletic Club,Monthly Membership,,none@mail.com 
+Ryne,,Kahikina,1820 N Ontario St,burbank,CA,91505,(818) 903-7802,(818) 903-7802,,30.00,2015-07-31 23:59:59,49940,Burbank Athletic Club,Monthly Membership,,none@email.com 
+Jennifer,M,Slaughter,612 E Cypress Ave Apt 209,Burbank,GA,91501,(313) 850-3768,(000) 000-0000,,90.00,2015-01-31 23:59:59,49950,Burbank Athletic Club,Monthly Membership,,thejenniferbrand@gmail.com 
+Garcia,o,williams,11265 Morrison st.,North Hollywood,CA,91601,(951) 205-2088,(000) 000-0000,,50.00,2015-05-31 23:59:59,50009,Burbank Athletic Club,Monthly Membership,Garcia williams,one2watch006@gmail.com 
+Sergio,,Lara,16129 Cantlay St,Van Nuys,CA,91406,(818) 485-7123,(000) 000-0000,,70.00,2015-03-31 23:59:59,50018,Burbank Athletic Club,Monthly Membership,,none@email.com 
+Salvador,,Razo,502 S Main St.,Burbank,CA,91506,(818) 272-5121,(000) 000-0000,,50.00,2015-05-31 23:59:59,50061,Burbank Athletic Club,Monthly Membership,,anadaisy447@yahoo.com 
+LARIESHA,,CORLEY,2517 11TH UNIT 4,LOS ANGELES,CA,90018,(000) 000-0000,(949) 436-1687,,60.00,2015-04-30 23:59:59,50064,Burbank Athletic Club,Monthly Membership,,NON@NO.COM 
+Neil,,Chatchaiyan,15301 Lanark st.  #413,Van nuys,CA,91406,6264282975,(000)-000-0000,,100.00,2014-12-31 23:59:59,50077,Burbank Athletic Club,Monthly Membership,,kruneil@sbcglobal.net 
+Kelvin,,Galloza,11960 Magnolia Blvd #2,Valley Village,CA,91607,(818) 564-3651,(000) 000-0000,,30.00,2015-07-31 23:59:59,50080,Burbank Athletic Club,Monthly Membership,,kelvin@gempiremusic.com 
+Wendy,,Torres,11122 Tiara St,N Hollywood,CA,91601,(818) 967-2339,(818) 967-2339,,40.00,2015-07-01 23:59:59,50082,Burbank Athletic Club,Monthly Membership,Daniel Rosales,none@email.com 
+Stephanie,,Avedano,10810 Stagg St,Sun Valley,CA,91352,(818) 602-6154,(818) 602-6154,,40.00,2015-07-01 23:59:59,50089,Burbank Athletic Club,Monthly Membership,,none@email.com 
+Diego,,Herrera,105 n evergreen st,burbank,CA,91505,8184451820,(000)-000-0000,,30.00,2015-07-31 23:59:59,50136,Burbank Athletic Club,Monthly Membership,,dxstr28@gmail.com 
+Ohannessm,,Garabedian,440 N Madison,Pasadena,CA,91101,(818) 571-0114,(818) 571-0114,,40.00,2015-07-01 23:59:59,50184,Burbank Athletic Club,Monthly Membership,,email@email.com 
+ALIYA,,PERRY,7125 LENOX AVE,VAN NUYS,CA,91505,(000) 000-0000,(646) 773-0553,,30.00,2015-07-31 23:59:59,50191,Burbank Athletic Club,Monthly Membership,,NONE@NONE.COM 
+Eric,,Givens,12130 Hart st,North Hollywood,CA,91605,2098181086,(000)-000-0000,,70.00,2015-03-31 23:59:59,49930,Burbank Athletic Club,Monthly Membership,,japan042288@gmail.com 
+Rachel,,Glick,9351 via Patricia,Burbank,CA,91504,(570) 878-6268,(570) 878-6268,,50.00,2015-05-31 23:59:59,49569,Burbank Athletic Club,Monthly Membership,,none@email.com 
+Ryan,,Shandra,2342 E Ward Terrace,Anaheim,CA,92806,(818) 531-5354,(000) 000-0000,,70.00,2015-03-31 23:59:59,49102,Burbank Athletic Club,Monthly Membership,,none@email.com 
+Staecy,M,Elliott,300 W Tujunga Ave,Burbank,CA,91502,(818) 441-2329,(000) 000-0000,,50.00,2015-05-31 23:59:59,49199,Burbank Athletic Club,Monthly Membership,Staecy Elliott,swyteness@gmail.com 
+David,,Glickman,1314 South Lake Street APT A,Burbank,CA,91502,(213) 884-7535,(213) 884-7535,,60.00,2015-05-01 23:59:59,49387,Burbank Athletic Club,Monthly Membership,,none@none.com 
+Marny,M,Ehmann,10254 Roscoe Blvd,Sun Valley,CA,91352,(818) 738-0967,(000) 000-0000,,30.00,2015-07-31 23:59:59,49895,Burbank Athletic Club,Monthly Membership,Marny Ehmann,marnyehmann@gmail.com 
+Marisa,,Avila,6212 Beck Ave Apt 1,N Hollywood,CA,91606,(818) 723-0149,(818) 723-0149,,70.00,2015-03-31 23:59:59,46791,Burbank Athletic Club,Monthly Membership,,none@email.com 
+ELIBETH,,LOPEZ,14239 FRIAR ST,Van Nuys,CA,91401,(000) 000-0000,(818) 853-4821,,90.00,2015-01-31 23:59:59,48105,Burbank Athletic Club,Monthly Membership,,none@none.com 
+Mario,,Garcia,1313 S Bundy Dr 05,Los Angeles,CA,90002,(818) 395-4459,(818) 395-4459,,30.00,2015-07-31 23:59:59,48135,Burbank Athletic Club,Monthly Membership,,none@email.com 
+Christina,A,Gonzalez,12755 Vanowen St.,North Hollywood,CA,91605,(818) 574-9743,(000) 000-0000,,30.00,2015-07-31 23:59:59,49541,Burbank Athletic Club,Monthly Membership,,tina_nov93@yahoo.com 
+ALMA,,ACEVEDO,345 N BUENA VISTA ST,BURBANK,CA,91505,(000) 000-0000,(818) 714-9404,,130.00,2015-01-31 00:00:00,48597,Burbank Athletic Club,Monthly Membership,,none@none.com 
+William,,Kelleher,1136 N Columbus Ave,Glendale,CA,91202,(978) 821-5424,(000) 000-0000,,-260.00,2014-12-31 00:00:00,49243,Burbank Athletic Club,Monthly Membership,,wkelleher39@gmail.com 
+Hector,,Cabrera,1320 S Ferris Ave,Los Angeles,CA,90022,(323) 640-2501,(000) 000-0000,,80.00,2015-03-03 23:59:59,50497,Burbank Athletic Club,Monthly Membership,,jalebenostar@yahoo.com 
+Kerry,,Perez,6245 cahuenga blvd apt 1,N Hollywood,CA,91606,(818) 257-8071,(000) 000-0000,,85.00,2015-05-01 23:59:59,51847,Burbank Athletic Club,Monthly Membership,,k_smoov3@yahoo.com 
+Kaenan,,Abbrey,1547 N Eddison Blvd,Burbank,CA,91505,(818) 334-7137,(000) 000-0000,,50.00,2015-05-31 23:59:59,47009,Burbank Athletic Club,Monthly Membership,,none@none.com 
+Adana,,Ovanesian,10128 Hillheaven St,Tujunga,CA,91042,(818) 642-7663,(000) 000-0000,,90.00,2015-01-31 23:59:59,47992,Burbank Athletic Club,Monthly Membership,,none@email.com 
+ARTOUR,,HAGHVERDIAN,1130 N MARYLAND APT 4,GLENDALE,CA,91207,(818) 324-7647,(000) 000-0000,,70.00,2015-03-31 23:59:59,49734,Burbank Athletic Club,Monthly Membership,,NON@NO.COM 
+GAGAHPREET,,KUKSEJA,P.O BOX,Burbank,CA,90068,(818) 934-5238,(000) 000-0000,,100.00,2015-03-31 23:59:59,50071,Burbank Athletic Club,Monthly Membership,,NON@NO.COM 
+David,,Munoz,12947 Kagel Cyn st,Pacoima,CA,91331,(818)452-8825,(000)-000-0000,,50.00,2015-05-31 23:59:59,50206,Burbank Athletic Club,Monthly Membership,,davidmunoz2992@gmail.com 
+Jesse,,Rodriguez,1807 Victory Blvd,Burbank,CA,91506,(818) 564-0338,(000) 000-0000,,80.00,2015-03-03 23:59:59,50224,Burbank Athletic Club,Monthly Membership,,vipexclusives90210@gmail.com 
+JOSE,,FLORES,6538 TUJUNGA AVE,NORTH HOLLYWOOD,CA,91606,(000) 000-0000,(818) 421-0460,,40.00,2015-07-31 23:59:59,50242,Burbank Athletic Club,Monthly Membership,,NONE@NONE.COM 
+LOUIS,,GOMEZ,3105 AMIGOS DR,BURBANK,CA,91504,(000) 000-0000,(818) 938-0273,,100.00,2014-12-31 23:59:59,50269,Burbank Athletic Club,Monthly Membership,,LOUISG907@GMAIL.COM 
+Ani,,Arutyunyan,2125 armour pl,Glendale,CA,91208,(818) 317-7333,(000) 000-0000,,40.00,2015-06-30 23:59:59,50337,Burbank Athletic Club,Monthly Membership,,Arutyunyan.ani@gmail.com 
+Thomas,,Andrews,6253 lankershim blvd apt 209,north Hollywood,CA,91606,8182845784,(000)-000-0000,,226.00,2014-12-31 23:59:59,50350,Burbank Athletic Club,Monthly Membership,,Bougieboi@Gmail.com 
+cristian,ad,Gonzalez,10844 lull street,sun valley,CA,91352,3232173337,(000)-000-0000,,100.00,2014-12-31 23:59:59,50356,Burbank Athletic Club,Monthly Membership,,royality87@gmail.com 
+Gisell,,Vargas,2512 Brighton St,Burbank,CA,91504,(818) 000-0000,(818) 000-0000,,80.00,2015-03-03 23:59:59,50385,Burbank Athletic Club,Monthly Membership,,none@email.com 
+Angel,,Cabral,6807 Vantage Ave,N Hollywood,CA,91605,(818) 207-6542,(818) 207-6542,,100.00,2014-12-31 23:59:59,50409,Burbank Athletic Club,Monthly Membership,,none@email.com 
+Cyril,,Fernandez,310 E PROVIDENCIA AVE,BURBANK,CA,91502,(000) 000-0000,(818) 568-9544,,30.00,2015-07-30 23:59:59,50412,Burbank Athletic Club,Monthly Membership,,CGFERNANDEZ1995@YAHOO.COM 
+Michael,,Gates,1823 Grace Ave Apt 204,LOS Angeles,CA,90028,(323) 540-2667,(323) 540-2667,,80.00,2015-03-03 23:59:59,50420,Burbank Athletic Club,Monthly Membership,,none@email.com 
+Leo,,Irizarry,11251 victory blvd unit 1,north hollywood,CA,91606,8183315004,(000)-000-0000,,70.00,2015-03-31 23:59:59,50433,Burbank Athletic Club,Monthly Membership,,yamaojp77@gmail.com 
+ANTHONY,,HAMILL,531 A NORTH HOLLYWOOD WAY Num182,BURBANK,CA,91505,(000) 000-0000,(818) 913-8740,,70.00,2015-05-31 23:59:59,50439,Burbank Athletic Club,Monthly Membership,,ANTHONY.HAMILL@YAHOO.COM 
+ALTHELLOUIE,,DANE,9046 SYLMAR AVE,PANORAMA CITY,CA,91402,(818) 621-0476,(000) 000-0000,,100.00,2014-12-31 23:59:59,50446,Burbank Athletic Club,Monthly Membership,,NONE@NONE.COM 
+kenneth,,brown,6143 fulton ave,van nuys,LA,91401,5044939714,(000)-000-0000,,90.00,2015-01-31 23:59:59,50501,Burbank Athletic Club,Monthly Membership,,brown.kenneth3@gmail.com 
+Domenico,,Tyler,5545 klump ave #16,north hollywood,CA,91601,2134341647,(000)-000-0000,,80.00,2015-03-03 23:59:59,50547,Burbank Athletic Club,Monthly Membership,,sincerenews@gmail.com 
+Mariah,,Mossiah,8816 Laurel Canyon Blvd #50,Sun Valley,CA,91352,(818) 853-1234,(000) 000-0000,,60.00,2015-05-01 23:59:59,50549,Burbank Athletic Club,Monthly Membership,Mariah Mossiah,mmossiah@ymail.com 
+Hortence,L,Mossiah,8816 laurel canyon blvd apt 50,sun valley,CA,91352,8183896333,(000)-000-0000,,100.00,2014-12-31 23:59:59,50577,Burbank Athletic Club,Monthly Membership,,hlmossiah@gmail.com 
+Kevin,,Doby,6927 Simpson Ave Apt 1,N hollywood,CA,91605,(818) 423-9768,(818) 423-9768,,100.00,2014-12-31 23:59:59,50605,Burbank Athletic Club,Monthly Membership,,none@email.com 
+Amy,D.,Reyes,11923 LAURELWOOD DRIVE,Los Angeles,CA,90064,(310) 471-7000,(000) 000-0000,,70.00,2015-03-31 23:59:59,50624,Burbank Athletic Club,Monthly Membership,Amy Reyes,amy22reyes@me.com 
+Sid,,Patel,11923 LAURELWOOD DRIVE #5,STUDIO CITY,CA,91604,(818) 632-1108,(000) 000-0000,,70.00,2015-03-31 23:59:59,50625,Burbank Athletic Club,Monthly Membership,Sid Patel,mrsidpatel@hotmail.com 
+Lorena,,Ramirez,12033 klig St apt 17,valley village,CA,91607,(818) 359-6987,(000) 000-0000,,70.00,2015-03-31 23:59:59,50639,Burbank Athletic Club,Monthly Membership,,none@mail.com 
+Yesenia,,Barron,8350 Northgate Ave Apt 10,Canoga Park,CA,91304,(818) 326-8174,(818) 326-8174,,70.00,2015-03-31 23:59:59,50642,Burbank Athletic Club,Monthly Membership,,none@mail.com 
+Michelle,,V,4077 w 3rd st unit 529,los angeles,CA,90020,8186410307,(000)-000-0000,,100.00,2014-12-31 23:59:59,50238,Burbank Athletic Club,Monthly Membership,,mitchyv13@gmail.com 
+Barbara,,Wehrer,2021 Peyton Ave Apt 205,Burbank,CA,91504,6057595003,(000)-000-0000,,40.00,2015-07-01 23:59:59,50441,Burbank Athletic Club,Monthly Membership,,bawehrer@hotmail.com 
+Jesus,,Escalante,11753 Vanowen St,N. Hollywood,CA,91605,(818) 503-0559,(818) 503-0559,,30.00,2015-07-31 23:59:59,49306,Burbank Athletic Club,Monthly Membership,,none@email.com 
+LILIANA,,CURIEL,12601 AMBOY AVE,SYLMAR,CA,91342,8183379555,(000)-000-0000,,100.00,2014-12-31 23:59:59,50371,Burbank Athletic Club,Monthly Membership,,CURIELLILI@YAHOO.COM 
+William,,Kelleher,1136 N Columbus Ave,Glendale,CA,91202,(978) 821-5424,(000) 000-0000,,-230.00,2015-01-31 00:00:00,49243,Burbank Athletic Club,Monthly Membership,,wkelleher39@gmail.com 
+MEDIK,,ATAMNIAN,2041 5 TH ST APT 201,Glendale,CA,91201,(000) 000-0000,(818) 653-3265,,90.00,2015-01-31 00:00:00,45481,Burbank Athletic Club,Monthly Membership,,MEDIK.ATAMIAN@YAHOO.COM 
+Omar,,Lopez,44647 26th street,East Lancaster,CA,93535,(661) 544-2529,(661) 544-2529,,50.00,2015-05-30 23:59:59,49786,Burbank Athletic Club,Monthly Membership,,none@none.com 
+Silva,,castillo,413 Riverdale Dr. apt. F,Glendale,CA,91204,3238045990,(000)-000-0000,,202.00,2015-01-31 23:59:59,50700,Burbank Athletic Club,Monthly Membership,,castsilv140@gmail.com 
+Michael,A,Knopf,8444 Robert Ave.,Sun Valley,CA,91352,(818) 205-7954,(000)-000-0000,,70.00,2015-03-31 23:59:59,50763,Burbank Athletic Club,Monthly Membership,,ajax1126@yahoo.com 
+Jensine,,Reyes,10667 Oxnard St,N Hollywood,CA,91606,(818) 599-3690,(818) 599-3690,,90.00,2015-01-31 23:59:59,50772,Burbank Athletic Club,Monthly Membership,,none@email.com 
+Lionel,,Salazar,7928 CRANER AVE,sun valley,CA,91352,(818) 669-6122,(000) 000-0000,,70.00,2015-05-31 23:59:59,50783,Burbank Athletic Club,Monthly Membership,,lsalazar@dbq.edu 
+YUSEPE,,GARCIA,6058 Craner Ave,NORTH HOLLYWOOD,CA,91606,(000) 000-0000,(818) 484-6816,,80.00,2015-03-03 23:59:59,50792,Burbank Athletic Club,Monthly Membership,,MAINTREAM.NH@GMAIL.COM 
+Hovig,S,Kiladjian,1854 Glenwood Rd,Glendale,CA,91201,8183173551,(000)-000-0000,,130.00,2015-01-31 23:59:59,50815,Burbank Athletic Club,Monthly Membership,,hovig.kiladjian@gmail.com 
+rosa,i,ruiz,1953 N ParIsh Place #B,Burbank,CA,91504,626-201-5601,(000)-000-0000,,130.00,2015-01-31 23:59:59,50825,Burbank Athletic Club,Monthly Membership,,roses69.rr.rr@gmail.com 
+MARIAJOY,C,ALBA,10330 COMMERCE AVE. APT.3,TUJUNGA,CA,91042,8186833386,(000)-000-0000,,70.00,2015-05-31 23:59:59,50856,Burbank Athletic Club,Monthly Membership,,mjalba26@gmail.com 
+Michael,,Mercado,1736  n lincoln st,Burbank,CA,91506,(818) 000-0000,(818) 388-9571,,70.00,2015-03-31 23:59:59,46756,Burbank Athletic Club,Monthly Membership,,none@none.com 
+JAIME,,PERALTA,2179 GRAND TETON,HEMET,CA,92544,(323) 608-1708,(000) 000-0000,,115.00,2015-03-03 23:59:59,50844,Burbank Athletic Club,Monthly Membership,,none@none.com 
+ALMA,,ACEVEDO,345 N BUENA VISTA ST,BURBANK,CA,91505,(000) 000-0000,(818) 714-9404,,115.00,2015-03-03 00:00:00,48597,Burbank Athletic Club,Monthly Membership,,none@none.com 
+MEDIK,,ATAMNIAN,2041 5 TH ST APT 201,Glendale,CA,91201,(000) 000-0000,(818) 653-3265,,80.00,2015-03-03 00:00:00,45481,Burbank Athletic Club,Monthly Membership,,MEDIK.ATAMIAN@YAHOO.COM 
+Philippe,,Nuguid,1020 W Angeleno Ave APT 1,Burbank,CA,91506,(818) 414-8859,(000) 000-0000,,60.00,2015-05-01 23:59:59,48307,Burbank Athletic Club,Monthly Membership,,nuguid.bp@gmail.com 
+Judah,,Pamess,1171 E Elmwood Ave,Burbank,CA,91501,(000) 000-0000,(347) 587-9623,,80.00,2015-03-03 23:59:59,50650,Burbank Athletic Club,Monthly Membership,,none@email.com 
+DANIELLE,,KRATTIGER,1021 N FAIRVIEW ST,Burbank,CA,91505,(818) 262-4060,(000) 000-0000,,185.00,2015-03-03 23:59:59,51786,Burbank Athletic Club,Monthly Membership,,none@email.com 
+Lisa,,Han,620 N Louise St Apt 105,Glendale,CA,91206,8183812840,(000)-000-0000,,185.00,2015-03-03 23:59:59,51533,Burbank Athletic Club,Monthly Membership,,lisie223@gmail.com 
+Jennifer,L,Garay,6716 clybourn ave,North hollywood,CA,91606,8187705877,(000)-000-0000,,60.00,2015-07-31 23:59:59,51850,Burbank Athletic Club,Monthly Membership,,Jennifergaray7@gmail.com 
+chris,,gallagher,406 Irving Ave,Glendale,CA,91201,8188550112,(000)-000-0000,,115.00,2015-03-03 23:59:59,51585,Burbank Athletic Club,Monthly Membership,,rocco1204@att.net 
+Adalgisa,,Escobar,10831 Roycroft,Sun Valley,CA,91352,8184166683,(000)-000-0000,,70.00,2015-05-31 23:59:59,51840,Burbank Athletic Club,Monthly Membership,Adalgisa Escobar,yisi2013@yahoo.com 
+KATHRYN,,DONOHO,342 E PROVIDENCIA AVE APT 102,Burbank,CA,91502,(000) 000-0000,(408) 569-8690,,115.00,2015-03-03 23:59:59,51675,Burbank Athletic Club,Monthly Membership,,donotokatie@gmail.com 
+ANGELICA ROSE,,BONOMO,836 BETHANY RD,Burbank,CA,91504,(000) 000-0000,(818) 441-2399,,124.00,2015-03-31 23:59:59,48385,Burbank Athletic Club,Monthly Membership,,none@none.com 
+Karla,,Ruiz,2001 Peyton Ave #2,Burbank,CA,91504,(323) 590-0092,(000) 000-0000,,10.00,2015-05-01 23:59:59,51433,Burbank Athletic Club,Monthly Membership,,mtumg@yahoo.com 
+George,,Pasillas,11608 Archwood St,North Hollywood,CA,91606,(818) 626-1546,(000) 000-0000,,60.00,2015-05-01 23:59:59,47011,Burbank Athletic Club,Monthly Membership,,none@email.com 
+Sean,,Fong,10808 Victory Blvd apt 12,N Hollywood,CA,91606,(818) 376-9992,(000) 000-0000,,100.00,2015-03-31 23:59:59,50762,Burbank Athletic Club,Monthly Membership,,none@email.com 
+Victor,,Carranza,12733 Barbara Ann St apt 3,N Hollywood,CA,91605,(818) 760-6442,(000) 000-0000,,55.00,2015-07-01 23:59:59,50761,Burbank Athletic Club,Monthly Membership,,none@email.com 
+Kevork,,Ashdjian,1202 Highland ave,Glendale,CA,91202,8186538910,(000)-000-0000,,70.00,2015-05-31 23:59:59,51417,Burbank Athletic Club,Monthly Membership,,ashdjiank@gmail.com 
+JUAN,C,VALDEZ VALLE,10301 Magnolia Blvd,North Hollywood,CA,91601,(801) 833-4030,(000) 000-0000,,85.00,2015-05-01 23:59:59,51565,Burbank Athletic Club,Monthly Membership,,kvaldezv@gmail.com 
+DAVID,,VARDAPETYAN,7763 RHODES AVE,N HOLLYWOOD,CA,91605,(000) 000-0000,(818) 378-7515,,115.00,2015-03-03 23:59:59,51810,Burbank Athletic Club,Monthly Membership,,NONE@NONE.COM 
+Amor,,matias,4680 San fernando Rd,Glendale,CA,91204,(818) 821-5790,(818) 821-5790,,40.00,2015-07-01 23:59:59,50827,Burbank Athletic Club,Monthly Membership,,none@email.com 
+Mario,,Colocho,15229 Lorne St,Panorama city,CA,91402,(818) 796-0319,(818) 796-0319,,80.00,2015-03-03 23:59:59,49499,Burbank Athletic Club,Monthly Membership,,none@email.com 
+ROULA,,GHAZARIAN,1025 ALLEN AVE APT 5,GLENDALE,CA,91201,(000) 000-0000,(818) 484-6841,,100.00,2015-03-31 23:59:59,51945,Burbank Athletic Club,Monthly Membership,,NONE@NONE.COM 
+ARMIG,,TAHHAN,1025 ALLEN AVE APT 5,GLANDALE,CA,91201,(000) 000-0000,(818) 572-6659,,100.00,2015-03-31 23:59:59,51944,Burbank Athletic Club,Monthly Membership,,NONE@NONE.COM 
+MEDIK,,ATAMNIAN,2041 5 TH ST APT 201,Glendale,CA,91201,(000) 000-0000,(818) 653-3265,,70.00,2015-03-31 00:00:00,45481,Burbank Athletic Club,Monthly Membership,,MEDIK.ATAMIAN@YAHOO.COM 
+Kristine,,Aslanyan,5708 case ave apt c,north hollywood,CA,91601,(818) 601-1642,(000) 000-0000,,70.00,2015-03-31 00:00:00,48956,Burbank Athletic Club,Monthly Membership,,kristine_a85@yahoo.com 
+Harut,,Akopyan,638 E Angeleno Apt K,Burbank,CA,91501,(818) 559-8678,(000) 000-0000,,86.00,2015-05-31 23:59:59,33243,Burbank Athletic Club,Monthly Membership,,harfilm@sbcglobal.net 
+SHONDA,,VAUGHN,5708 FAYETTE APT 1,HIGHLAND PARK,CA,90042,(626) 639-9352,(000) 000-0000,,85.00,2015-05-01 23:59:59,51958,Burbank Athletic Club,Monthly Membership,,none@email.com 
+Naela,,Soto,14401 Dyer Street,Sylmar,CA,91342,(323) 384-9619,(000) 000-0000,,100.00,2015-03-31 23:59:59,52047,Burbank Athletic Club,Monthly Membership,,soto.naela@gmail.com 
+JOSE,,GARCIA,9558 REMICK AVE,PACOIMA,CA,91331,(818) 378-3927,(000) 000-0000,,55.00,2015-07-01 23:59:59,52106,Burbank Athletic Club,Monthly Membership,,none@email.com 
+JESUS,,RUIZ,513 S MARIPOSA AVE,BURBANK,CA,91506,(626) 399-7193,(000) 000-0000,,70.00,2015-05-31 23:59:59,52117,Burbank Athletic Club,Monthly Membership,,none@email.com 
+Karen,,Cordova,3305 w alemeida ave,Burbank,CA,91505,(818) 239-9908,(000) 000-0000,,190.00,2015-03-31 23:59:59,52203,Burbank Athletic Club,Monthly Membership,,alexandra-cordova@hotmail.com 
+Jeff,,Resetar,8130 rafdord ave,NORTH HOLLYWOOD,CA,91605,(818) 625-0381,(000) 000-0000,,100.00,2015-03-31 23:59:59,52217,Burbank Athletic Club,Monthly Membership,,hughjeffner@yahoo.com 
+EMELY,,RUIZ,6835 LAUREL CANYON BLVD APT 103,NORTH HOLLYWOOD,CA,91605,(818) 691-9474,(000) 000-0000,,100.00,2015-03-31 23:59:59,52279,Burbank Athletic Club,Monthly Membership,,none@email.com 
+Syed,S,mehdi,6738 clybourn ave apt 251,north hollywood,CA,91352,(818) 392-9726,(000) 000-0000,,40.00,2015-07-31 23:59:59,52295,Burbank Athletic Club,Monthly Membership,,syedmehdi0605@gmail.com 
+ADRIK,,KHODAAGHOLIAN,NA,NA,CA,91505,(818) 422-2529,(000) 000-0000,,100.00,2015-03-31 23:59:59,52311,Burbank Athletic Club,Monthly Membership,,none@email.com 
+LIZETTE,,GARCIA,17221 SHERMAN WAY,VAN NUYS,CA,91406,(000) 000-0000,(818) 849-2662,,100.00,2015-03-31 23:59:59,52333,Burbank Athletic Club,Monthly Membership,,NONE@NONE.COM 
+RAY,,OSWALDO,2317 N FAIRVIEW,BURBANK,CA,91504,(818) 826-0766,(000) 000-0000,,100.00,2015-03-31 23:59:59,52337,Burbank Athletic Club,Monthly Membership,,none@email.com 
+BRANDON,,ORELLANA,2317 N FAIRVIEW ST APT C,Burbank,CA,91504,(818) 826-0505,(000) 000-0000,,100.00,2015-03-31 23:59:59,52338,Burbank Athletic Club,Monthly Membership,,none@email.com 
+Gester,,Hernal,225 W Verdugo Ave Apt 203,Burbank,CA,91502,(323) 356-3810,(000) 000-0000,,70.00,2015-05-31 23:59:59,52345,Burbank Athletic Club,Monthly Membership,,gesterhernal@icloud.com 
+LINIA,,BOGHOZIAN,347 SALEM ST APT 7,GLENDALE,CA,91203,(000) 000-0000,(818) 572-6032,,60.00,2015-07-30 23:59:59,52415,Burbank Athletic Club,Monthly Membership,,NONE@NONE.COM 
+f,C,l,2351 N. Lincoln,Burbank,CA,91504,(818) 625-5250,(000) 000-0000,,70.00,2015-05-31 23:59:59,51416,Burbank Athletic Club,Monthly Membership,,none@em.com 
+Fany,,Paz,10808 Victory Blvd,N Hollywood,CA,91606,(818) 376-9992,(818) 376-9992,,100.00,2015-03-31 23:59:59,50961,Burbank Athletic Club,Monthly Membership,,none@email.com 
+Vanessa,L,Meraz,623 Lashburn St,Sylmar,CA,91342,8183563210,(000)-000-0000,,40.00,2015-07-31 23:59:59,51791,Burbank Athletic Club,Monthly Membership,,vmeraz04@gmail.com 
+Jonathan,M,Garcia,2763 Newell st,Los Angeles,CA,90039,3233762607,(000)-000-0000,,70.00,2015-05-31 23:59:59,52196,Burbank Athletic Club,Monthly Membership,,jongarcia0386@yahoo.com 
+LEILI,, VILCA,P.O BOX,Burbank,CA,91203,(818) 492-6209,(000) 000-0000,,85.00,2015-05-01 23:59:59,51764,Burbank Athletic Club,Monthly Membership,,NONE@NONE.COM 
+Derrick,J,McMichael,7800 Woodman Ave #3-A,Van Nuys,CA,91402,(215) 287-3708,(000) 000-0000,,55.00,2015-07-01 23:59:59,52244,Burbank Athletic Club,Monthly Membership,,Derrick.McMichael@gmail.com 
+Dana,,Williams,1237 N Hollywood Way apt C,Burbank,CA,91505,(213) 379-2020,(000) 000-0000,,185.00,2015-02-28 23:59:59,52383,Burbank Athletic Club,Monthly Membership,,dana@peak.org 
+DIANA,,MEZA,NA,NA,CA,91016,(760) 562-7740,(000) 000-0000,,85.00,2015-05-01 23:59:59,52496,Burbank Athletic Club,Monthly Membership,,none@email.com 
+Naylynn,D,Brown,10918 morrison st apt 3,North Hollywood,CA,91601,5158679096,(000)-000-0000,,60.00,2015-07-31 23:59:59,52561,Burbank Athletic Club,Monthly Membership,,naylynnbrown@gmail.com 
+Kaylee,B,Bardin,10918 morrison st apt 3,north hollywood,CA,91601,3106994919,(000)-000-0000,,135.00,2015-05-01 23:59:59,52563,Burbank Athletic Club,Monthly Membership,Kaylee Bardin,kayleebardin28@gmail.com 
+Taylor,D,Helsley,743 Irving Dr.,Burbank,CA,91504,8186414408,(000)-000-0000,,85.00,2015-05-01 23:59:59,52585,Burbank Athletic Club,Monthly Membership,,helsleytaylor@yahoo.com 
+Joaquin,,Escalante,12557 cantara st,NORTH HOLLYWOOD,CA,91605,(818) 355-5235,(000) 000-0000,,70.00,2015-05-31 23:59:59,52637,Burbank Athletic Club,Monthly Membership,,juaco1021@gmail.com 
+Brenda,,Cornejo,12557 cantara st,NORTH HOLLYWOOD,CA,91606,(818) 621-8134,(000) 000-0000,,70.00,2015-05-31 23:59:59,52638,Burbank Athletic Club,Monthly Membership,,feriasjerez76@yahoo.com 
+Carlo,,liceaga,12557 cantara st,NORTH HOLLYWOOD,CA,91606,(818) 621-8134,(000) 000-0000,,70.00,2015-05-31 23:59:59,52639,Burbank Athletic Club,Monthly Membership,,feriasjerez76@yahoo.com 
+MILAN,,LIM,1518 N SCREENLAND DR,BURBANK,CA,91505,(818) 935-0984,(000) 000-0000,,55.00,2015-07-01 23:59:59,52647,Burbank Athletic Club,Monthly Membership,,none@email.com 
+MARTHA,,CERVANTEZ,628 W CALIFORNIA AVE APT B,GLENDALE,CA,91203,(818) 281-1271,(000) 000-0000,,70.00,2015-05-31 23:59:59,52654,Burbank Athletic Club,Monthly Membership,,NONE@NONE.COM 
+Rebecca,R,Taustine,268 west Dryden street apt 310,Glendale,CA,91202,5025526797,(000)-000-0000,,135.00,2015-05-01 23:59:59,52664,Burbank Athletic Club,Monthly Membership,,Rebecca.rt23@gmail.com 
+Nat,,Yongpairojwong,511 California St.,Glendale,CA,91203,8182612028,(000)-000-0000,,85.00,2015-05-01 23:59:59,52675,Burbank Athletic Club,Monthly Membership,Nat Yongpairojwong,natowns24@hotmail.com 
+SAMUEL,,MARTINEZ,5220 HARMONY AVE APT 215,NORTH HOLLYWOOD\,CA,91601,(818) 668-7940,(000) 000-0000,,70.00,2015-05-31 23:59:59,52692,Burbank Athletic Club,Monthly Membership,,none@email.com 
+RAMON,,CASILLAS,1721 ELLIOT DR APT D,BURBANK,CA,91504,(818) 967-9436,(000) 000-0000,,70.00,2015-05-30 23:59:59,52705,Burbank Athletic Club,Monthly Membership,,none@email.com 
+ALEXANDRIA,,EYE,7307 OAKDALE AVE,WINNETKA,CA,91306,(818) 398-8075,(000) 000-0000,,70.00,2015-05-31 23:59:59,52707,Burbank Athletic Club,Monthly Membership,,none@email.com 
+Jacqueline,G,Cabadas,300 W. Tujunga Ave,Burbank,CA,91502,818-813-0701,(000)-000-0000,,70.00,2015-05-31 23:59:59,52710,Burbank Athletic Club,Monthly Membership,Jacqueline Cabadas,swyteness@gmail.com 
+LAURA,,DELAROSA,13647 BRACKEN ST,ARLETA,CA,91331,(000) 000-0000,(818) 792-2331,,70.00,2015-05-31 23:59:59,52718,Burbank Athletic Club,Monthly Membership,,NONE@NONE.COM 
+Adrian,C,Manalo,2242 North Ontario Street,Burbank,CA,91504,8182199557,(000)-000-0000,,85.00,2015-05-01 23:59:59,52734,Burbank Athletic Club,Monthly Membership,Adrian Manalo,ian_manalo@yahoo.com 
+Anahit,,Mitichyan,315 E. Elmwood ave # E,Burbank,CA,91502,8187260021,(000)-000-0000,,55.00,2015-07-01 23:59:59,52748,Burbank Athletic Club,Monthly Membership,,anahit.29@hotmail.com 
+Marlene,,Perez,2115 w. Victory Blvd,Burbank,CA,91506,5622135634,(000)-000-0000,,40.00,2015-07-31 23:59:59,52773,Burbank Athletic Club,Monthly Membership,,marlene.perez85@Gmail.com 
+EARLE,,HUEZO,335 WESTERN AVE,GLENDALE,CA,91201,(323) 894-8559,(000) 000-0000,,55.00,2015-07-01 23:59:59,52825,Burbank Athletic Club,Monthly Membership,,NONE@NONE.COM 
+TALAL,,MAHFOUD,3021 TRUDI LN,BURBANK,CA,91504,(000) 000-0000,(818) 854-2188,,55.00,2015-07-01 23:59:59,52843,Burbank Athletic Club,Monthly Membership,,NONE@NONE.COM 
+GHASSAN,,MAHFOUD,264 E SANTA ANITA APT D,BURBANK,CA,91502,(000) 000-0000,(818) 854-2188,,55.00,2015-07-01 23:59:59,52844,Burbank Athletic Club,Monthly Membership,,NONE@NONE.COM 
+anaeis,,petrosian,1128 e lexington #2,glendale,CA,91206,8184307622,(000)-000-0000,,85.00,2015-05-01 23:59:59,52886,Burbank Athletic Club,Monthly Membership,,annaberivi03@yahoo.com 
+Erick,L,Yamagata,4140 Arch Dr #121,Burbank,CA,91506,7028064151,(000)-000-0000,,70.00,2015-05-31 23:59:59,52897,Burbank Athletic Club,Monthly Membership,,erick.yamagata@gmail.com 
+Arin,E,Kalosian,29121 Corales PL,Santa Clarita,CA,91387,818-209-7808,(000)-000-0000,,85.00,2015-05-01 23:59:59,52936,Burbank Athletic Club,Monthly Membership,,djarin2000@gmail.com 
+Raisa,N,Shafiyyullah,6618 Darby Ave,reseda,CA,91335,310-686-0786,(000)-000-0000,,55.00,2015-07-01 23:59:59,52912,Burbank Athletic Club,Monthly Membership,,raisanuhgra@gmail.com 
+TIM,,FIELDS,127 N LINCOLN ST,BURBANK,CA,91506,(818)983-1037,(000)000-0000,,10.00,1999-11-30 23:59:59,53077,Burbank Athletic Club,Monthly Membership,,none@email.com 
+MAUREEN,N,OMALLEY,3822 EDENHUEST AVE,LOS ANGELES,CA,90039,(213)309-5447,(000)000-0000,,10.00,1999-11-30 23:59:59,53079,Burbank Athletic Club,Monthly Membership,,none@email.com 
+EVAN,S,DAVIS-PALLEY,242 N PARISH PL,BURBANK,CA,91506,(818)826-9027,(000)000-0000,,10.00,1999-11-30 23:59:59,53397,Burbank Athletic Club,Monthly Membership,,none@email.com 
+MARIO,J,QUINTERO,520 S MAIN ST,BURBANK,CA,91506,(818)558-3714,(000)000-0000,,10.00,1999-11-30 23:59:59,53703,Burbank Athletic Club,Monthly Membership,,none@email.com 
+BRAIN,,CABALLEZO,225 W VERDUGO # 104,BURBANK,CA,91506,(818)569-9882,(000)000-0000,,10.00,1999-11-30 23:59:59,54160,Burbank Athletic Club,Monthly Membership,,none@email.com 
+ERIC,A,ALLEN,275 W VERDUGO AVE APT #,BURBANK,CA,91502,(818)843-4943,(000)000-0000,,80.00,2015-03-13 23:59:59,54165,Burbank Athletic Club,Monthly Membership,,none@email.com 
+PAUL,J,BAIO,129 N LAMER ST APT G,BURBANK,CA,91506,(818) 572-3482,(000) 000-0000,,110.00,2015-06-19 23:59:59,54166,Burbank Athletic Club,Monthly Membership,,none@email.com 
+MICHELANGELO,,ALCAHTAR,2136 N BRIGHTON ST,BURBANK,CA,91504,(818)935-0328,(000)000-0000,,185.00,2015-02-26 23:59:59,54174,Burbank Athletic Club,Monthly Membership,,none@email.com 
+HUNTER,W,GUERIN,553 E ANGELENO AVE # B,BURBANK,CA,91501,(818)433-7859,(000)000-0000,,10.00,2014-11-26 23:59:59,54178,Burbank Athletic Club,Monthly Membership,,none@email.com 
+SARA,,INJEIAN,850 N BRIGTON ST,BURBANK,CA,91506,(818)355-7530,(000)000-0000,,10.00,1999-11-30 23:59:59,54179,Burbank Athletic Club,Monthly Membership,,none@email.com 
+MICHAEL,R,KUNZ,5756 CASE AVE,NORTH HOLLYWOOD,CA,91603,(814)441-2838,(000)000-0000,,110.00,2015-06-01 23:59:59,54183,Burbank Athletic Club,Monthly Membership,,none@email.com 
+ELIJAH,M,CAIN,629 S BEACHWOOD AVE,BURBANK,CA,91506,(818)641-7582,(000)000-0000,,80.00,2015-02-26 23:59:59,54186,Burbank Athletic Club,Monthly Membership,,none@email.com 
+JESUS,G,MENDOZA,733 W DUARTE RD,MONROVIA,CA,91016,(818)809-6949,(000)000-0000,,115.00,2015-02-26 23:59:59,54187,Burbank Athletic Club,Monthly Membership,,none@email.com 
+MADELLAINE,,PAXSON,239 S MARIPOSA ST,BURBANK,CA,91506,(818)209-8855,(000)000-0000,,10.00,1999-11-30 23:59:59,54190,Burbank Athletic Club,Monthly Membership,,none@email.com 
+EDWARD,,GUZELIAN,239 S MARIPOSA ST,BURBANK,CA,91506,(818)209-8855,(000)000-0000,,250.00,2015-06-19 23:59:59,54194,Burbank Athletic Club,Monthly Membership,,none@email.com 
+JIMMY,,ROBLES,2313 N FREDERIC ST,BURBANK,CA,91505,(818)438-8321,(000)000-0000,,10.00,1999-11-30 23:59:59,54195,Burbank Athletic Club,Monthly Membership,,none@email.com 
+HUMBERTO,,MARTINEZ,2331 N NOAMI ST,BURBANK,CA,91504,(818)847-2166,(000)000-0000,,220.00,2015-03-13 23:59:59,54197,Burbank Athletic Club,Monthly Membership,,none@email.com 
+KASIMO,D,HARRIS,10860,BURBANK,CA,91502,(818)284-9205,(000)000-0000,,115.00,2015-03-13 23:59:59,54198,Burbank Athletic Club,Monthly Membership,,none@email.com 
+AMANDA,N,HUBBELL,361 WEST ELM AVE,BURBANK,CA,91506,(818)326-4504,(000)000-0000,,185.00,2015-03-13 23:59:59,54208,Burbank Athletic Club,Monthly Membership,,none@email.com 
+SAN JUANA,,CARRILLO,12032 PEORIA ST,SUN VALLEY,CA,91352,(818)826-0915,(000)000-0000,,10.00,1999-11-30 23:59:59,54212,Burbank Athletic Club,Monthly Membership,,none@email.com 
+MARK,A,PROVART,232 W SANTA ANITA AVE,BURBANK,CA,91502,(818)370-6369,(000)000-0000,,150.00,2015-03-13 23:59:59,54219,Burbank Athletic Club,Monthly Membership,,none@email.com 
+ARSHA,,GRIGORIAN,6941,NORTH HOLLYWOOD,CA,91605,(818)613-0630,(000)000-0000,,80.00,2015-03-13 23:59:59,54220,Burbank Athletic Club,Monthly Membership,,none@email.com 
+PAUL,,CARRILLO,452 E ANGELENO AVE,BURBANK,CA,91501,(818)731-4463,(000)000-0000,,10.00,1999-11-30 23:59:59,54231,Burbank Athletic Club,Monthly Membership,,none@email.com 
+MANDY,J,PARLATO,213 S GLENWOOD PL,BURBANK,CA,91506,(818) 391-6893,(000) 000-0000,,10.00,2015-02-13 23:59:59,54235,Burbank Athletic Club,Monthly Membership,,none@email.com 
+OSCAR,,MARQUEZ,7814 FERNCOLA AVE,SUN VALLEY,CA,91352,(818)859-3408,(000)000-0000,,220.00,2015-02-26 23:59:59,54247,Burbank Athletic Club,Monthly Membership,,none@email.com 
+ALJANDAL,,ABDULRAHAMAN HA,1200 RIVERSIDE DR,BURBANK,CA,91506,(202)677-2288,(000)000-0000,,115.00,2015-02-26 23:59:59,54248,Burbank Athletic Club,Monthly Membership,,none@email.com 
+MICHELLE,,CARBONE,325 N BUENA VISTA#105,BURBANK,CA,91505,(818)653-0725,(000)000-0000,,185.00,2015-02-26 23:59:59,54250,Burbank Athletic Club,Monthly Membership,,none@email.com 
+MARIE,G,PENNINGTON,221 N SPARKS,BURBANK,CA,91506,(818)434-1379,(000)000-0000,,220.00,2015-02-26 23:59:59,54256,Burbank Athletic Club,Monthly Membership,,none@email.com 
+REGINA,,ATENCIO,RIVERSIDE,BURBANK,CA,91506,(818)288-2743,(000)000-0000,,115.00,2015-03-13 23:59:59,54270,Burbank Athletic Club,Monthly Membership,,none@email.com 
+CHARLENE,G,SANTIAGO,1614 GRISMER AVE,BURBANK,CA,91504,(818)391-6853,(000)000-0000,,10.00,2014-12-13 23:59:59,54277,Burbank Athletic Club,Monthly Membership,,none@email.com 
+MARK,A,HEILIGAR,4749 DENNY AVE,NORTH HOLLYWOOD,CA,91602,(818)441-2814,(000)000-0000,,115.00,2015-03-13 23:59:59,54284,Burbank Athletic Club,Monthly Membership,,none@email.com 
+VICTOR,D,TOVAR,1817 N CATALINA,BURBANK,CA,91505,(818)480-0429,(000)000-0000,,10.00,1999-11-30 23:59:59,54290,Burbank Athletic Club,Monthly Membership,,none@email.com 
+SHAKE,,ANDREASIAN,548 W HARVARD ST APT5,GLENDALE,CA,91204,(818)636-1396,(000)000-0000,,40.00,2015-08-19 23:59:59,54298,Burbank Athletic Club,Monthly Membership,,none@email.com 
+BRIAN,M,DUZICK,2466 N BUENA VISTA,BURBANK,CA,91505,(818)261-4174,(000)000-0000,,80.00,2015-03-13 23:59:59,54299,Burbank Athletic Club,Monthly Membership,,none@email.com 
+EDWIN,,SARHAD,5703 LAUREL CAYON #302,NORTH HOLLYWOOD,CA,91607,(818)400-5603,(000)000-0000,,10.00,1999-11-30 23:59:59,54306,Burbank Athletic Club,Monthly Membership,,none@email.com 
+JUSTIN,,OBRIEN,416 N LINCOLN ST,BURBANK,CA,91506,(310)850-8837,(000)000-0000,,185.00,2015-02-26 23:59:59,54309,Burbank Athletic Club,Monthly Membership,,none@email.com 
+NATHALY,S,LOPEZ,1318 W OLIVE,BURBANK,CA,91506,(818)274-7171,(000)000-0000,,115.00,2015-02-26 23:59:59,54311,Burbank Athletic Club,Monthly Membership,,none@email.com 
+ANNIE,C,LEE,433 S MANHATTAN PL,LOS ANGELES,CA,90020,(213)221-9392,(000)000-0000,,150.00,2015-02-26 23:59:59,54313,Burbank Athletic Club,Monthly Membership,,none@email.com 
+FRANK,,VAUHAN,534 FREDERIC ST,BURBANK,CA,91505,(818)566-7547,(000)000-0000,,220.00,2015-03-13 23:59:59,54316,Burbank Athletic Club,Monthly Membership,,none@email.com 
+ALLISON,M,SMITH,1803 W ALAMEDA AVE,BURBANK,CA,91506,(571)228-4790,(000)000-0000,,10.00,2014-11-26 23:59:59,54319,Burbank Athletic Club,Monthly Membership,,none@email.com 
+VATCHE,,LABBAD,3805 LANDFAIR RD,PASADENA,CA,91107,(626)590-9082,(000)000-0000,,10.00,2014-12-13 23:59:59,54324,Burbank Athletic Club,Monthly Membership,,none@email.com 
+KARMAN,J,KRUSCHKE,4122 1/2 W TOLUCA,BURBANK,CA,91505,(323)854-3655,(000)000-0000,,10.00,1999-11-30 23:59:59,54327,Burbank Athletic Club,Monthly Membership,,none@email.com 
+ARMAND,R,BASHAR,3209 W VALLEHEART DR,BURBANK,CA,91505,(818)307-0393,(000)000-0000,,115.00,2015-02-26 23:59:59,54330,Burbank Athletic Club,Monthly Membership,,none@email.com 
+JILL ANNE,E,VIDAL,339 IRVING AVE,GLENDALE,CA,91201,(818)391-9319,(000)000-0000,,115.00,2015-03-13 23:59:59,54346,Burbank Athletic Club,Monthly Membership,,none@email.com 
+ROBERT,,JACOME,2219 N. NAOMI ST,BURBANK,CA,91504,(818)842-6460,(000)000-0000,,10.00,1999-11-30 23:59:59,54350,Burbank Athletic Club,Monthly Membership,,none@email.com 
+JEFFERSON,J,PEKAR,1426 HIGHLAND AVE,GLENDALE,CA,91202,(213)925-7556,(000)000-0000,,10.00,2014-03-18 23:59:59,54359,Burbank Athletic Club,Monthly Membership,,none@email.com 
+DAVID,,SILVERMAN,4725 RADFORD AVE,VALLEY VILLAGE,CA,91607,(818)761-9889,(000)000-0000,,135.00,2015-04-26 23:59:59,54362,Burbank Athletic Club,Monthly Membership,,none@email.com 
+TROY,K,OUTWATER,1111 DINCARA ROAD,BURBANK,CA,91506,(818)414-8343,(000)000-0000,,10.00,1999-11-30 23:59:59,54382,Burbank Athletic Club,Monthly Membership,,none@email.com 
+CARLOS,A,REYES,1021 NOLDEN ST,LOS ANGELES,CA,90042,(323)478-1933,(000)000-0000,,115.00,2015-02-26 23:59:59,54385,Burbank Athletic Club,Monthly Membership,,none@email.com 
+DYLAN,M,DAVIS-PALLEY,242 N PARISH PL,BURBANK,CA,91506,(818)826-9090,(000)000-0000,,220.00,2015-03-13 23:59:59,54387,Burbank Athletic Club,Monthly Membership,,none@email.com 
+MARIAM,,JEIRANIAN,1814 N SERRANO AVE # 5,LOS ANGELES,CA,90027,(323)469-3713,(000)000-0000,,115.00,2015-03-13 23:59:59,54396,Burbank Athletic Club,Monthly Membership,,none@email.com 
+UYEN(PHUONG),,TAN,250 N 1 ST,BURBANK,CA,91502,(626) 590-9546,(000) 000-0000,,55.00,2015-07-19 23:59:59,54410,Burbank Athletic Club,Monthly Membership,,none@email.com 
+KAMALJEET,,SINSH,1300 W OLIVE AVE,BURBANK,CA,91506,(818)748-8020,(000)000-0000,,10.00,1999-11-30 23:59:59,54412,Burbank Athletic Club,Monthly Membership,,none@email.com 
+DANIELA,,MARTINEZ,1215 N PARISH PL,BURBANK,CA,91506,(818)967-0640,(000)000-0000,,115.00,2015-02-26 23:59:59,54430,Burbank Athletic Club,Monthly Membership,,none@email.com 
+KEVIN,,GARICA,927 W ANGELENO AVE APT,BURBANK,CA,91506,(818)954-8674,(000)000-0000,,10.00,1999-11-30 23:59:59,54626,Burbank Athletic Club,Monthly Membership,,none@email.com 
+JOSE,M,GONSALEZ,277 W TUJUNGA AVE APT R,BURBANK,CA,91502,(818)381-0831,(000)000-0000,,185.00,2015-03-13 23:59:59,55054,Burbank Athletic Club,Monthly Membership,,none@email.com 
+ADAM,B,HENERSHOTT,1520 W OAK ST,BURBANK,CA,91506,(818)731-6725,(000)000-0000,,145.00,2015-01-13 23:59:59,55106,Burbank Athletic Club,Monthly Membership,,none@email.com 
+DEVIN,T,NORTON,530 N MYERS ST,BURBANK,CA,91506,(818)954-8658,(000)000-0000,,80.00,2015-03-13 23:59:59,55109,Burbank Athletic Club,Monthly Membership,,none@email.com 
+BRANDON,K,ABRAHAMIAN,1411 N PEPPER ST,BURBANK,CA,91505,(818)468-9970,(000)000-0000,,85.00,2015-05-19 23:59:59,55110,Burbank Athletic Club,Monthly Membership,,none@email.com 
+JUSTIN,A,CHRISTENSON,1020 N CRESCENT HEIGHTS,LOS ANGELES,CA,90046,(323)359-6034,(000)000-0000,,10.00,1999-11-30 23:59:59,55111,Burbank Athletic Club,Monthly Membership,,none@email.com 
+JOSHUA,P, BUENTE,133 N AVON ST,BURBANK,CA,91505,(812)449-9399,(000)000-0000,,220.00,2015-03-13 23:59:59,55118,Burbank Athletic Club,Monthly Membership,,none@email.com 
+ADRIANNE,,SNYDER,6534 MONT CLAIR CT.,PALMDALE,CA,93552,(818)523-7297,(000)000-0000,,10.00,1999-11-30 23:59:59,55124,Burbank Athletic Club,Monthly Membership,,none@email.com 
+MIHIR,A,DESAI,705 N BUENA VISTA ST,BURBANK,CA,91505,(818)559-2514,(000)000-0000,,70.00,2015-06-01 23:59:59,55128,Burbank Athletic Club,Monthly Membership,,none@email.com 
+NICK,C,KANDLER,540 N CLYBOURN,BURBANK,CA,91505,(818)703-3732,(000)000-0000,,115.00,2015-02-26 23:59:59,55137,Burbank Athletic Club,Monthly Membership,,none@email.com 
+GABRIEL,,TREVIZO,3123 CAZADOR ST,LOS ANGELES,CA,90065,(323)342-3983,(000)000-0000,,115.00,2015-02-26 23:59:59,55139,Burbank Athletic Club,Monthly Membership,,none@email.com 
+SARA,E,GARCIA,346 N CORDORA ST,BURBANK,CA,91505,(818)271-6872,(000)000-0000,,115.00,2015-02-26 23:59:59,55140,Burbank Athletic Club,Monthly Membership,,none@email.com 
+ANCE,,LEVINE,6724 VAN NOOZD AVE,NORTH HOLLYWOOD,CA,91606,(310)895-5581,(000)000-0000,,10.00,1999-11-30 23:59:59,55143,Burbank Athletic Club,Monthly Membership,,none@email.com 
+CARLOS,H,SOTO,6724 VAN NOORD AVE,NORTH HOLLYWOOD,CA,91606,(801)921-1071,(000)000-0000,,10.00,1999-11-30 23:59:59,55146,Burbank Athletic Club,Monthly Membership,,none@email.com 
+ASHLEY,N,FONTENOT,132 N BRIGHTON,BURBANK,CA,91506,(310)855-2284,(000)000-0000,,10.00,1999-11-30 23:59:59,55156,Burbank Athletic Club,Monthly Membership,,none@email.com 
+ALEXANDER,R,HICKS,1325 N SIERRA BONITA AV,LOS ANGELES,CA,90046,(651) 334-5981,(000) 000-0000,,60.00,2015-08-19 23:59:59,55157,Burbank Athletic Club,Monthly Membership,,none@email.com 
+WILLIAM,B,FONTENOT,132 N BRIGHTON,BURBANK,CA,91506,(310) 855-2284,(000) 000-0000,,10.00,2015-04-26 23:59:59,55163,Burbank Athletic Club,Monthly Membership,,none@email.com 
+JULIANNA,M,JACKSON,5335 BEN AVE #9,VALLEY VILLAGE,CA,91607,(310)429-7634,(000)000-0000,,115.00,2015-03-13 23:59:59,55166,Burbank Athletic Club,Monthly Membership,,none@email.com 
+JON,R,DAVIS,7040 HASKELL AVE,VAN NUYS,CA,91604,(615)490-4681,(000)000-0000,,130.00,2015-06-19 23:59:59,55174,Burbank Athletic Club,Monthly Membership,,none@email.com 
+RASHAD,A,GETTOWE,525 S MAIN ST,BURBANK,CA,91506,(818)720-5186,(000)000-0000,,150.00,2015-02-26 23:59:59,55176,Burbank Athletic Club,Monthly Membership,,none@email.com 
+JOSHUA,R,LA CASSE,433 IRVING AVE APT B,GLENDALE,CA,91201,(802)238-5683,(000)000-0000,,115.00,2015-03-13 23:59:59,55178,Burbank Athletic Club,Monthly Membership,,none@email.com 
+CHARMAINE,M,SUARO,1301 W VERDUGO AVE,BURBANK,CA,91506,(818)209-4537,(000)000-0000,,115.00,2015-03-13 23:59:59,55179,Burbank Athletic Club,Monthly Membership,,none@email.com 
+MARCO,,BERARDIN,4268 W KLING,BURBANK,CA,91506,(818)588-3475,(000)000-0000,,50.00,2015-08-19 23:59:59,55180,Burbank Athletic Club,Monthly Membership,,none@email.com 
+SUSIE,,ABELYAN,7924 WOODAN AVE,PANORAMA CITY,CA,91402,(818)624-5604,(000)000-0000,,115.00,2015-03-13 23:59:59,55186,Burbank Athletic Club,Monthly Membership,,none@email.com 
+BRIANNA,N,MOORE,1930 N SCREENLAND DR,BURBANK,CA,91505,(818)810-9433,(000)000-0000,,115.00,2015-03-13 23:59:59,55187,Burbank Athletic Club,Monthly Membership,,none@email.com 
+ROBERTO,,REYES,257 N FLORENCE ST,BURBANK,CA,91505,(818)209-5754,(000)000-0000,,115.00,2015-03-13 23:59:59,55188,Burbank Athletic Club,Monthly Membership,,none@email.com 
+RYAN,J,BURKE,601 N WHITNALL HWY APT,BURBANK,CA,91505,(818)486-9002,(000)000-0000,,115.00,2015-03-13 23:59:59,55196,Burbank Athletic Club,Monthly Membership,,none@email.com 
+CAROL,G,ORDELHEIDE,1044 N LIMA ST,BURBANK,CA,91505,(818)843-1553,(000)000-0000,,10.00,2014-08-13 23:59:59,55200,Burbank Athletic Club,Monthly Membership,,none@email.com 
+PHILIPPE,,NUGUID,1020 W ANGELENO AVE,BURBANK,CA,91506,(818)414-8859,(000)000-0000,,115.00,2015-02-26 23:59:59,55202,Burbank Athletic Club,Monthly Membership,,none@email.com 
+LARRY,D,DALE,1818 LAKE ST,GLENDALE,CA,91201,(818)545-7445,(000)000-0000,,10.00,1999-11-30 23:59:59,55217,Burbank Athletic Club,Monthly Membership,,none@email.com 
+BRIAN,S,MILLER,2611 W OLIVE ST,BURBANK,CA,91505,(818)613-0576,(000)000-0000,,130.00,2015-06-01 23:59:59,55220,Burbank Athletic Club,Monthly Membership,,none@email.com 
+BRODIE,G,KASTER,3002 RIVERSIDE DR,BURBANK,CA,91505,(760)310-4741,(000)000-0000,,115.00,2015-02-26 23:59:59,55223,Burbank Athletic Club,Monthly Membership,,none@email.com 
+DOUGLAS,D,PEARLSTEIN,225 ROSE ST #105,BURBANK,CA,91505,(412)901-1157,(000)000-0000,,10.00,2014-10-13 23:59:59,55230,Burbank Athletic Club,Monthly Membership,,none@email.com 
+BRIAN,,KO,419 S CYRESS #A,BURBANK,CA,91504,(818)322-6473,(000)000-0000,,220.00,2015-03-13 23:59:59,55243,Burbank Athletic Club,Monthly Membership,,none@email.com 
+BROOK,,WILLARD,233 N GRIFFITH PARK DR,BURBANK,CA,91506,(714)604-6809,(000)000-0000,,115.00,2015-03-13 23:59:59,55245,Burbank Athletic Club,Monthly Membership,,none@email.com 
+BRENDA,M,MEYER,198 W ELMWOOD AVE APT D,BURBANK,CA,91502,(678)910-4187,(000)000-0000,,135.00,2015-05-19 23:59:59,55252,Burbank Athletic Club,Monthly Membership,,none@email.com 
+DAVID,,HICKMAN,312 W VALENCIA AVE #205,BURBANK,CA,91506,(818)415-1368,(000)000-0000,,10.00,1999-11-30 23:59:59,55255,Burbank Athletic Club,Monthly Membership,,none@email.com 
+RYAN,J,KELLEY,10061 RIVERSIDE DR S11,NORTH HOLLYWOOD,CA,91602,(630)229-3072,(000)000-0000,,220.00,2015-03-13 23:59:59,55258,Burbank Athletic Club,Monthly Membership,,none@email.com 
+FABIAN,A,RAMIREZ,11929 WEDDINGTON ST #30,BURBANK,CA,91607,(818)912-4248,(000)000-0000,,220.00,2015-03-13 23:59:59,55261,Burbank Athletic Club,Monthly Membership,,none@email.com 
+NESTOR,Q,PALASIO,265 W TUJUNGA AVE APT 1,BURBANK,CA,91502,(951)290-9820,(000)000-0000,,10.00,2014-12-13 23:59:59,55265,Burbank Athletic Club,Monthly Membership,,none@email.com 
+JOSEPH,G,JACOBSON,17200 PARTHENION ST,NORTHRIDGE,CA,91324,(818)886-7764,(000)000-0000,,115.00,2015-03-13 23:59:59,55269,Burbank Athletic Club,Monthly Membership,,none@email.com 
+YOLANDA,,JIMENEZ,302 W TUJUNGA AVE,BURBANK,CA,91502,(818)395-6503,(000)000-0000,,115.00,2015-03-13 23:59:59,55271,Burbank Athletic Club,Monthly Membership,,none@email.com 
+OSSANNA,,BAHADERIAN,513 N NAOMI ST,BURBANK,CA,91505,(818)927-7083,(000)000-0000,,150.00,2015-03-13 23:59:59,55273,Burbank Athletic Club,Monthly Membership,,none@email.com 
+MARIA,V,MALEK,147 N SPARKS ST,BURBANK,CA,91506,(626)497-0611,(000)000-0000,,115.00,2015-03-13 23:59:59,55277,Burbank Athletic Club,Monthly Membership,,none@email.com 
+NICK,A,YANDLE,11007 YO STREET,NORTH HOLLYWOOD,CA,91602,(818)970-0761,(000)000-0000,,115.00,2015-02-26 23:59:59,55282,Burbank Athletic Club,Monthly Membership,,none@email.com 
+JOHN,S,ZOLIDIS,11507 POEM PLACE,CHATWORTH,CA,91311,(818)419-6492,(000)000-0000,,10.00,2014-11-26 23:59:59,55283,Burbank Athletic Club,Monthly Membership,,none@email.com 
+ANNMARIE,,RIZZO,251 S KEYSTONE ST,BURBANK,CA,91506,(818)846-4358,(000)000-0000,,10.00,1999-11-30 23:59:59,55291,Burbank Athletic Club,Monthly Membership,,none@email.com 
+ANTONIO,B,VAZQUEZ,17918 SHERMAN WAY #F,RESEDA,CA,91335,(818)881-9148,(000)000-0000,,94.00,2015-03-13 23:59:59,55292,Burbank Athletic Club,Monthly Membership,,none@email.com 
+ERIC,,PROCHNAV,229 W LINDEN AVE # 202,91505,CA,0,(360)359-5613,(000)000-0000,,310.00,2014-12-13 23:59:59,55293,Burbank Athletic Club,Monthly Membership,,none@email.com 
+CATHLEEN,,STORMS,229 W LINDEN AVE # 202,91505,CA,0,(360)359-5613,(000)000-0000,,10.00,1999-11-30 23:59:59,55296,Burbank Athletic Club,Monthly Membership,,none@email.com 
+HAKEEM,S,HICKMAN,312 W VALENCIA AVE #205,BURBANK,CA,91506,(818)415-1368,(000)000-0000,,10.00,1999-11-30 23:59:59,55297,Burbank Athletic Club,Monthly Membership,,none@email.com 
+TORIANO,A,SANZONE,400 S SPARKS,BURBANK,CA,91506,(312)933-1528,(000)000-0000,,115.00,2015-03-13 23:59:59,55311,Burbank Athletic Club,Monthly Membership,,none@email.com 
+JESSICA,,FLORES,2129 N ROSE ST,BURBANK,CA,91505,(818)954-8719,(000)000-0000,,115.00,2015-02-26 23:59:59,55314,Burbank Athletic Club,Monthly Membership,,none@email.com 
+MELISSA,C,BARNETT,150 ALLEN AVE UNIT J,GLENDALE,CA,91201,(703)475-7196,(000)000-0000,,10.00,1999-11-30 23:59:59,55316,Burbank Athletic Club,Monthly Membership,,none@email.com 
+STEPHANIE,S,ELSAYED,4386 BAKONAM AVE,STUDIO CITY,CA,91602,(323)770-2388,(000)000-0000,,115.00,2015-03-13 23:59:59,55318,Burbank Athletic Club,Monthly Membership,,none@email.com 
+SUSANNA,A,ZEPEDA,15400 BRIGHTON ST #C,BURBANK,CA,91504,(818) 689-3596,(000) 000-0000,,110.00,2015-05-26 23:59:59,55326,Burbank Athletic Club,Monthly Membership,,none@email.com 
+ANDREW,S,RAYMOND,245 S MARIPOSE ST,BURBANK,CA,91506,(747)477-1238,(000)000-0000,,220.00,2015-02-26 23:59:59,55328,Burbank Athletic Club,Monthly Membership,,none@email.com 
+ANA,V,RAYMOND,245 S MARIPOSE ST,BURBANK,CA,91506,(747)477-1238,(000)000-0000,,10.00,1999-11-30 23:59:59,55330,Burbank Athletic Club,Monthly Membership,,none@email.com 
+MICHAEL,S,CASSIDY,2450 MCMICHAEL RD,SAINT CLOUD,CA,34771,(407)892-9273,(000)000-0000,,10.00,1999-11-30 23:59:59,55333,Burbank Athletic Club,Monthly Membership,,none@email.com 
+ANTHONY,F,GARCIA,11106 ARMINTA ST,SUN VALLEY,CA,91352,(818)588-0664,(000)000-0000,,10.00,2014-11-26 23:59:59,55335,Burbank Athletic Club,Monthly Membership,,none@email.com 
+CEDRIC,R,MCCALISTER,6739 COLDWATER CANYON R,NORTH HOLLYWOOD,CA,91607,(323)574-8438,(000)000-0000,,115.00,2015-03-13 23:59:59,55337,Burbank Athletic Club,Monthly Membership,,none@email.com 
+JONATHON,,SOSA,737 NORTH PARISH,BURBANK,CA,91506,(818)391-8664,(000)000-0000,,220.00,2015-02-26 23:59:59,55354,Burbank Athletic Club,Monthly Membership,,none@email.com 
+RAQUEL,H,LIVSON,1555 VINE ST,LOS ANGELES,CA,90028,(925)899-6827,(000)000-0000,,220.00,2015-03-13 23:59:59,55356,Burbank Athletic Club,Monthly Membership,,none@email.com 
+PIERA,E,LUNA,5800 OWENSMOUTH AVE #45,WOODLAND HILLS,CA,91367,(310)614-2396,(000)000-0000,,40.00,2015-08-19 23:59:59,55359,Burbank Athletic Club,Monthly Membership,,none@email.com 
+ERIC,R,SOSA,737 N PARISH PLACE,BURBANK,CA,91506,(818)391-8535,(000)000-0000,,220.00,2015-03-13 23:59:59,55360,Burbank Athletic Club,Monthly Membership,,none@email.com 
+THOMAS,F,DUFFY,523 N PARISH PL,BURBANK,CA,91506,(818)643-2005,(000)000-0000,,10.00,1999-11-30 23:59:59,55362,Burbank Athletic Club,Monthly Membership,,none@email.com 
+NICOLE,J,COREA,217 WEST TUJUNGA,BURBANK,CA,91502,(818)912-3438,(000)000-0000,,80.00,2015-02-26 23:59:59,55364,Burbank Athletic Club,Monthly Membership,,none@email.com 
+PRIYANKA,S,SAMARAKOON,241 W TUJUNGA AVE #J,BURBANK,CA,91502,(310) 866-1703,(000) 000-0000,,-290.00,2015-05-13 23:59:59,55368,Burbank Athletic Club,Monthly Membership,,none@email.com 
+DAVID,E,CANTOR,928 N SAN FERNANDO BLVD,BURBANK,CA,91506,(310)386-1451,(000)000-0000,,115.00,2015-02-26 23:59:59,55370,Burbank Athletic Club,Monthly Membership,,none@email.com 
+ROWENA,,KUMARATUNGA,241 W TUJUNGA AVE #J,BURBANK,CA,91502,(310)866-1703,(000)000-0000,,10.00,1999-11-30 23:59:59,55371,Burbank Athletic Club,Monthly Membership,,none@email.com 
+FRANCISO,R,MELENDEZ,2911 E 2ND ST,LOS ANGELES,CA,90033,(323)265-4519,(000)000-0000,,10.00,2014-11-26 23:59:59,55372,Burbank Athletic Club,Monthly Membership,,none@email.com 
+ADRIAN,L,IZARD,2021 W OLIVE AVE #23,BURBANK,CA,91506,(310)606-9183,(000)000-0000,,220.00,2015-02-26 23:59:59,55384,Burbank Athletic Club,Monthly Membership,,none@email.com 
+KRISTIN,,INJEIAN,10205 RIVERSIDE DR,TOLUCA LAKE,CA,91602,(818)402-4175,(000)000-0000,,10.00,1999-11-30 23:59:59,55385,Burbank Athletic Club,Monthly Membership,,none@email.com 
+JASON,P,DYWICK,607 N KEYSTONE ST,BURBANK,CA,91506,(760)987-7820,(000)000-0000,,10.00,2014-11-26 23:59:59,55405,Burbank Athletic Club,Monthly Membership,,none@email.com 
+MARISSA,,CORTES,312 WVALENCIA #204,BURBANK,CA,91506,(818)254-5611,(000)000-0000,,115.00,2015-02-26 23:59:59,55409,Burbank Athletic Club,Monthly Membership,,none@email.com 
+ANA,E,ARGUETA,275 W VERDUGO AVE #18,BURBANK,CA,91502,(818)291-3447,(000)000-0000,,10.00,1999-11-30 23:59:59,55411,Burbank Athletic Club,Monthly Membership,,none@email.com 
+JOHN,,SCULLY,162 NORTH BALDWIN AVENU,SIERRA MADRE,CA,91024,(323)270-2359,(000)000-0000,,10.00,2014-11-26 23:59:59,55412,Burbank Athletic Club,Monthly Membership,,none@email.com 
+KATE,A,GALLAGHER,1520 EDISON BLVD APT C,BURBANK,CA,91505,(310)904-8749,(000)000-0000,,10.00,2014-12-13 23:59:59,55418,Burbank Athletic Club,Monthly Membership,,none@email.com 
+BRYAN,P,HOUSER,6612 EMMET TERREACE,LOS ANGELES,CA,90068,(323)240-7770,(000)000-0000,,115.00,2015-03-13 23:59:59,55419,Burbank Athletic Club,Monthly Membership,,none@email.com 
+ROBERT,A,KRASKI,11653 BLIX ST APT #6,NORTH HOLLYWOOD,CA,91602,(412)304-2904,(000)000-0000,,115.00,2015-02-26 23:59:59,55421,Burbank Athletic Club,Monthly Membership,,none@email.com 
+ROBERT,A,NICHOLS,614 N REESE PL,BURBANK,CA,91506,(818)471-7867,(000)000-0000,,10.00,1999-11-30 23:59:59,55422,Burbank Athletic Club,Monthly Membership,,none@email.com 
+JORDON,A,HARMON,140 S BUENA VISTA,BURBANK,CA,91505,(909)636-3608,(000)000-0000,,115.00,2015-02-26 23:59:59,55425,Burbank Athletic Club,Monthly Membership,,none@email.com 
+ANDREW,H,GREENWOOD,3925 RIVERTON AVE # 107,STUDIO CITY,CA,91604,(805)419-4361,(000)000-0000,,10.00,1999-11-30 23:59:59,55431,Burbank Athletic Club,Monthly Membership,,none@email.com 
+RITESHA,R,DEDHIA,2812 W VICTORY BLVD APT,BURBANL,CA,91505,(818)237-5779,(000)000-0000,,115.00,2015-03-13 23:59:59,55432,Burbank Athletic Club,Monthly Membership,,none@email.com 
+MARGARITA,,KIRAKOSYAN,526 E ELMWOOD ST #104,BURBANK,CA,91501,(818)983-3094,(000)000-0000,,10.00,1999-11-30 23:59:59,55433,Burbank Athletic Club,Monthly Membership,,none@email.com 
+MARIE,,CABRERA,621 S SHELTON ST #D,BURBANK,CA,91506,(818)391-3745,(000)000-0000,,185.00,2015-03-13 23:59:59,55436,Burbank Athletic Club,Monthly Membership,,none@email.com 
+JAMES,,WILSON,5335 WHITSETT AVE #1,VALLEY VILLAGE,CA,91607,(323)640-3167,(000)000-0000,,10.00,1999-11-30 23:59:59,55440,Burbank Athletic Club,Monthly Membership,,none@email.com 
+KETA,,MEGGETT,5335 WHITSETT AVE #1,VALLEY VILLAGE,CA,91607,(323)640-3167,(000)000-0000,,10.00,1999-11-30 23:59:59,55443,Burbank Athletic Club,Monthly Membership,,none@email.com 
+MELISSA,,GARCIA,13987 HUBBARD ST,SYLMAR,CA,91342,(818)605-5410,(000)000-0000,,150.00,2015-03-13 23:59:59,55444,Burbank Athletic Club,Monthly Membership,,none@email.com 
+LILA,,SMADJA,1142 GREENACRE,WEST HOLLYWOOD,CA,90046,(213)280-9141,(000)000-0000,,10.00,1999-11-30 23:59:59,55446,Burbank Athletic Club,Monthly Membership,,none@email.com 
+DEBRA,,LAIRD,20109 CLARK ST,WOODLAND HILLS,CA,91367,(818)879-4159,(000)000-0000,,10.00,1999-11-30 23:59:59,55451,Burbank Athletic Club,Monthly Membership,,none@email.com 
+GARY,J,LAIRD,20109 CLARK ST,WOODLAND HILLS,CA,91367,(818)879-4159,(000)000-0000,,430.00,2015-03-13 23:59:59,55452,Burbank Athletic Club,Monthly Membership,,none@email.com 
+ROBERT,E,BRENNAN,439 S MARIPOSE ST,BURBANK,CA,91506,(818)846-6728,(000)000-0000,,220.00,2015-03-13 23:59:59,55454,Burbank Athletic Club,Monthly Membership,,none@email.com 
+ADRIAN,,MADRIGAL,230 W ALAMEDA,BURBANK,CA,91502,(818)298-3417,(000)000-0000,,220.00,2015-03-13 23:59:59,55462,Burbank Athletic Club,Monthly Membership,,none@email.com 
+MICKEY,B,GUERIN,1900 W VERDUGO AVE APT,BURBANK,CA,91506,(818)845-7323,(000)000-0000,,410.00,2015-02-13 23:59:59,55465,Burbank Athletic Club,Monthly Membership,,none@email.com 
+MARIAH,,MADRIGAL,230 W ALAMEDA,BURBANK,CA,91502,(818)298-3417,(000)000-0000,,10.00,1999-11-30 23:59:59,55466,Burbank Athletic Club,Monthly Membership,,none@email.com 
+MALLORY,,PASCAL,1900 W VERDUGO AVE APT,BURBANK,CA,91506,(818)845-7323,(000)000-0000,,10.00,1999-11-30 23:59:59,55468,Burbank Athletic Club,Monthly Membership,,none@email.com 
+AARON,E,PENNY,6333 MORELLA AVE,NORTH HOLLYWOOD,CA,91606,(619)781-7417,(000)000-0000,,10.00,1999-11-30 23:59:59,55469,Burbank Athletic Club,Monthly Membership,,none@email.com 
+JASON,P,CHARLES,11170 AQUA VISTA,BURBANK,CA,91602,(818)605-6458,(000)000-0000,,10.00,1999-11-30 23:59:59,55475,Burbank Athletic Club,Monthly Membership,,none@email.com 
+JESSICA,,VANTTA,1910 W VERDUGO #F,BURBANK,CA,91506,(661)755-7927,(000)000-0000,,10.00,1999-11-30 23:59:59,55480,Burbank Athletic Club,Monthly Membership,,none@email.com 
+STEVE,B,WISNER,123 N GRIFFITH PARK DR,BURBANK,CA,91506,(818) 219-3002,(000) 000-0000,,55.00,2015-07-19 23:59:59,55485,Burbank Athletic Club,Monthly Membership,,none@email.com 
+STEVEN,,FRANKS,260 GLENWOOD,BURBANK,CA,91502,(646)255-3612,(000)000-0000,,10.00,1999-11-30 23:59:59,55492,Burbank Athletic Club,Monthly Membership,,none@email.com 
+GEOFFREY,P,KNOTH,1200 W RIVERSIDE,BURBANK,CA,91506,(520)471-8173,(000)000-0000,,10.00,1999-11-30 23:59:59,55496,Burbank Athletic Club,Monthly Membership,,none@email.com 
+NATASHA,E,FULLER,300 E TUJUNGA APT211,BURBANK,CA,91502,(818)268-4987,(000)000-0000,,150.00,2015-03-13 23:59:59,55498,Burbank Athletic Club,Monthly Membership,,none@email.com 
+VICTOR,,PERINION,1021 WEST ANGECEHO APT#,BURBANK,CA,91506,(818)566-4372,(000)000-0000,,10.00,2014-12-13 23:59:59,55501,Burbank Athletic Club,Monthly Membership,,none@email.com 
+JEFFREY,,GOLDMAN,237 S LOMITA ST,BURBANK,CA,91506,(818)736-5159,(000)000-0000,,10.00,2014-11-13 23:59:59,55506,Burbank Athletic Club,Monthly Membership,,none@email.com 
+PATRICK,B,HOWLEY,4418 W KLING ST,BURBANK,CA,91505,(323)317-1476,(000)000-0000,,10.00,2014-11-26 23:59:59,55508,Burbank Athletic Club,Monthly Membership,,none@email.com 
+TAY,J,COHEN,1428 ALLISON AVE,LOS ANGELES,CA,90026,(323)919-3805,(000)000-0000,,130.00,2015-05-26 23:59:59,55511,Burbank Athletic Club,Monthly Membership,,none@email.com 
+ADIS,,HAGHNAZARIAN,215 W PALMER AVE #204,GLENDALE,CA,91204,(818)859-3551,(000)000-0000,,10.00,1999-11-30 23:59:59,55512,Burbank Athletic Club,Monthly Membership,,none@email.com 
+STEPHAINE,,VARGA,4418 W KLING ST,BURBANK,CA,91505,(323)317-1476,(000)000-0000,,10.00,1999-11-30 23:59:59,55513,Burbank Athletic Club,Monthly Membership,,none@email.com 
+KEVIN,,LUCIO,420 W ELMWOOD AVE APT G,BURBANK,CA,91506,(310)428-5475,(000)000-0000,,115.00,2015-02-26 23:59:59,55525,Burbank Athletic Club,Monthly Membership,,none@email.com 
+RYAN,,THURBER,220 VERDUGO AVE,BURBANK,CA,91506,(602)790-0691,(000)000-0000,,220.00,2015-03-13 23:59:59,55526,Burbank Athletic Club,Monthly Membership,,none@email.com 
+NAPAKON,,LADAWANNAAYUDHY,124 NORTH BEACHWOOD,BURBANK,CA,91506,(818)284-5159,(000)000-0000,,220.00,2015-02-26 23:59:59,55531,Burbank Athletic Club,Monthly Membership,,none@email.com 
+EVELYN,,POSEY,2414 W CHANDLER BLVD #A,BURBANK,CA,91506,(818)565-9522,(000)000-0000,,10.00,1999-11-30 23:59:59,55533,Burbank Athletic Club,Monthly Membership,,none@email.com 
+TARIK,H,KASIM,1406 W OAK ST,BURBANK,CA,91506,(818)846-7763,(000)000-0000,,85.00,2015-05-13 23:59:59,55534,Burbank Athletic Club,Monthly Membership,,none@email.com 
+HOWARD,H,EMERY,449 N FREDERIC ST,BURBANK,CA,91505,(602)418-9195,(000)000-0000,,60.00,2015-08-19 23:59:59,55535,Burbank Athletic Club,Monthly Membership,,none@email.com 
+MARK,P,GLEASON,1201 W ALAMEDA APT A,BURBANK,CA,91506,(818)219-0639,(000)000-0000,,10.00,1999-11-30 23:59:59,55541,Burbank Athletic Club,Monthly Membership,,none@email.com 
+SVTLANA,,CARTER,1814 BEL AIRE,GLENDELE,CA,91201,(818)207-8715,(000)000-0000,,185.00,2015-02-26 23:59:59,55542,Burbank Athletic Club,Monthly Membership,,none@email.com 
+ASHA,A,HICKMAN,312 W VALENCIA AVE #205,BURBANK,CA,91506,(818)415-1368,(000)000-0000,,10.00,1999-11-30 23:59:59,55545,Burbank Athletic Club,Monthly Membership,,none@email.com 
+ZULMA,,HICKMAN,312 W VALENCIA AVE #205,BURBANK,CA,91506,(818)415-1368,(000)000-0000,,10.00,1999-11-30 23:59:59,55546,Burbank Athletic Club,Monthly Membership,,none@email.com 
+AISHA,,HICKMAN,312 W VALENCIA AVE #205,BURBANK,CA,91506,(818)415-1368,(000)000-0000,,10.00,1999-11-30 23:59:59,55549,Burbank Athletic Club,Monthly Membership,,none@email.com 
+HAMLET,,KHODABAKHSHI,312 E CEDAR AVE #P,BURBANK,CA,91502,(818)636-7759,(000)000-0000,,10.00,1999-11-30 23:59:59,55557,Burbank Athletic Club,Monthly Membership,,none@email.com 
+KRISTINA,,RIDAOUI,422 E HARVARD RD #A,BURBANK,CA,91501,(818)267-7060,(000)000-0000,,115.00,2015-03-13 23:59:59,55558,Burbank Athletic Club,Monthly Membership,,none@email.com 
+CYNTHIA,,MERCADO,10477 FLEX AVE,PACOMIA,CA,91331,(818)339-4281,(000)000-0000,,10.00,2014-11-26 23:59:59,55570,Burbank Athletic Club,Monthly Membership,,none@email.com 
+SONIA,U,GREEN,509 N BERENDO ST #218,LOS ANGELES,CA,90004,(323)810-9698,(000)000-0000,,150.00,2015-02-26 23:59:59,55572,Burbank Athletic Club,Monthly Membership,,none@email.com 
+PAUL,L,MOLASCO,421 N STONEMAN,ALHAMBRA,CA,91801,(626)233-0474,(000)000-0000,,115.00,2015-03-13 23:59:59,55577,Burbank Athletic Club,Monthly Membership,,none@email.com 
+JORDON,A,LEWANDOWSKI,375 S 3RD ST,BURBANK,CA,91502,(334)430-9248,(000)000-0000,,70.00,2015-07-19 23:59:59,55582,Burbank Athletic Club,Monthly Membership,,none@email.com 
+ALEXANDER,A,SHARDA,132 SOUTH ADAMS,GLENDALE,CA,91205,(818)409-0828,(000)000-0000,,85.00,2015-07-02 23:59:59,55587,Burbank Athletic Club,Monthly Membership,,none@email.com 
+ARTEM,R,HARTOUNIAN,1411 IRVING AVE,GLENDALE,CA,91201,(818)399-0957,(000)000-0000,,185.00,2015-03-13 23:59:59,55590,Burbank Athletic Club,Monthly Membership,,none@email.com 
+MICHAEL,A,JONES,1304 BRIXTON RDD,PASADENA,CA,91105,(626)692-4150,(000)000-0000,,85.00,2015-05-19 23:59:59,55601,Burbank Athletic Club,Monthly Membership,,none@email.com 
+ALVARO,,TRUJILLO,6623 ELMA AVE,NORTH HOLLYWOOD,CA,91606,(818)807-9814,(000)000-0000,,150.00,2015-02-26 23:59:59,55602,Burbank Athletic Club,Monthly Membership,,none@email.com 
+JULIA,,SABATINI,2392 EDGEWATER TER,LOS ANGELES,CA,90039,(323)600-3725,(000)000-0000,,10.00,1999-11-30 23:59:59,55605,Burbank Athletic Club,Monthly Membership,,none@email.com 
+GENESIS,,RODRIGUEZ,315 N RIRGIL AVE # 6,LOS ANGELES,CA,90040,(323)644-8683,(000)000-0000,,10.00,1999-11-30 23:59:59,55607,Burbank Athletic Club,Monthly Membership,,none@email.com 
+ANDY,R,HERNANDEZ,315 N RIRGIL AVE # 6,LOS ANGELES,CA,90040,(323)644-8683,(000)000-0000,,160.00,2015-05-19 23:59:59,55610,Burbank Athletic Club,Monthly Membership,,none@email.com 
+ARIGA,,ABRAHAMIAN,524 N ORCHARD DR,BURBANK,CA,91502,(818)640-4278,(000)000-0000,,10.00,1999-11-30 23:59:59,55613,Burbank Athletic Club,Monthly Membership,,none@email.com 
+AUSTIN,,IRVING,1428 ALLISON AVE,LOS ANGELES,CA,90026,(323)919-3805,(000)000-0000,,10.00,1999-11-30 23:59:59,55614,Burbank Athletic Club,Monthly Membership,,none@email.com 
+CHRIS,C,MEYERS,4820 COLDWATER CANYON A,SHERMAN OAKS,CA,91423,(614)949-1280,(000)000-0000,,115.00,2015-03-13 23:59:59,55616,Burbank Athletic Club,Monthly Membership,,none@email.com 
+MUHAMMAD,,ALAWI,1200 W RIVERSIDE DR APT,BURBANK,CA,91506,(818)679-2048,(000)000-0000,,115.00,2015-03-13 23:59:59,55834,Burbank Athletic Club,Monthly Membership,,none@email.com 
+BELAL,S,ALBADER,3694 BOURHAM BLVD,BURBANK,CA,90068,(603)275-5400,(000)000-0000,,115.00,2015-03-13 23:59:59,55898,Burbank Athletic Club,Monthly Membership,,none@email.com 
+NICOLE,A,OBANDO,12242 MOORPARK ST #6,STUDIO CITY,CA,91604,(818)823-4885,(000)000-0000,,70.00,2015-06-19 23:59:59,55937,Burbank Athletic Club,Monthly Membership,,none@email.com 
+VICTOR,,ACOSTA,1612 CORTEZ ST,LOS ANGELES,CA,90026,(213)408-1191,(000)000-0000,,115.00,2015-03-13 23:59:59,55941,Burbank Athletic Club,Monthly Membership,,none@email.com 
+JOSH,,VILLA,P.O. BX 2509,TOLUCA LAKE,CA,91610,(978) 968-6672,(000) 000-0000,,70.00,2015-05-30 23:59:59,51504,Burbank Athletic Club,Monthly Membership,,none@email.com 
+Thessa,C,Martinez,1027 W. Angeleno Ave. #108,Burbank,CA,91506,8187519088,(000)-000-0000,,135.00,2015-05-01 23:59:59,52607,Burbank Athletic Club,Monthly Membership,Thessa Martinez,thessa.m03@gmail.com 
+Jacob,J,McNaughton,2021 Peyton Ave apt #104,Burbank,CA,91504,(512) 777-9890,(000) 000-0000,,40.00,2015-07-31 23:59:59,52081,Burbank Athletic Club,Monthly Membership,,j.mcnaug@gmail.com 
+Dillon,M,Segale,2021 Peyton Ave apt #104,Burbank,CA,91504,(480) 299-3806,(000) 000-0000,,70.00,2015-05-31 23:59:59,52082,Burbank Athletic Club,Monthly Membership,Dillon Segale,dillonsegale@gmail.com 
+Victoria,,Rivera,13440 Pinney st,pacoima,CA,91331,(818) 489-3467,(000) 000-0000,,110.00,2015-05-31 23:59:59,52947,Burbank Athletic Club,Monthly Membership,,riverav120@gmail.com 
+Gilbert,,Ramirez,1028 Justin Ave,Glendale,CA,91201,8186697453,(000)-000-0000,,85.00,2015-07-01 23:59:59,52976,Burbank Athletic Club,Monthly Membership,,itsgbo@gmail.com 
+KARLA,,RODRIGUEZ,5321 HARMONY AVE APT 101,NORTH HOLLYWOOD,CA,91601,(818) 471-9771,(000) 000-0000,,70.00,2015-05-31 23:59:59,53019,Burbank Athletic Club,Monthly Membership,,none@email.com 
+CHRISTOPHER,,LOPEZ,418 W ALAMEDA AVE APT C,Burbank,CA,91506,(000) 000-0000,(818) 235-8843,,40.00,2015-07-01 23:59:59,56224,Burbank Athletic Club,Monthly Membership,,NONE@NONE.COM 
+NICOLE,,OBANDO,123 BURBANK,Burbank,CA,0,(000) 000-0000,(000) 000-0000,,40.00,2015-07-01 23:59:59,56232,Burbank Athletic Club,Monthly Membership,,NONE@NONE.COM 
+Natasha,,Villanueva,11014 ARMINTA ST,SUN VALLEY,CA,91352,(626) 230-1655,(000) 000-0000,,30.00,2015-07-30 23:59:59,56235,Burbank Athletic Club,Monthly Membership,,villanueva.natasha@gmail.com 
+Mariam,,Etaryan,6431 Bellaire Ave,North Hollywood,CA,91606,(818) 390-4669,(000) 000-0000,,50.00,2015-05-31 23:59:59,56260,Burbank Athletic Club,Monthly Membership,,etaryanmariam95@gmail.com 
+Yolanda,D,Bernal,317 E. Alameda Avenue, B,Burbank,CA,91502,301-938-6272,(000)-000-0000,,40.00,2015-07-01 23:59:59,56275,Burbank Athletic Club,Monthly Membership,,bernalyoli@gmail.com 
+pedro,,nolasco,11117 Leadwell St,sun valley,CA,91352,8187705676,(000)-000-0000,,50.00,2015-05-31 23:59:59,56299,Burbank Athletic Club,Monthly Membership,,p3t3r25@gmail.com 
+RONIKA,,GHARABEIGI,123 BURBANK,Burbank,CA,0,(000) 000-0000,(000) 000-0000,,40.00,2015-07-01 23:59:59,56300,Burbank Athletic Club,Monthly Membership,,NONE@NONE.COM 
+KRISTEN,,GHORCHIAN,123 BURBANK,Burbank,CA,0,(000) 000-0000,(000) 000-0000,,40.00,2015-07-01 23:59:59,56301,Burbank Athletic Club,Monthly Membership,,NONE@NONE.COM 
+BERNADETTE,,CASAS,123 BURBANK,Burbank,CA,91754,(562) 786-4488,(000) 000-0000,,30.00,2015-07-31 23:59:59,56308,Burbank Athletic Club,Monthly Membership,,NONE@NONE.COM 
+PHILLIP,,THOMPSON,123 BURBANK,Burbank,CA,91754,(562) 786-4488,(000) 000-0000,,30.00,2015-07-31 23:59:59,56309,Burbank Athletic Club,Monthly Membership,,NONE@NONE.COM 
+Alessi,,Anzo,10624 Crockett st,Sun Valley,CA,91352,9259513750,(000)-000-0000,,30.00,2015-07-31 23:59:59,56333,Burbank Athletic Club,Monthly Membership,,alessi041009@gmail.com 
+Mary-Elizabeth,,Watson,7240 Ensign Ave. Apt. 6,Sun Valley,CA,91352,4044313649,(000)-000-0000,,40.00,2015-07-01 23:59:59,56335,Burbank Athletic Club,Monthly Membership,,mewatsonh@hotmail.com 
+marcos,,solis,11117 Leadwell St,north hollywood,CA,91352,8187705676,(000)-000-0000,,50.00,2015-05-31 23:59:59,56342,Burbank Athletic Club,Monthly Membership,marcos solis,p3t3r25@gmail.com 
+Lalaine,,Martinez,1027 West Angeleno Avenue #108,Burbank,CA,91506,8182685793,(000)-000-0000,,50.00,2015-05-31 23:59:59,56399,Burbank Athletic Club,Monthly Membership,,nenelam417@yahoo.com 
+DIANA,,PEREZ,127N LOMITA ST,BURBANK,CA,91502,(818) 754-7247,(000) 000-0000,,30.00,2015-07-31 23:59:59,56401,Burbank Athletic Club,Monthly Membership,,NONE@NONE.COM 
+RAFE,,BRYAN,127 N LOMITA ST,BURBANK,CA,91502,(818) 355-0185,(000) 000-0000,,30.00,2015-07-31 23:59:59,56402,Burbank Athletic Club,Monthly Membership,,NONE@NONE.COM 
+Lizzy,,Hernandez,1435 Stanley Ave #123,Glendale,CA,91206,8182688060,(000)-000-0000,,50.00,2015-05-31 23:59:59,56408,Burbank Athletic Club,Monthly Membership,,lizzy.hernandez@yahoo.com 
+Anna,S,Ayala,11646 1/2 Chandler Blvd,Valley Village,CA,91601,818-640-0095,(000)-000-0000,,50.00,2015-05-31 23:59:59,56422,Burbank Athletic Club,Monthly Membership,,ayalaanna@yahoo.com 
+Renee Annalisa,,Barjas,4520 Alger St.,Los Angeles,CA,90039,8186408895,(000)-000-0000,,110.00,2015-05-31 23:59:59,56423,Burbank Athletic Club,Monthly Membership,,renee.barajas4@yahoo.com 
+PEDRO,,NOLASCO,11117 LEADWELL ST,SUN VALLEY,CA,91352,(818) 770-5676,(000) 000-0000,,50.00,2015-05-31 23:59:59,56426,Burbank Athletic Club,Monthly Membership,JORGE NOLASCO,NONE@EMAIL.COM 
+ALIAH,,THOMAS,1214 S WILTON PL,Los Angeles,CA,90019,(000) 000-0000,(310) 570-9799,,50.00,2015-05-31 23:59:59,56437,Burbank Athletic Club,Monthly Membership,,NONE@NONE.COM 
+LETICIA,,ALMARAZ,188 WEST ELMWOOD AVE APT C,BURBANK,CA,91502,(818) 209-0892,(000) 000-0000,,50.00,2015-05-31 23:59:59,56475,Burbank Athletic Club,Monthly Membership,,NONE@NONE.COM 
+JUAN,,SALCE,202 EAST CYPRESS STREET APT 14,GLENDALE,CA,91205,(646) 628-2403,(000) 000-0000,,40.00,2015-07-01 23:59:59,56493,Burbank Athletic Club,Monthly Membership,,NONE@NONE.COM 
+DANTE,,GREEN,1530 WEST AVE APT 96,lancasrter,CA,93534,(951) 847-6631,(000) 000-0000,,30.00,2015-07-30 23:59:59,56497,Burbank Athletic Club,Monthly Membership,,NONE@NONE.COM 
+Fatima,A,Cisneros,2124 N maple st,bburbank,CA,91606,8182038702,(000)-000-0000,,40.00,2015-07-01 23:59:59,56518,Burbank Athletic Club,Monthly Membership,,cisnerosfatima@yahoo.com 
+EFREN,,SALVADOR,5301 W LEXINGTON,LOS ANGELES,CA,90029,(213) 820-0178,(000) 000-0000,,50.00,2015-05-31 23:59:59,56558,Burbank Athletic Club,Monthly Membership,,none@email.com 
+Kristina,R,Porras,631 Amherst Drive,Burbank,CA,91504,818-497-2519,(000)-000-0000,,40.00,2015-07-01 23:59:59,56567,Burbank Athletic Club,Monthly Membership,Kristina Porras,soccersinger1997@yahoo.com 
+ARGISHT,,PETROSYAN,245 W STOCKER ST G,GLENDALE,CA,91202,(000) 000-0000,(818) 620-9416,,40.00,2015-07-01 23:59:59,56569,Burbank Athletic Club,Monthly Membership,,NONE@NONE.COM 
+SCOTT,,CHRISTIANSEN,1366 VIRGINIA AVE,GLENDALE,CA,91202,(661) 350-6796,(000) 000-0000,,40.00,2015-07-01 23:59:59,56577,Burbank Athletic Club,Monthly Membership,,NONE@NONE.COM 
+Juan,,Perez,10711 victory blvd,N Hollywood,CA,91606,(818) 602-1118,(000) 000-0000,,30.00,2015-07-31 23:59:59,56579,Burbank Athletic Club,Monthly Membership,,NONE@NONE.COM 
+ARIN,,MELIKSETIAN,358 MILFORD ST,BURBANK,CA,91203,(000) 000-0000,(000) 000-0000,,40.00,2015-07-01 23:59:59,56588,Burbank Athletic Club,Monthly Membership,,NONE@NONE.COM 
+GAYANE,,ELMASIAN,408 W MAPLE ST 2,GLENDALE,CA,91204,(000) 000-0000,(000) 000-0000,,30.00,2015-07-31 23:59:59,56589,Burbank Athletic Club,Monthly Membership,,NONE@NONE.COM\ 
+Magdiela,C,Duhamel,467 S Michillinda,Pasadena,CA,91107,(626) 340-8842,(000)-000-0000,,40.00,2015-07-01 23:59:59,56601,Burbank Athletic Club,Monthly Membership,,magdieladuhamel@gmail.com 
+MINA,,SHOKRALLA,339 WEST LEXINGTON DRIVE APT A1,GLENDALE,CA,91203,(818) 934-6224,(000) 000-0000,,50.00,2015-05-31 23:59:59,56242,Burbank Athletic Club,Monthly Membership,,NONE@NONE.COM 
+ANNA,,HAKOPIAN,1400 CALVERT STREET APT 15,VAN NUYS,CA,91401,(818) 406-3237,(000) 000-0000,,30.00,2015-07-31 23:59:59,56370,Burbank Athletic Club,Monthly Membership,,NONE@NONE.COM 
+TARA,,BURKE,1608 RIVERSIDE DR,GLENDALE,CA,91201,(000) 000-0000,(619) 838-8942,,70.00,2015-05-30 23:59:59,53003,Burbank Athletic Club,Monthly Membership,,NONE@NONE.COM 
+Kimberly,,Esquive,10855 Olinda St.,Sun Valley,CA,91352,8183312841,(000)-000-0000,,50.00,2015-05-30 23:59:59,56366,Burbank Athletic Club,Monthly Membership,Kimberly Esquive,kesquivel22@hotmail.com 
+Yvette,,Orozco,8447 Glenoaks Blvd.,Sun Valley,CA,91352,(661) 574-5701,(661) 574-5701,,60.00,2015-04-30 23:59:59,49842,Burbank Athletic Club,Monthly Membership,,email@email.com 
+CYNTHIA,,HIDALGO,733 N LAMER ST,BURBANK,CA,91506,(000) 000-0000,(818) 452-6995,,40.00,2015-07-31 23:59:59,53044,Burbank Athletic Club,Monthly Membership,,NONE@NONE.COM 
+lisa,a,mombrun,360 w. alameda ave "c'",burbank,CA,91506,818-468-0924,(000)-000-0000,,30.00,2015-07-31 23:59:59,56623,Burbank Athletic Club,Monthly Membership,,monalisamombrun@yahoo.com 
+SAIRA,,REYES,123 BURBANK,BURBANK,CA,91605,(818) 397-6326,(000) 000-0000,,40.00,2015-07-01 23:59:59,56636,Burbank Athletic Club,Monthly Membership,,NONE@NONE.COM 
+KATELYNN,,MAYFIELD,7005 RADFORD AVE APT 1,NORTH HOLLYWOOD,CA,91605,(000) 000-0000,(818) 934-2050,,30.00,2015-07-31 23:59:59,56660,Burbank Athletic Club,Monthly Membership,,NONE@NONE.COM 
+LILIANA,,TEJEDA,2109 N PASS AVE,BURBANK,CA,91505,(818) 441-8189,(000) 000-0000,,40.00,2015-07-01 23:59:59,56673,Burbank Athletic Club,Monthly Membership,,none@email.com 
+Vicky,,Lemus,11659 Hamlin st 6,North Hollywood,CA,91606,8184192938,(000)-000-0000,,30.00,2015-07-31 23:59:59,56783,Burbank Athletic Club,Monthly Membership,Vicky Lemus,Rlemus37@gmail.com 
+Rigoberto,A,Lemus,11659 Hamlin st 6,North Hollywood,CA,91606,8182978714,(000)-000-0000,,30.00,2015-07-31 23:59:59,56784,Burbank Athletic Club,Monthly Membership,Rigoberto Lemus,Rlemus37@gmail.com 
+Katrina,D,Noyd,2300 N. Niagara St #A,Burbank,CA,91504,818-675-0147,(000)-000-0000,,40.00,2015-07-01 23:59:59,56800,Burbank Athletic Club,Monthly Membership,,nuvisionmedia10@gmail.com 
+SION,,MADADIAN,1016 WINCHESTER AVE APT 29,GLENDALE,CA,91201,(818) 823-7239,(000) 000-0000,,30.00,2015-07-31 23:59:59,56936,Burbank Athletic Club,Monthly Membership,,NONE@NONE.COM 
+Pamela,S,Feeney,844 North Avon St,Burbank,CA,91505,8184456017,(000)-000-0000,,40.00,2015-07-01 23:59:59,56986,Burbank Athletic Club,Monthly Membership,,stellargirl1025@yahoo.com 
+Brittney,,Eklund,940 North Frederic St,Burbank,CA,91505,8184474429,(000)-000-0000,,40.00,2015-07-01 23:59:59,57116,Burbank Athletic Club,Monthly Membership,,pointelov3r@gmail.com 
+Brittney,M,White,5715 Vineland Ave #17,North Hollywood,CA,91601,(210) 428-4705,(000) 000-0000,,55.00,2015-07-01 23:59:59,51650,Burbank Athletic Club,Monthly Membership,,Gidgetwht@icloud.com 
+DONOVAN,,LOPEZ,926 N SCREENLAND DR APT D,BURBANK,CA,91505,(323) 376-1280,(000) 000-0000,,30.00,2015-07-30 23:59:59,57117,Burbank Athletic Club,Monthly Membership,,NONE@NONE.COM 
+HARRY,,MCCOY,5511 CORTEEN,VALLEY,CA,91607,(000) 000-0000,(661) 485-9905,,30.00,2015-07-31 23:59:59,57027,Burbank Athletic Club,Monthly Membership,,NONE@NONE.COM 
+Zonia,M,Camposeco,6735 Cleon Ave Apt 1,North Hollywood,CA,91606,3102596447,(000)-000-0000,,40.00,2015-07-31 23:59:59,53065,Burbank Athletic Club,Monthly Membership,,mari.camposeco@yahoo.com 
+Rivas,,Castillo,8752 rincon ave,SUN VALLEY,CA,91352,(818) 660-3241,(000) 000-0000,,40.00,2015-07-01 23:59:59,57037,Burbank Athletic Club,Monthly Membership,,none@email.com 
+ANDRES,,LEMUS,6005 CARTWRIGHT AVE,NORTH HOLLYWOOD,CA,91606,(818) 927-8415,(000) 000-0000,,40.00,2015-07-31 23:59:59,52624,Burbank Athletic Club,Monthly Membership,,none@email.com 
+Jorge,,Sepulveda,720 N. Pass Ave.,Burbank,CA,91505,(213) 364-5100,(555) 555-5555,,50.00,2015-05-31 23:59:59,47466,Burbank Athletic Club,Monthly Membership,,none@email.com 
+Sally,Kelly,Sheridan,1632 Scott Rd.,Burbank,CA,91504,8184270830,8184270830,,30.00,2015-07-31 23:59:59,57292,Burbank Athletic Club,Monthly Membership,,sallysheridan56@yahoo.com 
+Madelyn,,Tapia,356 Georgian rd,La canada,CA,91011,(661) 916-9322,(661) 916-9322,,30.00,2015-07-31 23:59:59,57400,Burbank Athletic Club,Monthly Membership,,Mahdyie@gmail.com 
+FADY,,SALAMA,1311 ALAMEDA AVE,GLENDALE,CA,91201,(747) 221-2339,(000) 000-0000,,30.00,2015-07-30 23:59:59,56243,Burbank Athletic Club,Monthly Membership,,NONE@NONE.COM 
+april,,coleman,11303 mirandA ST,North Hollywood,CA,91601,(520) 510-7561,(000) 000-0000,,30.00,2015-07-31 23:59:59,56988,Burbank Athletic Club,Monthly Membership,,none@email.com 

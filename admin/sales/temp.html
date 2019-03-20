@@ -1,0 +1,337 @@
+
+
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+        "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<link rel="stylesheet" href="../css/pop_hint.css">
+<link rel="stylesheet" href="../css/salesForm.css">
+<link rel="stylesheet" href="../css/info.css">
+<script type="text/javascript" src="../scripts/employeeServiceLists.js"></script>
+
+
+
+
+<title>Sales Form</title>
+</head>
+<body>
+<div id="headerButs">
+<form><input  type="submit" class="button1" name="new_member" value="New Member Application"><span class="space">&nbsp;or&nbsp;</span><input  type="submit" class="button1" name="search_members" value="Search Members by Name or Id Number">&nbsp;&nbsp;<span class="black">Id Number&nbsp;<input  name="search_id" type="text" id="search_id" value="" size="25" maxlength="60"/>&nbsp;&nbsp;&nbsp;<span class="black">Name</span>&nbsp<input  name="search_name" type="text" id="searc_name" value="" size="25" maxlength="60" /></form>
+</div>
+
+
+<div id="contractTypeHeader">
+New Member Contract
+</div>
+
+<div id="selectServiceTab">
+
+<span class="tabText">1. Select Service</span>
+</div>
+
+
+<div id="singleList">
+<table align="left" border="0" cellspacing="0" cellpadding="1" width=100%>
+<form name="form1" action="parseEmployeeServiceLists.php" method="post" onSubmit="return checkData()">
+<tr>
+<th align="left"  bgcolor="#303030"><font face="Arial" size="1" color="#FFFFFF">#</font></th>
+<th align="left" bgcolor="#303030"><font face="Arial" size="1" color="#FFFFFF">Service Name</font></th>
+<th align="left"  bgcolor="#303030"><font face="Arial" size="1" color="#FFFFFF">Service Term1</font></th>
+<th align="left"  bgcolor="#303030"><font face="Arial" size="1" color="#FFFFFF">Service Term2</font></th>
+
+<th align="left"  bgcolor="#303030"><font face="Arial" size="1" color="#FFFFFF">Service Term 3</font></th>
+<th align="left"  bgcolor="#303030"><font face="Arial" size="1" color="#FFFFFF">Service Term 4</font></th>
+<th align="left"  bgcolor="#303030"><font face="Arial" size="1" color="#FFFFFF">Price</font></th>
+<th align="left"  bgcolor="#303030"><font face="Arial" size="1" color="#FFFFFF">Clear</font></th>
+
+</tr>
+<tr id="a1" style="background-color: #FFFFFF">
+<td align="left" valign ="top"><font face="Arial" size="1" color="black"><b>1</b></font></td>
+<td align="left" valign ="top"><font face="Arial" size="1" color="black"><b>Yoga 4<br><span class="locationColor">Hollywood Way</span></b></font></td>
+<td align="left" valign ="top"><font face="Arial" size="1" color="black"><b><input type="radio" name="" value="" size="3" maxlength="3"/ onKeyUp="checkValue(this.value)">&nbsp; 22 Class(s) 33.00</b></font></td>
+
+<td align="left"  valign ="top"><font face="Arial" size="1" color="black"><b><input type="radio" name="" value="" size="3" maxlength="3"/ onKeyUp="checkValue(this.value)">&nbsp; 3 Day(s) 33.00</b></font></td>
+<td align="left"  valign ="top"><font face="Arial" size="1" color="black"><b><input type="radio" name="" value="" size="3" maxlength="3"/ onKeyUp="checkValue(this.value)">&nbsp; 2 Class(s) 44.00</b></font></td>
+<td align="left"  valign ="top"><font face="Arial" size="1" color="black"><b> N/A  </b></font></td>
+<td align="left"  valign ="top"><input type="text" name="comp1[]" value="" size="6" maxlength="6"/ onKeyUp="checkValue(this.value)">
+</td>
+<td align="left"  valign ="top"><input  type="submit" name="save1" value="Clear" />
+</td>
+</tr>
+<tr id="a2" style="background-color: #D8D8D8">
+<td align="left" valign ="top"><font face="Arial" size="1" color="black"><b>2</b></font></td>
+
+<td align="left" valign ="top"><font face="Arial" size="1" color="black"><b>General Membership<br><span class="locationColor">Media Center 2</span></b></font></td>
+<td align="left" valign ="top"><font face="Arial" size="1" color="black"><b><input type="radio" name="" value="" size="3" maxlength="3"/ onKeyUp="checkValue(this.value)">&nbsp; 6 Month(s) 200.00</b></font></td>
+<td align="left"  valign ="top"><font face="Arial" size="1" color="black"><b><input type="radio" name="" value="" size="3" maxlength="3"/ onKeyUp="checkValue(this.value)">&nbsp; 12 Month(s) 400.00</b></font></td>
+<td align="left"  valign ="top"><font face="Arial" size="1" color="black"><b><input type="radio" name="" value="" size="3" maxlength="3"/ onKeyUp="checkValue(this.value)">&nbsp; 24 Month(s) 750.00</b></font></td>
+<td align="left"  valign ="top"><font face="Arial" size="1" color="black"><b> N/A  </b></font></td>
+<td align="left"  valign ="top"><input type="text" name="comp2[]" value="" size="6" maxlength="6"/ onKeyUp="checkValue(this.value)">
+</td>
+
+<td align="left"  valign ="top"><input  type="submit" name="save1" value="Clear" />
+</td>
+</tr>
+<tr id="a3" style="background-color: #FFFFFF">
+<td align="left" valign ="top"><font face="Arial" size="1" color="black"><b>3</b></font></td>
+<td align="left" valign ="top"><font face="Arial" size="1" color="black"><b>personal training ass<br><span class="locationColor">Media Center 2</span></b></font></td>
+<td align="left" valign ="top"><font face="Arial" size="1" color="black"><b><input type="radio" name="" value="" size="3" maxlength="3"/ onKeyUp="checkValue(this.value)">&nbsp; 1 Day(s) 200.00</b></font></td>
+<td align="left"  valign ="top"><font face="Arial" size="1" color="black"><b><input type="radio" name="" value="" size="3" maxlength="3"/ onKeyUp="checkValue(this.value)">&nbsp; 4 Class(s) 33.00</b></font></td>
+<td align="left"  valign ="top"><font face="Arial" size="1" color="black"><b><input type="radio" name="" value="" size="3" maxlength="3"/ onKeyUp="checkValue(this.value)">&nbsp; 44 Class(s) 500.00</b></font></td>
+
+<td align="left"  valign ="top"><font face="Arial" size="1" color="black"><b> N/A  </b></font></td>
+<td align="left"  valign ="top"><input type="text" name="comp3[]" value="" size="6" maxlength="6"/ onKeyUp="checkValue(this.value)">
+</td>
+<td align="left"  valign ="top"><input  type="submit" name="save1" value="Clear" />
+</td>
+</tr>
+<tr id="a4" style="background-color: #D8D8D8">
+<td align="left" valign ="top"><font face="Arial" size="1" color="black"><b>4</b></font></td>
+<td align="left" valign ="top"><font face="Arial" size="1" color="black"><b>Test Membership Five<br><span class="locationColor">Media Center 2</span></b></font></td>
+<td align="left" valign ="top"><font face="Arial" size="1" color="black"><b><input type="radio" name="" value="" size="3" maxlength="3"/ onKeyUp="checkValue(this.value)">&nbsp; 6 Month(s) 100.00</b></font></td>
+
+<td align="left"  valign ="top"><font face="Arial" size="1" color="black"><b><input type="radio" name="" value="" size="3" maxlength="3"/ onKeyUp="checkValue(this.value)">&nbsp; 1 Year(s) 200.00</b></font></td>
+<td align="left"  valign ="top"><font face="Arial" size="1" color="black"><b><input type="radio" name="" value="" size="3" maxlength="3"/ onKeyUp="checkValue(this.value)">&nbsp; 2 Year(s) 300.00</b></font></td>
+<td align="left"  valign ="top"><font face="Arial" size="1" color="black"><b><input type="radio" name="" value="" size="3" maxlength="3"/ onKeyUp="checkValue(this.value)">&nbsp; 3 Year(s) 400.00</b></font></td>
+<td align="left"  valign ="top"><input type="text" name="comp4[]" value="" size="6" maxlength="6"/ onKeyUp="checkValue(this.value)">
+</td>
+<td align="left"  valign ="top"><input  type="submit" name="save1" value="Clear" />
+</td>
+</tr>
+<tr id="a5" style="background-color: #FFFFFF">
+<td align="left" valign ="top"><font face="Arial" size="1" color="black"><b>5</b></font></td>
+
+<td align="left" valign ="top"><font face="Arial" size="1" color="black"><b>yoga morning<br><span class="locationColor">Media Center 2</span></b></font></td>
+<td align="left" valign ="top"><font face="Arial" size="1" color="black"><b><input type="radio" name="" value="" size="3" maxlength="3"/ onKeyUp="checkValue(this.value)">&nbsp; 1 Class(s) 20.00</b></font></td>
+<td align="left"  valign ="top"><font face="Arial" size="1" color="black"><b><input type="radio" name="" value="" size="3" maxlength="3"/ onKeyUp="checkValue(this.value)">&nbsp; 2 Week(s) 38.00</b></font></td>
+<td align="left"  valign ="top"><font face="Arial" size="1" color="black"><b> N/A  </b></font></td>
+<td align="left"  valign ="top"><font face="Arial" size="1" color="black"><b> N/A  </b></font></td>
+<td align="left"  valign ="top"><input type="text" name="comp5[]" value="" size="6" maxlength="6"/ onKeyUp="checkValue(this.value)">
+</td>
+
+<td align="left"  valign ="top"><input  type="submit" name="save1" value="Clear" />
+</td>
+</tr>
+<tr id="a6" style="background-color: #D8D8D8">
+<td align="left" valign ="top"><font face="Arial" size="1" color="black"><b>6</b></font></td>
+<td align="left" valign ="top"><font face="Arial" size="1" color="black"><b>Membership Test Four<br><span class="locationColor">Media Center 2</span></b></font></td>
+<td align="left" valign ="top"><font face="Arial" size="1" color="black"><b><input type="radio" name="" value="" size="3" maxlength="3"/ onKeyUp="checkValue(this.value)">&nbsp; 6 Year(s) 100.44</b></font></td>
+<td align="left"  valign ="top"><font face="Arial" size="1" color="black"><b><input type="radio" name="" value="" size="3" maxlength="3"/ onKeyUp="checkValue(this.value)">&nbsp; 1 Year(s) 45.00</b></font></td>
+<td align="left"  valign ="top"><font face="Arial" size="1" color="black"><b><input type="radio" name="" value="" size="3" maxlength="3"/ onKeyUp="checkValue(this.value)">&nbsp; 2 Year(s) 500.00</b></font></td>
+
+<td align="left"  valign ="top"><font face="Arial" size="1" color="black"><b><input type="radio" name="" value="" size="3" maxlength="3"/ onKeyUp="checkValue(this.value)">&nbsp; 3 Year(s) 700.00</b></font></td>
+<td align="left"  valign ="top"><input type="text" name="comp6[]" value="" size="6" maxlength="6"/ onKeyUp="checkValue(this.value)">
+</td>
+<td align="left"  valign ="top"><input  type="submit" name="save1" value="Clear" />
+</td>
+</tr>
+<tr id="a7" style="background-color: #FFFFFF">
+<td align="left" valign ="top"><font face="Arial" size="1" color="black"><b>7</b></font></td>
+<td align="left" valign ="top"><font face="Arial" size="1" color="black"><b>Membership Test Three<br><span class="locationColor">Media Center 2</span></b></font></td>
+<td align="left" valign ="top"><font face="Arial" size="1" color="black"><b><input type="radio" name="" value="" size="3" maxlength="3"/ onKeyUp="checkValue(this.value)">&nbsp; 6 Month(s) 200.00</b></font></td>
+
+<td align="left"  valign ="top"><font face="Arial" size="1" color="black"><b><input type="radio" name="" value="" size="3" maxlength="3"/ onKeyUp="checkValue(this.value)">&nbsp; 1 Year(s) 400.00</b></font></td>
+<td align="left"  valign ="top"><font face="Arial" size="1" color="black"><b><input type="radio" name="" value="" size="3" maxlength="3"/ onKeyUp="checkValue(this.value)">&nbsp; 2 Year(s) 500.00</b></font></td>
+<td align="left"  valign ="top"><font face="Arial" size="1" color="black"><b><input type="radio" name="" value="" size="3" maxlength="3"/ onKeyUp="checkValue(this.value)">&nbsp; 3 Year(s) 700.00</b></font></td>
+<td align="left"  valign ="top"><input type="text" name="comp7[]" value="" size="6" maxlength="6"/ onKeyUp="checkValue(this.value)">
+</td>
+<td align="left"  valign ="top"><input  type="submit" name="save1" value="Clear" />
+</td>
+</tr>
+<tr id="a8" style="background-color: #D8D8D8">
+<td align="left" valign ="top"><font face="Arial" size="1" color="black"><b>8</b></font></td>
+
+<td align="left" valign ="top"><font face="Arial" size="1" color="black"><b>Membership Test One<br><span class="locationColor">Media Center 2</span></b></font></td>
+<td align="left" valign ="top"><font face="Arial" size="1" color="black"><b><input type="radio" name="" value="" size="3" maxlength="3"/ onKeyUp="checkValue(this.value)">&nbsp; 6 Month(s) 200.00</b></font></td>
+<td align="left"  valign ="top"><font face="Arial" size="1" color="black"><b><input type="radio" name="" value="" size="3" maxlength="3"/ onKeyUp="checkValue(this.value)">&nbsp; 1 Year(s) 400.00</b></font></td>
+<td align="left"  valign ="top"><font face="Arial" size="1" color="black"><b><input type="radio" name="" value="" size="3" maxlength="3"/ onKeyUp="checkValue(this.value)">&nbsp; 2 Year(s) 500.00</b></font></td>
+<td align="left"  valign ="top"><font face="Arial" size="1" color="black"><b><input type="radio" name="" value="" size="3" maxlength="3"/ onKeyUp="checkValue(this.value)">&nbsp; 3 Year(s) 700.00</b></font></td>
+<td align="left"  valign ="top"><input type="text" name="comp8[]" value="" size="6" maxlength="6"/ onKeyUp="checkValue(this.value)">
+</td>
+
+<td align="left"  valign ="top"><input  type="submit" name="save1" value="Clear" />
+</td>
+</tr>
+<tr id="a9" style="background-color: #FFFFFF">
+<td align="left" valign ="top"><font face="Arial" size="1" color="black"><b>9</b></font></td>
+<td align="left" valign ="top"><font face="Arial" size="1" color="black"><b>Membership Test Two<br><span class="locationColor">Media Center 2</span></b></font></td>
+<td align="left" valign ="top"><font face="Arial" size="1" color="black"><b><input type="radio" name="" value="" size="3" maxlength="3"/ onKeyUp="checkValue(this.value)">&nbsp; 6 Month(s) 200.00</b></font></td>
+<td align="left"  valign ="top"><font face="Arial" size="1" color="black"><b><input type="radio" name="" value="" size="3" maxlength="3"/ onKeyUp="checkValue(this.value)">&nbsp; 1 Year(s) 400.00</b></font></td>
+<td align="left"  valign ="top"><font face="Arial" size="1" color="black"><b><input type="radio" name="" value="" size="3" maxlength="3"/ onKeyUp="checkValue(this.value)">&nbsp; 2 Year(s) 500.00</b></font></td>
+
+<td align="left"  valign ="top"><font face="Arial" size="1" color="black"><b><input type="radio" name="" value="" size="3" maxlength="3"/ onKeyUp="checkValue(this.value)">&nbsp; 3 Year(s) 700.00</b></font></td>
+<td align="left"  valign ="top"><input type="text" name="comp9[]" value="" size="6" maxlength="6"/ onKeyUp="checkValue(this.value)">
+</td>
+<td align="left"  valign ="top"><input  type="submit" name="save1" value="Clear" />
+</td>
+</tr>
+
+</table>
+</div>
+
+<div id="familyList">
+<table align="left" border="0" cellspacing="0" cellpadding="1" width=100%>
+<form name="form1" action="parseEmployeeServiceLists.php" method="post" onSubmit="return checkData()">
+<tr>
+<th align="left"  bgcolor="#303030"><font face="Arial" size="1" color="#FFFFFF">#</font></th>
+
+<th align="left" bgcolor="#303030"><font face="Arial" size="1" color="#FFFFFF">Service Name</font></th>
+<th align="left"  bgcolor="#303030"><font face="Arial" size="1" color="#FFFFFF">Service Term1</font></th>
+<th align="left"  bgcolor="#303030"><font face="Arial" size="1" color="#FFFFFF">Service Term2</font></th>
+<th align="left"  bgcolor="#303030"><font face="Arial" size="1" color="#FFFFFF">Service Term 3</font></th>
+<th align="left"  bgcolor="#303030"><font face="Arial" size="1" color="#FFFFFF">Service Term 4</font></th>
+<th align="left"  bgcolor="#303030"><font face="Arial" size="1" color="#FFFFFF">Price</font></th>
+<th align="left"  bgcolor="#303030"><font face="Arial" size="1" color="#FFFFFF">Clear</font></th>
+
+</tr>
+<tr id="a1" style="background-color: #FFFFFF">
+
+<td align="left" valign ="top"><font face="Arial" size="1" color="black"><b>1</b></font></td>
+<td align="left" valign ="top"><font face="Arial" size="1" color="black"><b>Yoga 4<br><span class="locationColor">Hollywood Way</span></b></font></td>
+<td align="left" valign ="top"><font face="Arial" size="1" color="black"><b><input type="radio" name="" value="" size="3" maxlength="3"/ onKeyUp="checkValue(this.value)">&nbsp; 22 Class(s) 33.00</b></font></td>
+<td align="left"  valign ="top"><font face="Arial" size="1" color="black"><b><input type="radio" name="" value="" size="3" maxlength="3"/ onKeyUp="checkValue(this.value)">&nbsp; 3 Day(s) 33.00</b></font></td>
+<td align="left"  valign ="top"><font face="Arial" size="1" color="black"><b><input type="radio" name="" value="" size="3" maxlength="3"/ onKeyUp="checkValue(this.value)">&nbsp; 2 Class(s) 44.00</b></font></td>
+<td align="left"  valign ="top"><font face="Arial" size="1" color="black"><b> N/A  </b></font></td>
+
+<td align="left"  valign ="top"><input type="text" name="comp1[]" value="" size="6" maxlength="6"/ onKeyUp="checkValue(this.value)">
+</td>
+<td align="left"  valign ="top"><input  type="submit" name="save1" value="Clear" />
+</td>
+</tr>
+<tr id="a2" style="background-color: #D8D8D8">
+<td align="left" valign ="top"><font face="Arial" size="1" color="black"><b>2</b></font></td>
+<td align="left" valign ="top"><font face="Arial" size="1" color="black"><b>General Membership<br><span class="locationColor">Media Center 2</span></b></font></td>
+<td align="left" valign ="top"><font face="Arial" size="1" color="black"><b><input type="radio" name="" value="" size="3" maxlength="3"/ onKeyUp="checkValue(this.value)">&nbsp; 6 Month(s) 200.00</b></font></td>
+<td align="left"  valign ="top"><font face="Arial" size="1" color="black"><b><input type="radio" name="" value="" size="3" maxlength="3"/ onKeyUp="checkValue(this.value)">&nbsp; 12 Month(s) 400.00</b></font></td>
+
+<td align="left"  valign ="top"><font face="Arial" size="1" color="black"><b><input type="radio" name="" value="" size="3" maxlength="3"/ onKeyUp="checkValue(this.value)">&nbsp; 24 Month(s) 750.00</b></font></td>
+<td align="left"  valign ="top"><font face="Arial" size="1" color="black"><b> N/A  </b></font></td>
+<td align="left"  valign ="top"><input type="text" name="comp2[]" value="" size="6" maxlength="6"/ onKeyUp="checkValue(this.value)">
+</td>
+<td align="left"  valign ="top"><input  type="submit" name="save1" value="Clear" />
+</td>
+</tr>
+<tr id="a3" style="background-color: #FFFFFF">
+<td align="left" valign ="top"><font face="Arial" size="1" color="black"><b>3</b></font></td>
+<td align="left" valign ="top"><font face="Arial" size="1" color="black"><b>personal training ass<br><span class="locationColor">Media Center 2</span></b></font></td>
+
+<td align="left" valign ="top"><font face="Arial" size="1" color="black"><b><input type="radio" name="" value="" size="3" maxlength="3"/ onKeyUp="checkValue(this.value)">&nbsp; 1 Day(s) 200.00</b></font></td>
+<td align="left"  valign ="top"><font face="Arial" size="1" color="black"><b><input type="radio" name="" value="" size="3" maxlength="3"/ onKeyUp="checkValue(this.value)">&nbsp; 4 Class(s) 33.00</b></font></td>
+<td align="left"  valign ="top"><font face="Arial" size="1" color="black"><b><input type="radio" name="" value="" size="3" maxlength="3"/ onKeyUp="checkValue(this.value)">&nbsp; 44 Class(s) 500.00</b></font></td>
+<td align="left"  valign ="top"><font face="Arial" size="1" color="black"><b> N/A  </b></font></td>
+<td align="left"  valign ="top"><input type="text" name="comp3[]" value="" size="6" maxlength="6"/ onKeyUp="checkValue(this.value)">
+</td>
+<td align="left"  valign ="top"><input  type="submit" name="save1" value="Clear" />
+</td>
+</tr>
+
+<tr id="a4" style="background-color: #D8D8D8">
+<td align="left" valign ="top"><font face="Arial" size="1" color="black"><b>4</b></font></td>
+<td align="left" valign ="top"><font face="Arial" size="1" color="black"><b>Test Membership Five<br><span class="locationColor">Media Center 2</span></b></font></td>
+<td align="left" valign ="top"><font face="Arial" size="1" color="black"><b><input type="radio" name="" value="" size="3" maxlength="3"/ onKeyUp="checkValue(this.value)">&nbsp; 6 Month(s) 100.00</b></font></td>
+<td align="left"  valign ="top"><font face="Arial" size="1" color="black"><b><input type="radio" name="" value="" size="3" maxlength="3"/ onKeyUp="checkValue(this.value)">&nbsp; 1 Year(s) 200.00</b></font></td>
+<td align="left"  valign ="top"><font face="Arial" size="1" color="black"><b><input type="radio" name="" value="" size="3" maxlength="3"/ onKeyUp="checkValue(this.value)">&nbsp; 2 Year(s) 300.00</b></font></td>
+<td align="left"  valign ="top"><font face="Arial" size="1" color="black"><b><input type="radio" name="" value="" size="3" maxlength="3"/ onKeyUp="checkValue(this.value)">&nbsp; 3 Year(s) 400.00</b></font></td>
+
+<td align="left"  valign ="top"><input type="text" name="comp4[]" value="" size="6" maxlength="6"/ onKeyUp="checkValue(this.value)">
+</td>
+<td align="left"  valign ="top"><input  type="submit" name="save1" value="Clear" />
+</td>
+</tr>
+<tr id="a5" style="background-color: #FFFFFF">
+<td align="left" valign ="top"><font face="Arial" size="1" color="black"><b>5</b></font></td>
+<td align="left" valign ="top"><font face="Arial" size="1" color="black"><b>yoga morning<br><span class="locationColor">Media Center 2</span></b></font></td>
+<td align="left" valign ="top"><font face="Arial" size="1" color="black"><b><input type="radio" name="" value="" size="3" maxlength="3"/ onKeyUp="checkValue(this.value)">&nbsp; 1 Class(s) 20.00</b></font></td>
+<td align="left"  valign ="top"><font face="Arial" size="1" color="black"><b><input type="radio" name="" value="" size="3" maxlength="3"/ onKeyUp="checkValue(this.value)">&nbsp; 2 Week(s) 38.00</b></font></td>
+
+<td align="left"  valign ="top"><font face="Arial" size="1" color="black"><b> N/A  </b></font></td>
+<td align="left"  valign ="top"><font face="Arial" size="1" color="black"><b> N/A  </b></font></td>
+<td align="left"  valign ="top"><input type="text" name="comp5[]" value="" size="6" maxlength="6"/ onKeyUp="checkValue(this.value)">
+</td>
+<td align="left"  valign ="top"><input  type="submit" name="save1" value="Clear" />
+</td>
+</tr>
+<tr id="a6" style="background-color: #D8D8D8">
+<td align="left" valign ="top"><font face="Arial" size="1" color="black"><b>6</b></font></td>
+<td align="left" valign ="top"><font face="Arial" size="1" color="black"><b>Membership Test Four<br><span class="locationColor">Media Center 2</span></b></font></td>
+
+<td align="left" valign ="top"><font face="Arial" size="1" color="black"><b><input type="radio" name="" value="" size="3" maxlength="3"/ onKeyUp="checkValue(this.value)">&nbsp; 6 Year(s) 100.44</b></font></td>
+<td align="left"  valign ="top"><font face="Arial" size="1" color="black"><b><input type="radio" name="" value="" size="3" maxlength="3"/ onKeyUp="checkValue(this.value)">&nbsp; 1 Year(s) 45.00</b></font></td>
+<td align="left"  valign ="top"><font face="Arial" size="1" color="black"><b><input type="radio" name="" value="" size="3" maxlength="3"/ onKeyUp="checkValue(this.value)">&nbsp; 2 Year(s) 500.00</b></font></td>
+<td align="left"  valign ="top"><font face="Arial" size="1" color="black"><b><input type="radio" name="" value="" size="3" maxlength="3"/ onKeyUp="checkValue(this.value)">&nbsp; 3 Year(s) 700.00</b></font></td>
+<td align="left"  valign ="top"><input type="text" name="comp6[]" value="" size="6" maxlength="6"/ onKeyUp="checkValue(this.value)">
+</td>
+<td align="left"  valign ="top"><input  type="submit" name="save1" value="Clear" />
+</td>
+</tr>
+
+<tr id="a7" style="background-color: #FFFFFF">
+<td align="left" valign ="top"><font face="Arial" size="1" color="black"><b>7</b></font></td>
+<td align="left" valign ="top"><font face="Arial" size="1" color="black"><b>Membership Test Three<br><span class="locationColor">Media Center 2</span></b></font></td>
+<td align="left" valign ="top"><font face="Arial" size="1" color="black"><b><input type="radio" name="" value="" size="3" maxlength="3"/ onKeyUp="checkValue(this.value)">&nbsp; 6 Month(s) 200.00</b></font></td>
+<td align="left"  valign ="top"><font face="Arial" size="1" color="black"><b><input type="radio" name="" value="" size="3" maxlength="3"/ onKeyUp="checkValue(this.value)">&nbsp; 1 Year(s) 400.00</b></font></td>
+<td align="left"  valign ="top"><font face="Arial" size="1" color="black"><b><input type="radio" name="" value="" size="3" maxlength="3"/ onKeyUp="checkValue(this.value)">&nbsp; 2 Year(s) 500.00</b></font></td>
+<td align="left"  valign ="top"><font face="Arial" size="1" color="black"><b><input type="radio" name="" value="" size="3" maxlength="3"/ onKeyUp="checkValue(this.value)">&nbsp; 3 Year(s) 700.00</b></font></td>
+
+<td align="left"  valign ="top"><input type="text" name="comp7[]" value="" size="6" maxlength="6"/ onKeyUp="checkValue(this.value)">
+</td>
+<td align="left"  valign ="top"><input  type="submit" name="save1" value="Clear" />
+</td>
+</tr>
+<tr id="a8" style="background-color: #D8D8D8">
+<td align="left" valign ="top"><font face="Arial" size="1" color="black"><b>8</b></font></td>
+<td align="left" valign ="top"><font face="Arial" size="1" color="black"><b>Membership Test One<br><span class="locationColor">Media Center 2</span></b></font></td>
+<td align="left" valign ="top"><font face="Arial" size="1" color="black"><b><input type="radio" name="" value="" size="3" maxlength="3"/ onKeyUp="checkValue(this.value)">&nbsp; 6 Month(s) 200.00</b></font></td>
+<td align="left"  valign ="top"><font face="Arial" size="1" color="black"><b><input type="radio" name="" value="" size="3" maxlength="3"/ onKeyUp="checkValue(this.value)">&nbsp; 1 Year(s) 400.00</b></font></td>
+
+<td align="left"  valign ="top"><font face="Arial" size="1" color="black"><b><input type="radio" name="" value="" size="3" maxlength="3"/ onKeyUp="checkValue(this.value)">&nbsp; 2 Year(s) 500.00</b></font></td>
+<td align="left"  valign ="top"><font face="Arial" size="1" color="black"><b><input type="radio" name="" value="" size="3" maxlength="3"/ onKeyUp="checkValue(this.value)">&nbsp; 3 Year(s) 700.00</b></font></td>
+<td align="left"  valign ="top"><input type="text" name="comp8[]" value="" size="6" maxlength="6"/ onKeyUp="checkValue(this.value)">
+</td>
+<td align="left"  valign ="top"><input  type="submit" name="save1" value="Clear" />
+</td>
+</tr>
+<tr id="a9" style="background-color: #FFFFFF">
+<td align="left" valign ="top"><font face="Arial" size="1" color="black"><b>9</b></font></td>
+<td align="left" valign ="top"><font face="Arial" size="1" color="black"><b>Membership Test Two<br><span class="locationColor">Media Center 2</span></b></font></td>
+
+<td align="left" valign ="top"><font face="Arial" size="1" color="black"><b><input type="radio" name="" value="" size="3" maxlength="3"/ onKeyUp="checkValue(this.value)">&nbsp; 6 Month(s) 200.00</b></font></td>
+<td align="left"  valign ="top"><font face="Arial" size="1" color="black"><b><input type="radio" name="" value="" size="3" maxlength="3"/ onKeyUp="checkValue(this.value)">&nbsp; 1 Year(s) 400.00</b></font></td>
+<td align="left"  valign ="top"><font face="Arial" size="1" color="black"><b><input type="radio" name="" value="" size="3" maxlength="3"/ onKeyUp="checkValue(this.value)">&nbsp; 2 Year(s) 500.00</b></font></td>
+<td align="left"  valign ="top"><font face="Arial" size="1" color="black"><b><input type="radio" name="" value="" size="3" maxlength="3"/ onKeyUp="checkValue(this.value)">&nbsp; 3 Year(s) 700.00</b></font></td>
+<td align="left"  valign ="top"><input type="text" name="comp9[]" value="" size="6" maxlength="6"/ onKeyUp="checkValue(this.value)">
+</td>
+<td align="left"  valign ="top"><input  type="submit" name="save1" value="Clear" />
+</td>
+</tr>
+
+</table>
+</div>
+
+
+<div id="paymentSummaryTab">
+<span class="tabText">2. Payment Summary</span>
+</div>
+
+
+
+
+
+<div id="paymentSummaryTab">
+<span class="tabText2">2. Payment Summary</span>
+</div>
+
+
+<div id="overFields" class="black">
+Commission Credit: &nbsp;<input  name="email" type="text" id="email" value="" size="25" maxlength="30"  tabindex="3"/>
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Price Change Overide: &nbsp;<input  name="email" type="text" id="email" value="" size="25" maxlength="30"  tabindex="3"/>
+</div>
+
+
+
+
+
+</body>
+</html>

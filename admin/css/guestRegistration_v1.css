@@ -1,0 +1,172 @@
+#userHeader  {
+text-align: center;
+position: relative; 
+margin-left: auto; 
+margin-right: auto;
+font-size: 15pt;
+font-weight: 600;
+font-style: normal;
+font-family: "Arial","Helvetica","Times",serif;
+color: #000;
+top:  0px;
+}
+
+#userForm   {
+position: relative; 
+margin-left: 50px; 
+margin-right: auto;
+top:  10px;
+}
+
+#contentWindow  {
+position: relative; 
+width: 825px;
+margin-left: auto; 
+margin-right: auto;
+top:  50px;
+}
+
+
+.black {
+font-size: 9pt;
+font-weight: 600;
+font-style: normal;
+font-family: "Arial","Helvetica","Times",serif;
+color: #000000;
+z-index: 2;
+}
+
+.blackTwo {
+font-size: 8pt;
+font-weight: 400;
+font-style: normal;
+font-family: "Arial","Helvetica","Times",serif;
+color: #000000;
+z-index: 2;
+}
+
+
+.white {
+font-size: 8pt;
+font-weight: 400;
+font-style: normal;
+font-family: "Arial","Helvetica","Times",serif;
+color: #FFFFFF;
+z-index: 2;
+}
+
+
+input{
+text-align: left;
+background: #FFFFFF;
+border: 1px solid #616163;
+}
+
+.tdHead {
+text-align:left;
+padding-right: 20px;
+}
+
+th {
+background: #303030
+}
+
+.button1 {
+border: 1px solid #616163;
+padding-top: 3px;
+padding-bottom: 3px;
+padding-left: 10px;
+padding-right: 10px;
+background:  #4A4B4C;
+font-size: 8pt;
+font-weight: 200;
+font-style: normal;
+font-family: "Arial","Helvetica","Times",serif;
+color: #FCB040;
+}
+
+.button1:hover  {
+font-size: 8pt;
+font-weight: 200;
+font-style: normal;
+font-family: "Arial","Helvetica","Times",serif;
+color: #FFFFFF;
+}
+
+.buttonPad {
+padding-top: 20px;
+}
+
+
+.head, li { 
+margin-bottom:0px; 
+}
+
+.head { 
+font-size: 8pt;
+font-weight: 600;
+font-style: normal;
+font-family: "Arial","Helvetica","Times",serif;
+color: #000000;
+display:block;
+cursor: pointer;
+}
+
+.head:hover  {
+font-size: 8pt;
+font-weight: 600;
+font-style: normal;
+font-family: "Arial","Helvetica","Times",serif;
+color: #690;
+}
+
+
+
+.content { 
+display:none;
+}
+
+.left { 
+float: left;
+width: 40%;
+}
+
+.right { 
+float: right;
+width: 45%;
+top:50%;
+margin-top: 20px; 
+margin-right: 50px;
+}
+
+.spacer{
+    height: 20px;
+
+}
+
+.topAreaa{
+    height: 50%;
+    width: 100%;
+}
+
+ul {
+list-style-type: none;
+margin: 0px;
+padding: 0px;
+}
+
+.button99 {
+    text-decoration: none;
+    font: bold 12px/1em "Droid Sans",sans-serif;
+    text-shadow: 0px 1px 0px #030303;
+    -moz-user-select: none;
+    padding: 0.5em 0.6em 0.4em;
+    display: inline-block;
+    position: relative;
+    border-top: 1px solid rgba(61, 76, 158, 0.8);
+    border-bottom: 1px solid #4251A1;
+    background-image: radial-gradient(ellipse farthest-corner at center top , #0B05FF 0%, #300495 100%), url("https://lh4.googleusercontent.com/-Qs9-Ohgo6sk/UY11O1WoMQI/AAAAAAAACME/nUID7awcMow/s50-no/noise.png");
+    background-color: #FCF9F9;
+    box-shadow: 0px 0.3em 0.3em rgba(255, 255, 255, 0.6) inset, 0px -0.1em 0.3em rgba(5, 5, 5, 0) inset, 0px 0.1em 3px #999, 0px 0.3em 1px #727272, 0px 0.5em 5px rgba(61, 50, 137, 0.42);
+    color: #FFF !important;
+}

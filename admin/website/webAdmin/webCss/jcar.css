@@ -1,0 +1,10 @@
+/**
+ * Overwrite for having a carousel with dynamic width.
+ */
+.jcarousel-skin-tango .jcarousel-container-horizontal {
+    width: 468px;
+}
+
+.jcarousel-skin-tango .jcarousel-clip-horizontal {
+    width: 468px;
+}

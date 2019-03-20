@@ -1,0 +1,70 @@
+.topArea{
+    height: 150px;
+    width:  100%;
+}
+
+.title{
+    font-weight: 800;
+    font-size: 18px;
+    width: 100%;
+    position: relative;
+    text-align: center;
+}
+
+.left{
+    float: left;
+    width: 40%;
+    text-align: center;
+}
+
+.right{
+    float: right;
+    width: 40%;
+    text-align: center;
+}
+
+.leftM{
+    float: left;
+    width: 25%;
+    text-align: center;
+    margin-top: 15px;
+}
+
+.rightM{
+    float: left;
+    width: 25%;
+    text-align: center;
+    margin-top: 15px;
+}
+.leftM2{
+    float: left;
+    width: 25%;
+    text-align: center;
+    margin-top: 15px;
+}
+
+.rightM2{
+    float: left;
+    width: 25%;
+    text-align: center;
+    margin-top: 15px;    
+}
+
+.row1{
+    background-color: #FFFFC4;
+}
+.row2{
+    background-color: #FFF09E;
+}
+.overFlag {
+    color: red;
+}
+.justFlag {
+  color:  orange;
+}
+.ns{
+    color: red;
+}
+.abs{
+    color: red;
+}

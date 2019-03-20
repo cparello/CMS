@@ -1,0 +1,95 @@
+body {
+background-color: #cccccc;
+text-align: center;
+min-height: 100%;
+}
+
+.headerBlurb {
+margin-top: 5px;
+margin-bottom: 0px;
+font-size: 14pt;
+font-weight: 600;
+font-style: normal;
+font-family: "Arial","Helvetica","Times",serif;
+color: #003300;
+}
+
+
+.pageHeader  {
+margin-top: 0px;
+margin-bottom: 0px;
+font-size: 16pt;
+font-weight: 300;
+font-style: normal;
+font-family: "Arial","Helvetica","Times",serif;
+color: #000;
+}
+
+.car {
+position: relative;
+text-align: center;
+top: 0px;
+width: 550px;
+height: 300px;
+margin: 0 auto;
+margin-left: auto; 
+margin-right: auto;
+}
+
+.funcHeader {
+padding-top:15px;
+margin-top:0px;
+margin-bottom:10px;
+line-height:70%;
+font-size: 12pt;
+font-weight: 300;
+font-style: normal;
+font-family: "Arial","Helvetica","Times",serif;
+color: #000;
+}
+
+input{
+background: #FFFFFF;
+border: 1px solid #616163;
+}
+
+.fontTools1 {
+position: absolute;
+top: 60px;
+left: 20px;
+width: 300px;
+height: 150px;
+font-size: 14pt;
+font-weight: 300;
+font-style: normal;
+font-family: "Arial","Helvetica","Times",serif;
+color: #000;
+z-index: 2;
+}
+
+.fontTools2 {
+position: absolute;
+top: 60px;
+left: 1010px;
+width: 300px;
+height: 150px;
+font-size: 14pt;
+font-weight: 300;
+font-style: normal;
+font-family: "Arial","Helvetica","Times",serif;
+color: #000;
+z-index: 2;
+}
+
+
+td {
+font-size: 11pt;
+font-weight: 300;
+font-style: normal;
+font-family: "Arial","Helvetica","Times",serif;
+color: #000;
+}
+
+.out { 
+border:1px solid #000;
+}

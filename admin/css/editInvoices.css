@@ -1,0 +1,239 @@
+body{
+margin: 0px;
+}
+
+#userHeader  {
+text-align: center;
+position: relative; 
+top: 30px;
+margin-left: auto; 
+margin-right: auto;
+font-size: 15pt;
+font-weight: 600;
+font-style: normal;
+font-family: "Arial","Helvetica","Times",serif;
+color: #000000;
+}
+
+
+.grey {
+padding-top: 20px;
+font-size: 9pt;
+font-weight: 600;
+font-style: normal;
+font-family: "Arial","Helvetica","Times",serif;
+color: #6F6F6F;
+z-index: 2;
+}
+
+
+
+#innerOne   {
+position: relative; 
+height: auto;
+width: 435px;
+top:  60px;
+margin-left: auto; 
+margin-right: auto;
+z-index: 1;
+}
+
+#monthParams {
+position: relative; 
+height: auto;
+width: 435px;
+top:  70px;
+margin-left: auto; 
+margin-right: auto;
+z-index: 2;
+}
+
+#innerTwo   {
+position: relative; 
+height: auto;
+width: 435px;
+top:  100px;
+margin-left: auto; 
+margin-right: auto;
+z-index: 1;
+}
+
+
+#pastParams {
+position: relative; 
+height: auto;
+width: 435px;
+top:  110px;
+margin-left: auto; 
+margin-right: auto;
+z-index: 2;
+}
+
+
+#innerThree   {
+position: relative; 
+height: auto;
+width: 435px;
+top:  140px;
+margin-left: auto; 
+margin-right: auto;
+z-index: 1;
+}
+
+#rejectParams {
+position: relative; 
+height: auto;
+width: 435px;
+top:  150px;
+margin-left: auto; 
+margin-right: auto;
+z-index: 2;
+}
+
+#innerFour   {
+position: relative; 
+height: auto;
+width: 435px;
+top:  180px;
+margin-left: auto; 
+margin-right: auto;
+z-index: 1;
+}
+
+#finalParams {
+position: relative; 
+height: auto;
+width: 435px;
+top:  190px;
+margin-left: auto; 
+margin-right: auto;
+z-index: 2;
+}
+
+#innerFive   {
+position: relative; 
+height: auto;
+width: 435px;
+top:  210px;
+margin-left: auto; 
+margin-right: auto;
+padding-bottom: 20px;
+z-index: 1;
+}
+
+table {
+width: 100%;
+border-collapse:collapse;
+border:  1px solid #4A4B4C;
+}
+
+
+.padOne {
+padding-top: 8px;
+padding-left: 8px;
+}
+.padTwo {
+padding-left: 8px;
+}
+.padThree {
+padding-left: 8px;
+padding-bottom: 8px;
+}
+
+
+
+.padFour {
+padding-top: 8px;
+padding-left: 12px;
+padding-right: 10px;
+}
+.padFive {
+padding-left: 12px;
+padding-right: 10px;
+}
+.padSix {
+padding-left: 12px;
+padding-bottom: 8px;
+padding-right: 10px;
+}
+
+
+
+
+
+.butPos {
+padding-top: 10px;
+padding-bottom: 10px;
+}
+
+
+
+td {
+width: 33%;
+padding-top: 2px;
+}
+
+th {
+width: 33%;
+padding-top: 2px;
+}
+
+input{
+background: #FFFFFF;
+border: 1px solid #616163;
+}
+
+
+.black {
+font-size: 8pt;
+font-weight: 700;
+font-style: normal;
+font-family: "Arial","Helvetica","Times",serif;
+color: #000000;
+z-index: 2
+}
+
+.blackTwo {
+font-size: 7pt;
+font-weight: 700;
+font-style: normal;
+font-family: "Arial","Helvetica","Times",serif;
+color: #000000;
+z-index: 2
+}
+
+.buffer {
+margin-right: 10px;
+}
+
+
+
+input[type=radio] {
+   border: none;
+   background: none;
+}
+
+
+
+.button1 {
+    border: 1px solid #616163;
+    background:  #FFFFFF;
+    padding-top:  1px;
+    padding-bottom:  1px;
+    font-size: 9pt;
+    font-weight: 200;
+    font-style: normal;
+    font-family: "Arial","Helvetica","Times",serif;
+    color: #000;
+    cursor: pointer;
+}
+
+
+.button1:hover  {
+    font-size: 9pt;
+    font-weight: 200;
+    font-style: normal;
+    font-family: "Arial","Helvetica","Times",serif;
+    color: #900;
+}
+

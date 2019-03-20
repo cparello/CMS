@@ -1,0 +1,78 @@
+body {
+text-align: center;
+}
+
+.titleHeader  {
+padding-bottom: 20px;
+font-size: 15pt;
+font-weight: 600;
+font-style: normal;
+font-family: "Arial","Helvetica","Times",serif;
+color: #000000;
+}
+
+.headerFont  {
+font-size: 10pt;
+font-weight: 600;
+font-style: normal;
+font-family: "Arial","Helvetica","Times",serif;
+color: #000000;
+}
+
+
+
+.black {
+font-size: 10pt;
+font-weight: 500;
+font-style: normal;
+font-family: "Arial","Helvetica","Times",serif;
+color: #000000;
+}
+
+.blackTwo {
+font-size: 9pt;
+font-weight: 500;
+font-style: normal;
+font-family: "Arial","Helvetica","Times",serif;
+color: #000000;
+}
+
+td {
+padding-top: 7px;
+}
+
+
+td.barPad {
+padding-top: 20px;
+}
+
+.invList {
+padding-right: 10px;
+font-size: 9pt;
+font-weight: 500;
+font-style: normal;
+font-family: "Arial","Helvetica","Times",serif;
+color: #06F;
+}
+
+
+.printInv:Link {
+text-decoration:none;
+color: #06F;
+}
+.printInv:visited{
+text-decoration:none;
+color: #06F;
+}
+.printInv:active{
+text-decoration:none;
+color: #06F;
+}
+a.printInv:hover { 
+text-decoration:none;
+color: 	#090; 
+
+.footer {
+padding-bottom: 10px;
+}
+

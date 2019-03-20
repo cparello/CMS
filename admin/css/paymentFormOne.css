@@ -1,0 +1,78 @@
+#secTab  {
+border-collapse:collapse;
+}
+
+.black2 {
+font-size: 8pt;
+font-weight: 500;
+font-style: normal;
+font-family: "Arial","Helvetica","Times",serif;
+color: #000000;
+}
+
+.black3 {
+padding-top:10px;
+padding-bottom:10px;
+padding-left: 10px;
+font-size: 10pt;
+font-weight: 700;
+font-style: normal;
+font-family: "Arial","Helvetica","Times",serif;
+color: #000000;
+}
+
+.empTxt2 {
+font-size: 10pt;
+font-weight: 700;
+font-style: normal;
+font-family: "Arial","Helvetica","Times",serif;
+color: #900;
+}
+
+.oBtext  {
+position: relative;
+top: 0px;
+text-align: left;
+padding-left: 10px;
+font-size: 9pt;
+font-weight: 300;
+font-style: normal;
+font-family: "Arial","Helvetica","Times",serif;
+color: #FFFFFF;
+}
+
+.tile3  {
+border-left: 1px solid black;
+}
+
+.tile4  {
+border-right: 1px solid black;
+}
+
+.tile5  {
+border-bottom: 1px solid black;
+}
+
+.rightBorder {
+border-right: 1px solid black;
+}
+
+.tabPad3 {
+padding-top:15px;
+padding-bottom:10px;
+}
+
+.closeX {
+padding-top: 0px;
+padding-right: 10px;
+text-align: right;
+font-size: 13pt;
+font-weight: 900;
+font-style: normal;
+font-family: "Arial","Helvetica","Times",serif;
+color: #000;
+}
+
+.close {
+cursor: pointer
+}

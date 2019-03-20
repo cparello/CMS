@@ -1,0 +1,181 @@
+body{
+margin: 0px;
+}
+
+#userHeader  {
+text-align: center;
+position: relative; 
+top: 30px;
+margin-left: auto; 
+margin-right: auto;
+font-size: 15pt;
+font-weight: 600;
+font-style: normal;
+font-family: "Arial","Helvetica","Times",serif;
+color: #000000;
+}
+
+
+#userHeader2  {
+text-align: center;
+position: relative; 
+top: 40px;
+margin-left: auto; 
+margin-right: auto;
+font-size: 10pt;
+font-weight: 700;
+font-style: normal;
+font-family: "Arial","Helvetica","Times",serif;
+color: #000000;
+text-decoration: underline;
+}
+
+.grey {
+padding-top: 20px;
+font-size: 9pt;
+font-weight: 600;
+font-style: normal;
+font-family: "Arial","Helvetica","Times",serif;
+color: #6F6F6F;
+z-index: 2;
+}
+
+
+
+#innerOne   {
+position: relative; 
+height: auto;
+width: 300px;
+top:  60px;
+margin-left: auto; 
+margin-right: auto;
+text-align: center;
+}
+
+
+#pastDue {
+position: relative; 
+height: auto;
+width: 300px;
+top:  75px;
+margin-left: auto; 
+margin-right: auto;
+}
+
+
+#innerTwo   {
+position: relative; 
+height: auto;
+width: 300px;
+top:  100px;
+margin-left: auto; 
+margin-right: auto;
+text-align: center;
+}
+
+#decRej   {
+position: relative; 
+height: auto;
+width: 300px;
+top:  115px;
+margin-left: auto; 
+margin-right: auto;
+}
+
+#innerThree   {
+position: relative; 
+height: auto;
+width: 300px;
+top:  140px;
+margin-left: auto; 
+margin-right: auto;
+text-align: center;
+}
+
+#monInv {
+position: relative; 
+height: auto;
+width: 300px;
+top:  155px;
+margin-left: auto; 
+margin-right: auto;
+padding-bottom: 25px;
+}
+
+table {
+width: 100%;
+border-collapse:collapse;
+border:  1px solid #4A4B4C;
+}
+
+
+td.top {
+padding-top: 8px;
+}
+
+td.top2 {
+padding-top: 10px;
+}
+
+
+.butPos {
+padding-top: 16px;
+padding-bottom: 10px;
+}
+
+.pTop {
+padding-top: 5px;
+}
+
+td {
+width: 33%;
+}
+
+th {
+width: 33%;
+}
+
+input{
+background: #FFFFFF;
+border: 1px solid #616163;
+}
+
+
+.black {
+font-size: 8pt;
+font-weight: 700;
+font-style: normal;
+font-family: "Arial","Helvetica","Times",serif;
+color: #000000;
+z-index: 2
+}
+
+input[type=radio] {
+   border: none;
+   background: none;
+}
+
+
+
+.button1 {
+    border: 1px solid #616163;
+    background:  #FFFFFF;
+    padding-top:  1px;
+    padding-bottom:  1px;
+    font-size: 9pt;
+    font-weight: 200;
+    font-style: normal;
+    font-family: "Arial","Helvetica","Times",serif;
+    color: #000;
+    cursor: pointer;
+}
+
+
+.button1:hover  {
+    font-size: 9pt;
+    font-weight: 200;
+    font-style: normal;
+    font-family: "Arial","Helvetica","Times",serif;
+    color: #900;
+}
+

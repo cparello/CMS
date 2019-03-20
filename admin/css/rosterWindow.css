@@ -1,0 +1,104 @@
+img {
+border-style: none;
+}  
+
+
+#logoDiv {
+position: absolute;
+padding-top: 20px;
+left: 25px;
+width: auto;
+}
+
+#postTimeDiv {
+position: absolute;
+padding-top: 20px;
+left: 515px;
+width: auto;
+}
+
+.black1 {
+font-size: 10pt;
+font-weight: 300;
+font-style: normal;
+font-family: "Arial","Helvetica","Times",serif;
+color: #000;
+}
+
+.black2 {
+font-size: 10pt;
+font-weight: 700;
+font-style: normal;
+font-family: "Arial","Helvetica","Times",serif;
+color: #000;
+}
+
+.black3 {
+font-size: 12pt;
+font-weight: 600;
+font-style: normal;
+font-family: "Arial","Helvetica","Times",serif;
+color: #000;
+}
+
+#classInfo {
+position:relative;
+width: 730px;
+top: 80px;
+left: 25px;
+text-align: left;
+border-top: 1px solid #000;
+border-bottom: 1px solid #000;
+}
+
+.pad1 {
+padding-left: 15px;
+}
+
+.pad2 {
+padding-top: 10px;
+}
+
+.pad3 {
+padding-bottom: 10px;
+}
+
+#rosterHeader {
+position:relative;
+width: 730px;
+top: 100px;
+left: 25px;
+text-align: left;
+}
+
+#list {
+position:relative;
+width: 730px;
+top: 115px;
+left: 25px;
+text-align: left;
+}
+
+.whiteHeader {
+font-size: 9pt;
+font-weight: 700;
+font-style: normal;
+font-family: "Arial","Helvetica","Times",serif;
+color: #FFF;
+padding-left: 4px;
+}
+
+.listText {
+border-bottom: 1px solid #000;
+border-left: 1px solid #000;
+padding-left: 4px;
+padding-top: 7px;
+padding-bottom: 7px;
+font-size: 9pt;
+font-weight: 300;
+font-style: normal;
+font-family: "Arial","Helvetica","Times",serif;
+color: #000;
+}
+
+

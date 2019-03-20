@@ -1,0 +1,75 @@
+/*//STYLING///////////////////////*/
+/*changes made to override functionality built into foundation css*/
+body, h1, h2, h3, h4, h5 {font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;}
+#logo {padding: 15px 0; position: relative;}
+#login-cart {color: #a6a6a6; z-index: 1;}
+h1, h2, h3, h4, h5 {line-height: 1em;}
+#icons {font-size: 2em; margin-top: 30px; text-align: center;}
+#icons div {margin-bottom: 30px;}
+#hp-article article {padding: 0 0 0 180px; position: relative;}
+#hp-article article img {left: 0; position: absolute; top: 0; -moz-border-radius: 50%; -webkit-border-radius: 50%; border-radius: 50%;}
+footer #social {text-align: right;}
+footer #social i:last-child {margin: 0;}
+.margin {padding-bottom: 30px;}
+.margin-top-bottom {padding: 30px 0;}
+.pricing-table .bullet-item {line-height: 1.5em;}
+#cover {background: url('../img/bg_header-seamless.jpg') top center repeat; height: 150px; margin-bottom: 30px; text-align: center;}
+.margin-right {margin-right: 15px;}
+#map-canvas {height: 400px; margin-bottom: 30px; width: 100%;}
+.text-center {text-align: center;}
+.hide {display: none;}
+.sub-nav {display: block; width: auto; overflow: hidden; margin-bottom: -0.25rem 0 1.125rem; padding-top: 0.5rem;}
+dl {margin-bottom: 0.5rem;}
+#master-alert-box {display: none; position: fixed; right: 10px; top: 10px; width: 25%; z-index: 999;}
+.alert {color: #de2c3b;}
+@media only screen and (max-width: 40em) {
+	#hp-article article {padding: 0; text-align: center;}
+	#hp-article article img {position: inherit; display: block; left: auto; top: auto; margin: 0 auto;}
+	#map-canvas {height: 200px;}
+}
+
+.gallery {display: block; margin-bottom: 30px;}
+.gallery li {
+  position: relative;
+  width: 200px;
+  height: 200px;
+  overflow: hidden;
+}
+
+.gallery li img {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  height: 100%;
+  width: auto;
+  -webkit-transform: translate(-50%,-50%);
+      -ms-transform: translate(-50%,-50%);
+          transform: translate(-50%,-50%);
+}
+
+/*//USER-CUSTOMIZED///////////////*/
+/*customer choices for styling*/
+header, .top-bar-section .dropdown {z-index: 999;}
+nav, footer, .top-bar, .top-bar-section li:not(.has-form) a:not(.button), .top-bar-section li:hover:not(.has-form) a:not(.button), .top-bar-section .dropdown li:not(.has-form):not(.active) > a:not(.button), .top-bar-section .dropdown li:hover:not(.has-form):not(.active) > a:not(.button) {background: #344248;}
+.top-bar-section ul li:hover:not(.has-form) > a {background-color: #344248;}
+.top-bar-section ul li:hover:not(.has-form) > a, .top-bar-section .dropdown li:hover:not(.has-form):not(.active) > a:not(.button) {color: #de2c3b;}
+#icons i {background: #de2c3b; color: #ffffff; height: 60px; line-height: 60px; width: 60px; -moz-border-radius: 50%; -webkit-border-radius: 50%; border-radius: 50%;}
+#hp-content {background: #e4eaef; padding: 30px 0;}
+footer {color: #ffffff; font-size: 0.8em; padding: 15px 0;}
+footer #social i {background: #fff; color: #344248; -moz-border-radius: 50%; -webkit-border-radius: 50%; border-radius: 50%; height: 30px; width: 30px; text-align: center; line-height: 30px; margin-right: 5px;}
+footer #social i:hover {background: #de2c3b;}
+#cover {background: #de2c3b; height: 250px; text-align: center; width: 100%; position: relative;}
+
+#cover h1 {color: #fff; font-size: 82px; top: 50%; transform: translateY(-60%); padding: 0; position: absolute; margin: 0 auto; left: 0; right: 0;}
+
+@media only screen and (max-width: 40em) {
+#cover h1 {color: #fff; font-size: 62px; top: 50%; transform: translateY(-60%); padding: 0; position: absolute; margin: 0 auto; left: 0; right: 0;}
+}
+
+#owner-message img {height: auto; float: right; margin: 0 0 10px 20px; width: 125px;}
+#slippry-slider {position: relative;}
+#message-box {color: #de2c3b; position: absolute; padding: 30px; left: 0; right: 0; margin: 0 auto; top: 50%; transform: translateY(-50%); background-color: rgba(255,255,255,0.8); z-index: 25; text-align: center; text-transform: uppercase; width: 50%;}
+#message-box .line-1 {font-size: 5vw; line-height: 0.8em;}
+#message-box .line-2 {font-size: 3vw; line-height: 0.8em;}
+#message-box .line-3 {font-size: 7vw; font-weight: 700; line-height: 0.8em;}
+.class-list {margin-bottom: 30px;}

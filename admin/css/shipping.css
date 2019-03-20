@@ -1,0 +1,34 @@
+.print_page {
+    width: 8.5in;
+    margin: 0 auto;
+    padding: 0.5in;
+    height: 11in;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
+
+.address {
+    font-family: "Arial","Helvetica","Times",serif;
+    width: 4.5in;
+    height: 2.5in;
+    border-right: 1px dashed gray;
+
+    font-family: "Arial","Helvetica","Times",serif;
+}
+
+.address.from {
+    /*float: left;*/
+}
+
+.address.to {
+    /*float: right;*/
+    font-weight: bold;
+}
+
+.address h2 {
+    font-size: 14pt;
+}
+
+.clearboth {
+    clear: both;
+    border-top: 1px dashed gray;
+}

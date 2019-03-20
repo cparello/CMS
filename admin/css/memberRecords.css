@@ -1,0 +1,185 @@
+#secTab4Mem  {
+width: 100%;
+}
+
+.memTab  {
+width: 100%;
+}
+
+.tabBoard4Mem {
+border-collapse:collapse;
+}
+
+.oBtextMem  {
+position: relative;
+top: 0px;
+text-align: left;
+vertical-align:middle;
+padding-left: 10px;
+font-size: 9pt;
+font-weight: 300;
+font-style: normal;
+font-family: "Arial","Helvetica","Times",serif;
+color: #FFFFFF;
+}
+
+.oBtextMemRecOne  {
+position: relative;
+top: 0px;
+text-align: left;
+vertical-align:middle;
+padding-left: 10px;
+font-size: 9pt;
+font-weight: 300;
+font-style: normal;
+font-family: "Arial","Helvetica","Times",serif;
+color: #000000;
+}
+
+.oBtextMemRecTwo  {
+position: relative;
+top: 0px;
+text-align: left;
+vertical-align:middle;
+padding-left: 10px;
+font-size: 9pt;
+font-weight: 300;
+font-style: normal;
+font-family: "Arial","Helvetica","Times",serif;
+color: #F03;
+}
+
+
+.padMem1 {
+padding-top: 10px;
+padding-bottom: 10px;
+font-size: 11pt;
+font-weight: 700;
+font-style: normal;
+font-family: "Arial","Helvetica","Times",serif;
+color: #000000;
+}
+
+.headerMemName {
+float: left;
+margin-left: 450px;
+}
+
+#padTopMem {
+padding-top: 10px;
+}
+
+
+.padTopMem {
+padding-top: 10px;
+padding-bottom: 5px;
+}
+
+
+.tile1Mem  {
+border-left: 1px solid black;
+border-right: 1px solid black;
+border-bottom: 1px solid black;
+}
+
+.tile3Mem  {
+border-left: 1px solid #999;
+}
+
+.tile4Mem  {
+border-right: 1px solid #999;
+}
+
+.tile5Mem  {
+border-bottom: 1px solid #999;
+}
+
+.tile6Mem  {
+border-bottom: 1px solid #999;
+}
+
+.tabHeadMem {
+background-color: #4A4B4C;
+}
+
+.tabHeadMemOne {
+background-color: #CCC;
+}
+
+.tabHeadMemTwo {
+background-color: #999;
+}
+
+.endFoot {
+border-right: 0px;
+border-left: 0px;
+}
+
+.showHideTwo {
+cursor: pointer;
+}
+
+.closeFour {
+float: right;
+font-size: 13pt;
+font-weight: 900;
+font-style: normal;
+font-family: "Arial","Helvetica","Times",serif;
+color: #000;
+cursor: pointer;
+}
+
+.closeFive {
+float: right;
+font-size: 13pt;
+font-weight: 900;
+font-style: normal;
+font-family: "Arial","Helvetica","Times",serif;
+color: #000;
+cursor: pointer;
+}
+
+#memberNotes {
+position: absolute; 
+left: 80px;
+top:125px;
+height: auto;
+width: 725px;
+padding-left: 20px;
+padding-right: 20px;
+padding-top: 10px;
+padding-bottom: 10px;
+margin-left: auto; 
+margin-right: auto;
+background-color: #FFF;
+border: solid 1px;
+display: none;
+clear: both;
+z-index: 5;
+}
+
+#yellow3 {
+float: left;
+height: 20px;
+width: 18px;
+outline: 1px solid #000000;
+background-color: #FF9;
+}
+
+#orange3 {
+float: left;
+height: 20px;
+width: 18px;
+outline: 1px solid #000000;
+background-color: #F90;
+display: none;
+}
+
+#red3 {
+float: left;
+height: 20px;
+width: 18px;
+outline: 1px solid #000000;
+background-color: #C03;
+display: none;
+}

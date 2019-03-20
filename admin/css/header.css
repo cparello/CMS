@@ -1,0 +1,65 @@
+body {
+background-color:  #C5C4CC
+}
+
+#hd {
+position: relative;
+top: 10px;
+padding-left: 15px;
+height: 60px;
+text-align: left;
+font-size: 14pt;
+font-weight: 700;
+font-style: normal;
+font-family: "Arial","Helvetica","Times",serif;
+color: #4E4848;
+z-index: 1
+}
+
+#login  {
+position: relative;
+text-align: center;
+top: -45px;
+height: 60px;
+margin: 0 auto;
+margin-left: auto; 
+margin-right: auto;
+font-size: 10pt;
+font-weight: 700;
+font-style: normal;
+font-family: "Arial","Helvetica","Times",serif;
+color: #4E4848;
+z-index: 2
+}
+
+#logout {
+position: relative;
+top: -105px;
+padding-right: 15px;
+height: 60px;
+text-align: right;
+font-size: 10pt;
+font-weight: 700;
+font-style: normal;
+font-family: "Arial","Helvetica","Times",serif;
+z-index: 3
+}
+
+.logOut:Link {
+text-decoration:none;
+color: #4E4848;
+}
+.logOut:visited{
+text-decoration:none;
+color: #4E4848;
+}
+.logOut:active{
+text-decoration:none;
+color: #4E4848;
+}
+a.logOut:hover { 
+text-decoration:none;
+color: 	#810541; 
+}
+
+

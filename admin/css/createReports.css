@@ -1,0 +1,382 @@
+#userHeader  {
+text-align: center;
+position: relative; 
+top: 20px;
+margin-left: auto; 
+margin-right: auto;
+font-size: 15pt;
+font-weight: 600;
+font-style: normal;
+font-family: "Arial","Helvetica","Times",serif;
+color: #000000;
+}
+
+#savedDrop {
+text-align: left;
+position: relative; 
+top: 35px;
+margin-left: 20px; 
+margin-right: auto;
+}
+
+
+.black {
+font-size: 8pt;
+font-weight: 600;
+font-style: normal;
+font-family: "Arial","Helvetica","Times",serif;
+color: #000000;
+z-index: 2;
+}
+
+.black2 {
+padding-top: 4px;
+font-size: 8pt;
+font-weight: 600;
+font-style: normal;
+font-family: "Arial","Helvetica","Times",serif;
+color: #000000;
+z-index: 2;
+}
+
+.black3 {
+font-size: 8pt;
+font-weight: 400;
+font-style: normal;
+font-family: "Arial","Helvetica","Times",serif;
+color: #000000;
+}
+
+input{
+background: #FFFFFF;
+border: 1px solid #616163;
+}
+
+
+
+
+#sectionOne {
+position: relative; 
+margin-left: auto; 
+margin-right: auto;
+top:  50px;
+width: 830px;
+z-index: 3;
+}
+
+#sectionTwo {
+position: relative; 
+margin-left: auto; 
+margin-right: auto;
+top:  50px;
+width: 830px;
+}
+
+#sectionThree {
+position: relative; 
+margin-left: auto; 
+margin-right: auto;
+top:  60px;
+width: 830px;
+}
+
+.reportSection p {
+margin-bottom: 1px;
+margin-top: 1px;
+padding: 2px;
+padding-left: 10px;
+background: #4A4B4C;
+border: 1px solid #616163;
+font-size: 8pt;
+font-weight: 300;
+font-style: normal;
+font-family: "Arial","Helvetica","Times",serif;
+color: #FCB040;
+}
+
+    
+.reportSection div {
+  padding: 0px;
+}
+
+#secButtons {
+position: relative; 
+text-align: right;
+margin-left: auto; 
+margin-right: auto;
+padding-bottom: 20px;
+top:  8px;
+width: 830px;
+}
+
+
+.plus {
+position:absolute;
+right: 15px;
+font-size: 11pt;
+font-weight: 900;
+font-style: normal;
+font-family: "Arial","Helvetica","Times",serif;
+}
+
+
+.lPad {
+padding-left: 5px;
+}
+
+.cSpace {
+text-align: left;
+width: 360px;
+}
+
+.cSpace2 {
+text-align: left;
+width: 380px;
+}
+
+.tPad {
+padding-top: 10px;
+}
+
+input{
+background: #FFFFFF;
+border: 1px solid #616163;
+}
+
+.button1 {
+ border: 1px solid #616163;
+ background:  #4A4B4C;
+ font-size: 8pt;
+ padding-top: 3px;
+ padding-bottom: 2px;
+ font-weight: 200;
+ font-style: normal;
+ font-family: "Arial","Helvetica","Times",serif;
+ color: #FCB040;
+}
+
+
+.button1:hover  {
+ font-size: 8pt;
+ font-weight: 200;
+ font-style: normal;
+ font-family: "Arial","Helvetica","Times",serif;
+ color: #FFFFFF;
+}
+
+.button2 {
+ border: 1px solid #CCC;
+ background:  #CCC;
+ font-size: 8pt;
+ padding-top: 3px;
+ padding-bottom: 2px;
+ font-weight: 200;
+ font-style: normal;
+ font-family: "Arial","Helvetica","Times",serif;
+ color: #000000;
+}
+
+
+.button2:hover  {
+ font-size: 8pt;
+ font-weight: 200;
+ font-style: normal;
+ font-family: "Arial","Helvetica","Times",serif;
+ color: #360;
+}
+
+
+#chart_one {
+float: left;
+padding-left: 1px;
+padding-bottom: 20px;
+}
+
+#chart_two {
+float: left;
+padding-left: 15px;
+padding-bottom: 20px;
+}
+
+#chart_three {
+float: left;
+padding-left: 15px;
+padding-bottom: 20px;
+}
+
+#chart_four {
+float: left;
+padding-left: 15px;
+padding-bottom: 20px;
+}
+
+.projHeader {
+ border-bottom: 1px solid #000000;
+ padding-top: 8px;
+ text-align: left;
+ font-size: 8pt;
+ font-weight: 600;
+ font-style: normal;
+ font-family: "Arial","Helvetica","Times",serif;
+ color: #000000;
+}
+
+.pSpace1 {
+text-align: left;
+width: 80px;
+}
+
+.pSpace2 {
+text-align: left;
+width: 140px;
+}
+
+.pSpace3 {
+text-align: left;
+width: 100px;
+}
+
+.pSpace4 {
+text-align: left;
+width: 110px;
+}
+
+#chartSave {
+position:absolute;
+top: 150px;
+right: 80px;
+padding:0px;
+background-color: #CCC;
+border:1px solid #4A4B4C;
+display: none;
+z-index: 6;
+}
+
+div.chartSave img.menu_exit {
+  float:  right;
+  margin: 0px 0px 0px 0px;
+  cursor: pointer;
+  z-index: 3;
+}
+
+#saveForm {
+padding-top: 20px;
+padding-left: 8px;
+padding-right: 8px;
+padding-bottom: 8px;
+text-align: left;
+font-size: 8pt;
+font-weight: 600;
+font-style: normal;
+font-family: "Arial","Helvetica","Times",serif;
+color: #000000;
+}
+
+
+
+img {
+border-style: none;
+}  
+
+#logoDiv {
+position: absolute;
+padding-top: 20px;
+left: 25px;
+width: auto;
+}
+
+#addressDiv {
+position: absolute;
+padding-top: 20px;
+left: 600px;
+width: autopx;
+}
+
+.black4 {
+font-size: 9pt;
+font-weight: 600;
+font-style: normal;
+font-family: "Arial","Helvetica","Times",serif;
+color: #999;
+}
+
+#reportName {
+position:absolute;
+top: 110px;
+left: 25px;
+text-align: left;
+}
+
+.black5 {
+font-size: 12pt;
+font-weight: 600;
+font-style: normal;
+font-family: "Arial","Helvetica","Times",serif;
+color: #000;
+}
+
+.black6 {
+font-size: 12pt;
+font-weight: 400;
+font-style: normal;
+font-family: "Arial","Helvetica","Times",serif;
+color: #999;
+}
+
+.black7 {
+font-size: 12pt;
+font-weight: 400;
+font-style: normal;
+font-family: "Arial","Helvetica","Times",serif;
+color: #333;
+}
+
+.padSix {
+padding-left: 7px;
+}
+
+.padSeven {
+padding-left: 40px;
+}
+
+
+#searchParams {
+position:relative;
+width: 730px;
+top: 175px;
+left: 10px;
+text-align: left;
+border-bottom: 2px solid #000;
+}
+
+#paramList {
+position:relative;
+top: 195px;
+width: 600px;
+left: 73px;
+text-align: left;
+}
+
+
+#graphs {
+position:relative;
+width: 730px;
+top: 250px;
+left: 10px;
+text-align: left;
+border-bottom: 2px solid #000;
+}
+
+#colCat {
+display: none;
+}
+
+option {
+ padding-right: 0px;
+ padding-left: 0px;
+ margin-right: 0px;
+}
+
+
+
+

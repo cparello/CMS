@@ -1,0 +1,85 @@
+body {
+text-align: center;
+}
+
+#userHeader  {
+text-align: center;
+position: relative; 
+top: 20px;
+margin-left: auto; 
+margin-right: auto;
+font-size: 15pt;
+font-weight: 600;
+font-style: normal;
+font-family: "Arial","Helvetica","Times",serif;
+color: #000000;
+}
+
+#idContent1{
+position: relative; 
+margin-left: auto; 
+margin-right: auto;
+top:  20px;
+font-size: 11pt;
+font-weight: 700;
+font-style: normal;
+font-family: "Arial","Helvetica","Times",serif;
+color: #307D7E;
+}
+
+#userForm1   {
+position: relative; 
+margin-left: auto; 
+margin-right: auto;
+top:  30px;
+}
+
+#userForm2   {
+position: relative; 
+margin-left: auto; 
+margin-right: auto;
+top:  40px;
+}
+
+#userForm3   {
+position: relative; 
+margin-left: auto; 
+margin-right: auto;
+top:  70px;
+}
+
+
+
+.grey {
+text-align: center;
+font-size: 9pt;
+font-weight: 600;
+font-style: normal;
+font-family: "Arial","Helvetica","Times",serif;
+color: #6F6F6F;
+z-index: 2;
+}
+
+input{
+background: #FFFFFF;
+border: 1px solid #616163;
+}
+
+td {
+padding-top: 8px;
+}
+
+
+
+.footer  {
+position: relative; 
+margin-left: auto; 
+margin-right: auto;
+bottom:   -180px;
+text-align: center;
+font-size: 11pt;
+font-weight: 800;
+font-style: normal;
+font-family: "Arial","Helvetica","Times",serif;
+color: #6F6F6F
+}

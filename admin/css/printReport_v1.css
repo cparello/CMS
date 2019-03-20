@@ -1,0 +1,205 @@
+img {
+border-style: none;
+}  
+
+#logoDiv {
+position: absolute;
+padding-top: 20px;
+left: 25px;
+width: auto;
+}
+
+#addressDiv {
+position: absolute;
+padding-top: 20px;
+left: 500px;
+width: auto;
+}
+
+.black4 {
+font-size: 9pt;
+font-weight: 600;
+font-style: normal;
+font-family: "Arial","Helvetica","Times",serif;
+color: #999;
+}
+
+#reportName {
+position:relative;
+top: 110px;
+left: 25px;
+text-align: left;
+}
+#reportName2 {
+position:relative;
+top: 310px;
+left: 25px;
+text-align: left;
+}
+
+.black2 {
+font-size: 11pt;
+font-weight: 400;
+font-style: normal;
+font-family: "Arial","Helvetica","Times",serif;
+color: #000;
+}
+
+.black5 {
+font-size: 12pt;
+font-weight: 600;
+font-style: normal;
+font-family: "Arial","Helvetica","Times",serif;
+color: #000;
+}
+
+.black6 {
+font-size: 12pt;
+font-weight: 400;
+font-style: normal;
+font-family: "Arial","Helvetica","Times",serif;
+color: #999;
+}
+
+.black7 {
+font-size: 12pt;
+font-weight: 400;
+font-style: normal;
+font-family: "Arial","Helvetica","Times",serif;
+color: #333;
+}
+
+.padSix {
+padding-left: 7px;
+}
+
+.padSeven {
+padding-left: 40px;
+}
+
+
+#searchParams {
+position:relative;
+width: 730px;
+top: 175px;
+left: 10px;
+text-align: left;
+border-bottom: 2px solid #000;
+}
+
+#paramList {
+position:relative;
+top: 195px;
+width: 600px;
+left: 73px;
+text-align: left;
+}
+
+
+#graphs {
+position:relative;
+width: 730px;
+top: 250px;
+left: 10px;
+text-align: left;
+border-bottom: 2px solid #000;
+}
+
+
+#graphHouse {
+position:relative;
+width: 825px;
+top: 270px;
+height: 190px;
+}
+
+
+#chart_one {
+float: left;
+padding-left: 1px;
+padding-bottom: 20px;
+}
+
+#chart_two {
+float: left;
+padding-left: 15px;
+padding-bottom: 20px;
+}
+
+#chart_three {
+float: left;
+padding-left: 15px;
+padding-bottom: 20px;
+}
+
+#chart_four {
+float: left;
+padding-left: 15px;
+padding-bottom: 20px;
+}
+
+#summary {
+position:relative;
+width: 730px;
+top: 300px;
+left: 10px;
+text-align: left;
+border-bottom: 2px solid #000;
+}
+
+
+.pSpace1 {
+text-align: left;
+width: 80px;
+}
+
+.pSpace2 {
+text-align: left;
+width: 160px;
+}
+
+.pSpace3 {
+text-align: left;
+width: 100px;
+}
+
+.pSpace4 {
+text-align: left;
+width: 110px;
+}
+
+
+.projHeader {
+ border-bottom: 1px solid #000000;
+ padding-top: 20px;
+ text-align: left;
+ font-size: 11pt;
+ font-weight: 600;
+ font-style: normal;
+ font-family: "Arial","Helvetica","Times",serif;
+ color: #000000;
+}
+
+#listings {
+position:relative;
+top: 140px;
+width: 825px;
+}
+#listings2 {
+position:relative;
+top: 340px;
+width: 825px;
+}
+ .listItem{
+        font-weight: bolder;
+        text-decoration: underline;
+        font-size: 20px;
+    }
+    
+ .item{
+         font-size: 16px;
+    }
+ .counter{
+        font-weight: bolder;
+        font-size: 20px;
+ }

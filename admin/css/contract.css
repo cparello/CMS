@@ -1,0 +1,517 @@
+body{
+margin: 0px;
+}
+
+img {
+border-style: none;
+}  
+
+#pageWrap { 
+position: absolute;
+top: 5px;
+width: 700px; 
+margin: 0 auto; 
+}
+
+#contractHeaders {
+position: relative;
+top: 0px;
+width: 700px;
+height: 50px;
+margin-left: auto; 
+margin-right: auto;
+margin-bottom: 10px;
+padding-bottom: 20px;
+text-align: right;
+}
+
+#logoDiv {
+float: left;
+padding-left: 25px;
+}
+
+#contractType {
+float: right;
+padding-top: 10px;
+padding-right: 0px;
+}
+
+.typeName  {
+padding-right: 15px;
+font-weight: 200;
+font-style: normal;
+font-family: "Times",serif;
+font-size: 1.15em;
+color: #000;
+}
+
+.contractNumber  {
+padding-left: 15px;
+font-weight: 200;
+font-style: normal;
+font-family: "Times",serif;
+font-size: 1.15em;
+color: #000;
+}
+
+.pipe  {
+font-weight: 200;
+font-style: normal;
+font-family: "Times",serif;
+font-size: 1.15em;
+color: #000;
+}
+
+#hostHeader {
+position: relative;
+padding-left: 30px;
+top: 0px;
+width: 700px;
+}
+
+.subHeader {
+font-weight: 200;
+font-style: normal;
+font-family: "Times",serif;
+font-size: 1.15em;
+color: #000;
+}
+
+#underline {
+position: relative;
+left: 30px;
+padding-right: 0px;
+top: 0px;
+width: 700px;
+height: 2px;
+border-top: solid;
+border-top-width: 2px;
+}
+
+#memberInfo {
+position: relative;
+top: 10px;
+left: 30px;
+width: 700px;
+}
+
+.nameTitles {
+font-weight: 700;
+font-style: normal;
+font-family: "Times",serif;
+font-size: 1.1em;
+color: #000;
+text-align: left;
+width: 25%;
+}
+
+.nameSakes {
+font-weight: 200;
+font-style: normal;
+font-family: "Times",serif;
+font-size: 1.1em;
+color: #000;
+text-align: left;
+}
+
+table {
+width: 100%;
+}
+
+#agreeLine {
+position: relative;
+top: 40px;
+left: 30px;
+width: 700px;
+height: auto;
+text-align: center;
+font-weight: 200;
+font-style: normal;
+font-family: "Times",serif;
+font-size: .9em;
+color: #000;
+}
+
+#summaryHeader {
+position: relative;
+padding-left: 30px;
+top: 70px;
+width: 700px;
+}
+
+#underline2 {
+position: relative;
+left: 30px;
+padding-right: 15px;
+top: 70px;
+width: 700px;
+height: 2px;
+border-top: solid;
+border-top-width: 2px;
+}
+
+#initialHeader {
+position: relative;
+padding-left: 30px;
+top: 100px;
+width: 700px;
+}
+
+#underline3 {
+position: relative;
+left: 30px;
+padding-right: 15px;
+top: 100px;
+width: 700px;
+height: 2px;
+border-top: solid;
+border-top-width: 2px;
+}
+
+#summaryInfo {
+position: relative;
+left: 30px;
+padding-right: 0px;
+top: 80px;
+width: 700px;
+}
+
+.fieldHeaderTop {
+text-align: left;
+padding-top: 0px;
+font-weight: 700;
+font-style: normal;
+font-family: "Times",serif;
+font-size: 1em;
+color: #000;
+}
+
+.fieldHeader {
+text-align: left;
+padding-top: 10px;
+font-weight: 700;
+font-style: normal;
+font-family: "Times",serif;
+font-size: 1em;
+color: #000;
+}
+
+.fieldValues {
+text-align: left;
+padding-top: 0px;
+font-weight: 200;
+font-style: normal;
+font-family: "Times",serif;
+font-size: 1em;
+color: #000;
+}
+
+.pad {
+padding-top: 10px;
+}
+
+.dash {
+border-top: dashed;
+border-top-width: 2px;
+margin-top: 5px;
+}
+
+.pad2 {
+padding-right: 30px;
+padding-top: 0px;
+}
+
+#initialPayments {
+position: relative;
+left: 30px;
+padding-right: 0px;
+top: 110px;
+width: 700px;
+height: auto;
+}
+
+.nameTitles2 {
+font-weight: 700;
+font-style: normal;
+font-family: "Times",serif;
+font-size: 1em;
+color: #000;
+text-align: left;
+width: 50%;
+}
+
+.nameTitles3 {
+font-weight: 700;
+font-style: normal;
+font-family: "Times",serif;
+font-size: 1em;
+color: #000;
+text-align: left;
+width: 50%;
+}
+
+.nameSakes2 {
+font-weight: 200;
+font-style: normal;
+font-family: "Times",serif;
+font-size: 1em;
+color: #000;
+text-align: right;
+width: 5%;
+}
+
+.nameSakes3 {
+font-weight: 700;
+font-style: normal;
+font-family: "Times",serif;
+font-size: 1em;
+color: #000;
+text-align: left;
+padding-left: 10%;
+padding-right: 5%;
+width: 55%;
+}
+
+.nameSakes5 {
+font-weight: 700;
+font-style: normal;
+font-family: "Times",serif;
+font-size: 1em;
+color: #000;
+text-align: left;
+padding-left: 5%;
+padding-right: 5%;
+width: 45%;
+}
+
+.nameSakes4 {
+font-weight: 700;
+font-style: normal;
+font-family: "Times",serif;
+font-size: 1em;
+color: #000;
+text-align: right;
+width: 5%;
+}
+
+.dueDate {
+padding-left: 20px;
+font-weight: 200;
+font-style: normal;
+font-family: "Times",serif;
+font-size: 1em;
+color: #000;
+}
+
+
+#terms {
+position: relative;
+left: 30px;
+top: 125px;
+width: 700px;
+height: auto;
+font-weight: 200;
+font-style: normal;
+font-family: "Times",serif;
+font-size: .62em;
+color: #666;
+}
+
+#liabilityTerms {
+position: relative;
+left: 30px;
+top: 15px;
+width: 700px;
+height: auto;
+font-weight: 200;
+font-style: normal;
+font-family: "Times",serif;
+font-size: .9em;
+color: #666;
+}
+
+#monthlyHeader {
+position: relative;
+padding-left: 30px;
+top: 130px;
+width: 700px;
+}
+
+#underline4 {
+position: relative;
+left: 30px;
+padding-right: 15px;
+top: 130px;
+width: 700px;
+height: 2px;
+border-top: solid;
+border-top-width: 2px;
+}
+
+#billingRequest {
+position: relative;
+left: 30px;
+top: 125px;
+width: 700px;
+height: auto;
+font-weight: 200;
+font-style: normal;
+font-family: "Times",serif;
+font-size: 1em;
+color: #000;
+}
+
+.boldLine {
+font-weight: 700;
+}
+
+.collect {
+font-weight: 200;
+font-style: italic;
+font-family: "Times",serif;
+font-size: 1em;
+color: #000;
+}
+
+.line {
+border-top: solid;
+border-top-width: 2px;
+margin-top: -5px;
+}
+
+#signUp {
+position: relative;
+left: 30px;
+top: 120px;
+width: 700px;
+height: auto;
+font-weight: 200;
+font-style: normal;
+font-family: "Times",serif;
+font-size: .9em;
+color: #000;
+}
+
+#dateSign {
+position: relative;
+left: 30px;
+top: 15px;
+width: 700px;
+height: auto;
+font-weight: 200;
+font-style: normal;
+font-family: "Times",serif;
+font-size: .9em;
+color: #000;
+}
+
+
+
+.signatures {
+font-weight: 200;
+font-style: normal;
+font-family: "Times",serif;
+font-size: .9em;
+}
+#signature{
+    float: left;
+    width: 300px;
+    height: auto;
+}
+#empsignature{
+    float: right;
+    width: 300px;
+    height: auto;
+}
+
+#signHouse {
+position: relative;
+left: 30px;
+top: 200px;
+width: 700px;
+height: auto;
+}
+
+
+#signLine1 {
+float: left;
+width: 300px;
+height: auto;
+border-top: solid;
+border-top-width: 2px;
+}
+
+#signLine2 {
+float: right;
+width: 300px;
+height: auto;
+border-top: solid;
+border-top-width: 2px;
+}
+
+#signLine {
+position: relative;
+left: 30px;
+top: 100px;
+width: 275px;
+height: auto;
+font-weight: 200;
+font-style: normal;
+font-family: "Times",serif;
+font-size: .9em;
+}
+
+
+#initialHeader2 {
+position: relative;
+padding-left: 30px;
+top: 130px;
+width: 700px;
+}
+
+#underline5 {
+position: relative;
+left: 30px;
+padding-right: 15px;
+top: 130px;
+width: 700px;
+height: 2px;
+border-top: solid;
+border-top-width: 2px;
+}
+
+#initialPayments2 {
+position: relative;
+left: 30px;
+padding-right: 0px;
+top: 140px;
+width: 700px;
+height: auto;
+}
+
+#terms2 {
+position: relative;
+left: 30px;
+top: 140px;
+width: 700px;
+padding-bottom: 30px;
+height: auto;
+font-weight: 200;
+font-style: normal;
+font-family: "Times",serif;
+font-size: .62em;
+color: #666;
+}
+
+#terms3 {
+position: relative;
+left: 30px;
+top: 110px;
+width: 700px;
+height: auto;
+font-weight: 200;
+font-style: normal;
+font-family: "Times",serif;
+font-size: .62em;
+color: #666;
+}

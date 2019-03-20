@@ -1,0 +1,246 @@
+body {
+background-color:#FFFFFF;
+background: #003D5C;
+margin: 0;
+
+    font-family: "Open Sans", "Arial", "Helvetica", sans-serif;
+}
+
+
+/*
+table  {
+border: 7px solid rgb(34, 135, 209);
+background-color: #003D5C ;
+}
+
+.tabTwo {
+border: 0px;
+}
+*/
+
+.logForm table {
+    border: 7px solid rgb(34, 135, 209);
+    background-color: #0075a9;
+    border: 3px solid #003d5c;
+    width: 100%;
+    height: 100%;
+}
+
+.logForm table.tabTwo {
+    border: 0px;
+    width: 240px;
+    margin-top: 30px;
+}
+
+
+
+
+.header {
+padding-top: 10px;
+padding-right:  30px;
+padding-left:  30px;
+text-align: center;
+font-size: 12pt;
+font-weight: 800;
+font-style: normal;
+font-family: ;
+font-family: "Arial","Helvetica","Times",serif;
+color: #FFFFFF;
+
+    font-weight: 600;
+    font-family: "Open Sans", "Arial", "Helvetica", sans-serif;
+    font-size: 14pt;
+    height: 60px;
+    padding: 0px;
+    vertical-align: bottom;
+}
+
+th {
+padding-top: 0px;
+padding-bottom:  2px;
+text-align: left;
+padding-left: 5px;
+vertical-align: bottom;
+font-size: 9pt;
+font-weight: 300;
+font-style: normal;
+font-family: "Arial","Helvetica","Times",serif;
+color: #FFFFFF;
+
+    font-family: "Open Sans", "Arial", "Helvetica", sans-serif;
+    font-size: 10pt;
+    padding: 0px;
+}
+
+td {
+padding-top: 0px;
+padding-bottom:  8px;
+text-align: left;
+padding-left: 5px;
+vertical-align: bottom;
+
+    padding: 0px;
+    vertical-align: middle;
+}
+
+.logForm table tr:last-child td {
+    padding-bottom: 25px;
+}
+
+.right {
+padding-top: 0px;
+padding-bottom:  8px;
+text-align: right;
+
+    padding: 0px;
+    width: 80px;
+}
+
+.bottom {
+    vertical-align: bottom;
+}
+
+.button {
+border: 0px;
+-moz-border-radius: 3px 3px 3px 3px;
+border-radius: 3px 3px 3px 3px;
+padding-top: 4px;
+padding-bottom:  4px;
+padding-right:  10px;
+padding-left:  10px;
+background: #6AC04E;
+font-size: 9pt;
+font-weight: 300;
+font-style: normal;
+font-family: "Arial","Helvetica","Times",serif;
+color: #FFF;
+cursor: pointer;
+
+    font-family: "Open Sans", "Arial", "Helvetica", sans-serif;
+    font-size: 11pt;
+    background: #6aa342;
+    padding: 4px 14px;
+}
+
+
+input {
+background: #FFFFFF;
+border: 1px solid #FFFFFF;
+}
+
+input[type="text"],
+input[type="password"] {
+    width: 240px;
+    height: 25px;
+}
+
+
+.logForm   {
+position: relative; 
+margin-left: auto; 
+margin-right: auto;
+height: 200px;
+top: 100px;
+
+    border: 1px solid #0075a9;
+    width: 340px;
+    height: 360px;
+}
+
+.copyWrite  {
+padding-bottom: 16px;
+font-size: 6pt;
+font-weight: 800;
+font-style: normal;
+font-family: "Arial","Helvetica","Times",serif;
+color: #FFFFFF;
+
+    font-weight: 300;
+    font-family: "Open Sans", "Arial", "Helvetica", sans-serif;
+    text-align: right;
+}
+
+.padRight {
+padding-right: 20px;
+}
+
+.padLeft {
+padding-left: 20px;
+}
+
+
+.errors {
+font-size: 8pt;
+font-weight: 800;
+font-style: normal;
+font-family: "Arial","Helvetica","Times",serif;
+color: red;
+
+    font-weight: 600;
+    font-family: "Open Sans", "Arial", "Helvetica", sans-serif;
+}
+
+.forgot {
+font-size: 7pt;
+font-weight: 600;
+font-style: normal;
+font-family: "Arial","Helvetica","Times",serif;
+color: #1D76B9;
+
+    font-family: "Open Sans", "Arial", "Helvetica", sans-serif;
+    font-weight: 300;
+    float: right;
+}
+
+.forgot:Link {
+text-decoration:none;
+color: #FFFFFF;
+}
+
+.forgot:visited{
+text-decoration:none;
+color: #1D76B9;
+}
+.forgot:active{
+text-decoration:none;
+color: #1D76B9;
+}
+a.forgot:hover { 
+text-decoration:none;
+color: 	#810541; 
+}
+
+.buttonSched {
+   border-top: 1px solid #0dfc00;
+   background: #00ff09;
+   background: -webkit-gradient(linear, left top, left bottom, from(#42a650), to(#00ff09));
+   background: -webkit-linear-gradient(top, #42a650, #00ff09);
+   background: -moz-linear-gradient(top, #42a650, #00ff09);
+   background: -ms-linear-gradient(top, #42a650, #00ff09);
+   background: -o-linear-gradient(top, #42a650, #00ff09);
+   padding: 8px 16px;
+   -webkit-border-radius: 10px;
+   -moz-border-radius: 10px;
+   border-radius: 10px;
+   -webkit-box-shadow: rgba(0,0,0,1) 0 1px 0;
+   -moz-box-shadow: rgba(0,0,0,1) 0 1px 0;
+   box-shadow: rgba(0,0,0,1) 0 1px 0;
+   text-shadow: rgba(0,0,0,.4) 0 1px 0;
+   color: #000000;
+   font-size: 24px;
+   font-family: Georgia, serif;
+   text-decoration: none;
+   vertical-align: middle;
+   cursor: pointer;
+   }
+.buttonSched:hover {
+   border-top-color: #ff0303;
+   background: #ff0303;
+   color: #000000;
+   cursor: pointer;
+   }
+.buttonSched:active {
+   border-top-color: #1b435e;
+   background: #1b435e;
+   cursor: pointer;
+   }

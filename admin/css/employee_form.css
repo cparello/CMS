@@ -1,0 +1,115 @@
+#conf {
+text-align: center;
+position: relative; 
+margin-left: auto; 
+margin-right: auto;
+top: 15px;
+font-size: 11pt;
+font-weight: 700;
+font-style: normal;
+font-family: "Arial","Helvetica","Times",serif;
+color: #307D7E;
+}
+
+
+#businessHeader  {
+text-align: center;
+position: relative; 
+margin-left: auto; 
+margin-right: auto;
+font-size: 15pt;
+font-weight: 600;
+font-style: normal;
+font-family: "Arial","Helvetica","Times",serif;
+color: #000000;
+top:  20px;
+}
+
+
+#employeeForm   {
+position: relative; 
+margin-left: auto; 
+margin-right: auto;
+top:  20px;
+}
+
+
+table {
+width: 95%;
+border-collapse:collapse
+}
+
+td {
+padding:3px;
+}
+
+input{
+background: #FFFFFF;
+border: 1px solid #616163;
+}
+
+
+.grey {
+font-size: 9pt;
+font-weight: 600;
+font-style: normal;
+font-family: "Arial","Helvetica","Times",serif;
+color: #6F6F6F;
+z-index: 2
+}
+
+.black {
+font-size: 8pt;
+font-weight: 500;
+font-style: normal;
+font-family: "Arial","Helvetica","Times",serif;
+color: #000000;
+z-index: 2
+}
+
+.errors {
+font-size: 9pt;
+font-weight: 800;
+font-style: normal;
+font-family: "Arial","Helvetica","Times",serif;
+color: red
+}
+
+.continue {
+visibility: hidden;
+text-align: center;
+position: relative; 
+margin-left: auto; 
+margin-right: auto;
+top: 40px;
+z-index: 2;
+}
+
+.secondHeader {
+text-align: center;
+position: relative; 
+margin-left: auto; 
+margin-right: auto;
+font-size: 15pt;
+font-weight: 600;
+font-style: normal;
+font-family: "Arial","Helvetica","Times",serif;
+color: #000000;
+}
+
+.footer  {
+position: relative; 
+margin-left: auto; 
+margin-right: auto;
+bottom:   -50px;
+text-align: center;
+font-size: 11pt;
+font-weight: 800;
+font-style: normal;
+font-family: "Arial","Helvetica","Times",serif;
+color: #6F6F6F
+}
+
+.bgTwo {
+background-color: #CCC
+}

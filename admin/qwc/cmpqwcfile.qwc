@@ -1,0 +1,15 @@
+<?xml version="1.0"?>        
+<QBWCXML>
+<AppName>ClubManagerPro QuickBooks Web Connector</AppName>
+<AppID>CMPQBWC</AppID>
+<AppURL>https://cmp.burbankathleticclub.com/admin/accounting/quickbooks/docs/example_server.php</AppURL>
+<AppDescription>ClubManagerPro Payroll Processor</AppDescription>
+<AppSupport>https://cmp.burbankathleticclub.com</AppSupport>
+<UserName>chris11</UserName>
+<OwnerID>{545d3be2-f063-4a07-b95e-802cd3933aa9}</OwnerID>
+<FileID>{17c687df-69ad-4d56-9925-beab4e681f0d}</FileID>
+<QBType>QBFS</QBType>
+<Scheduler>
+<RunEveryNMinutes>60</RunEveryNMinutes>
+</Scheduler>
+</QBWCXML>

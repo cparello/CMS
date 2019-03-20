@@ -1,0 +1,25 @@
+input.print_button { 
+background: transparent url(../images/step_one.png) no-repeat center top;
+width:105px; 
+height:41px;
+cursor: pointer;
+} 
+
+input.submit_button { 
+background: transparent url(../images/step_two.png) no-repeat center top;
+width:105px; 
+height:41px;
+cursor: pointer;
+} 
+
+input.cancel_button { 
+background: transparent url(../images/cancel_but.png) no-repeat center top;
+width:105px; 
+height:41px;
+cursor: pointer;
+} 
+
+table.submitTable {
+border-collapse:separate;
+border:  0px;
+}

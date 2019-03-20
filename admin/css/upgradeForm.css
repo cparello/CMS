@@ -1,0 +1,500 @@
+body{
+margin: 0px;
+}
+
+
+
+.button1 {
+    border: 1px solid #616163;
+    background:  #4A4B4C;
+    font-size: 8pt;
+    font-weight: 200;
+    font-style: normal;
+    font-family: "Arial","Helvetica","Times",serif;
+    color: #FCB040;
+}
+
+
+.button1:hover  {
+    font-size: 8pt;
+    font-weight: 200;
+    font-style: normal;
+    font-family: "Arial","Helvetica","Times",serif;
+    color: #FFFFFF;
+}
+
+.space {
+word-spacing: 5px;
+font-size: 8pt;
+font-weight: 500;
+font-style: normal;
+font-family: "Arial","Helvetica","Times",serif;
+color: #000000;
+}
+
+
+#contractTypeHeader  {
+position: relative;
+margin-left: auto; 
+margin-right: auto;
+margin-bottom: 15px;
+margin-top: 15px;
+height: auto;
+width: 800px;
+top:  45px;
+text-align: center;
+font-size: 12pt;
+font-weight: 900;
+font-style: normal;
+font-family: "Arial","Helvetica","Times",serif;
+color: #439B81;
+z-index: 2;
+}
+
+.black {
+font-size: 8pt;
+font-weight: 500;
+font-style: normal;
+font-family: "Arial","Helvetica","Times",serif;
+color: #000000;
+z-index: 2
+}
+
+
+input{
+background: #FFFFFF;
+border: 1px solid #616163
+}
+
+
+#colorKeyTab {
+position: relative;
+top:35px;
+height: 30px;
+width: 500px;
+}
+
+#resultKeyTab  {
+position: relative;
+top: 80px;
+left: 0px;
+margin-bottom: 15px;
+margin-top: 15px;
+height: 30px;
+width: 500px;
+}
+
+#resultKeyTab2  {
+position: relative;
+top: 145px;
+left: 0px;
+margin-bottom: 15px;
+margin-top: 15px;
+height: 30px;
+width: 500px;
+}
+
+#paymentSummaryTab {
+position: relative;
+top: 200px;
+left: 0px;
+margin-bottom: 15px;
+margin-top: 15px;
+height: 30px;
+width: 500px;
+}
+
+.tabText1 {
+position: relative;
+right: 0px;
+top: 3px;
+font-size: 10pt;
+font-weight: 300;
+font-style: normal;
+font-family: "Arial","Helvetica","Times",serif;
+color: #000000;
+outline: 1px solid #999999;
+background-color: #D8D8D8;
+padding-top: 5px;
+padding-bottom: 5px;
+padding-left: 10px;
+padding-right: 20px;
+}
+
+#accountCheck {
+position: relative;
+width: 300px;
+height: 20px;
+top: 35px;
+left: 25px;
+z-index: 1;
+}
+
+#accountInfo  {
+position: relative;
+top:60px;
+left: 25px;
+width: 500px;
+height: auto;
+margin-left 15px;
+z-index: 2;
+}
+
+#accountResults   {
+position: relative; 
+margin-left: auto; 
+margin-right: auto;
+top:  125px;
+width: 995px;
+height: auto;
+z-index: 2;
+}
+
+#accountResults2   {
+position: relative; 
+margin-left: auto; 
+margin-right: auto;
+top:  190px;
+width: 995px;
+height: auto;
+overflow: auto;
+z-index: 2;
+}
+
+#fieldContainer {
+position: relative;
+top:200px;
+width: 995px;
+left: 15px;
+height: 40px;
+}
+
+
+#commission {
+float: left;
+padding-left: 5px;
+padding-right: 20px;
+}
+
+#overide {
+float: left;
+padding-left: 5px;
+padding-right: 20px;
+}
+
+#memNum {
+float: right;
+padding-right: 20px;
+}
+
+
+.blackBold {
+font-size: 9pt;
+font-weight: 800;
+font-style: normal;
+font-family: "Arial","Helvetica","Times",serif;
+color: #000000;
+z-index: 2
+}
+
+.keyHeader {
+font-size: 8pt;
+font-weight: 900;
+font-style: normal;
+font-family: "Arial","Helvetica","Times",serif;
+color: #FFF;
+}
+
+.keyText {
+font-size: 8pt;
+font-weight: 800;
+font-style: normal;
+font-family: "Arial","Helvetica","Times",serif;
+color: #000000;
+}
+
+
+
+.keyText2 {
+font-size: 8pt;
+font-weight: 400;
+font-style: normal;
+font-family: "Arial","Helvetica","Times",serif;
+color: #000000;
+}
+
+
+table {
+border-collapse:collapse;
+border:  1px solid #4A4B4C;
+}
+
+.groupBorder {
+border-collapse:collapse;
+border: 0px;
+}
+
+.info {
+border-collapse:collapse;
+border: 0px;
+}
+
+input[type=checkbox] {
+   border: none;
+   background: none;
+}
+
+input[type=radio] {
+   border: none;
+   background: none;
+}
+
+
+.rightBorder {
+border-right:  1px solid #4A4B4C;
+}
+
+
+
+.top {
+padding-top: 5px;
+}
+
+.bottom {
+padding-bottom: 5px;
+}
+
+
+.endFoot {
+border: none;
+}
+
+.keyHeader {
+font-size: 8pt;
+font-weight: 900;
+font-style: normal;
+font-family: "Arial","Helvetica","Times",serif;
+color: #FFF;
+}
+
+
+
+#payTerms  {
+position: relative;
+width: 1000px;
+height: 0px;
+top:  200px;
+left: 15px;
+}
+
+#payGoup1 {
+float: left; 
+margin-right: 30px;
+width: 125px;
+height: 220px;
+border: 1px solid #4A4B4C;
+}
+
+
+.payGoup2 {
+float: left; 
+margin-right: 30px;
+width: 220px;
+height:220px;
+border: 1px solid #4A4B4C;
+}
+
+
+.payGoup3 {
+float: left; 
+margin-right: 30px;
+width: 220px;
+height:220px;
+border: 1px solid #4A4B4C;
+}
+
+.payGoup4 {
+float: left; 
+margin-right: 0px;
+width: 310px;
+height:220px;
+border: 1px solid #4A4B4C;
+}
+
+.payGoup4b {
+position: absolute;
+top:21px;
+width: 310px;
+height:190px;
+overflow: auto;
+}
+
+#payFields1 {
+position: relative;
+top:225px;
+height: 30px;
+width: 995px;
+left: 15px;
+z-index:  3;
+}
+
+#todayPay {
+float: left;
+padding-left: 5px;
+padding-right: 20px;
+}
+
+#upgradeFee {
+float: left;
+padding-left: 5px;
+padding-right: 20px;
+}
+
+#balanceDue {
+float: left;
+padding-left: 5px;
+padding-right: 20px;
+}
+
+#dueDate {
+float: left;
+padding-left: 5px;
+padding-right: 20px;
+}
+
+#paymentOptionsTab {
+position: relative;
+top: 250px;
+left: 0px;
+margin-bottom: 15px;
+margin-top: 15px;
+height: 30px;
+width: 500px;
+z-index: 1;
+}
+
+#payHouse {
+position: relative;
+top: 300px;
+left: 15px;
+width: 995px;
+height: auto;
+z-index: 3;
+}
+
+#printCont {
+position: relative;
+top: 320px;
+width: 950px;
+margin-left: auto; 
+margin-right: auto;
+margin-bottom: 10px;
+padding-bottom: 20px;
+text-align: center;
+}
+
+
+
+.buttonCancel {
+border: 1px solid #616163;
+background: #4A4B4C;
+padding-left: 5px;
+padding-right: 5px;
+padding-top: 7px;
+padding-bottom: 7px;
+font-size: 8pt;
+font-weight: 200;
+font-style: normal;
+font-family: "Arial","Helvetica","Times",serif;
+color: #FCB040;
+}
+
+.buttonCancel:hover {
+font-size: 8pt;
+font-weight: 200;
+font-style: normal;
+font-family: "Arial","Helvetica","Times",serif;
+color: #FFFFFF;
+}
+
+
+
+.buttonSubmit {
+float: right;
+border: 1px solid #616163;
+background: #4A4B4C;
+padding-left: 5px;
+padding-right: 5px;
+padding-top: 7px;
+padding-bottom: 7px;
+font-size: 8pt;
+font-weight: 200;
+font-style: normal;
+font-family: "Arial","Helvetica","Times",serif;
+color: #FCB040;
+}
+
+.buttonSubmit:hover {
+font-size: 8pt;
+font-weight: 200;
+font-style: normal;
+font-family: "Arial","Helvetica","Times",serif;
+color: #FFFFFF;
+}
+
+
+.buttonPrint {
+float: left;
+border: 1px solid #616163;
+background:  #4A4B4C;
+padding-left: 5px;
+padding-right: 5px;
+padding-top: 7px;
+padding-bottom: 7px;
+font-size: 8pt;
+font-weight: 200;
+font-style: normal;
+font-family: "Arial","Helvetica","Times",serif;
+color: #FCB040;
+}
+
+.buttonPrint:hover {
+font-size: 8pt;
+font-weight: 200;
+font-style: normal;
+font-family: "Arial","Helvetica","Times",serif;
+color: #FFFFFF;
+}
+
+#note {
+position:absolute;
+top: 75px;
+left: 80px;
+padding:8px;
+background-color: #CCC;
+border:1px solid #4A4B4C;
+visibility:hidden;
+z-index: 6;
+}
+
+#memNum {
+visibility:hidden;
+}
+
+.green {
+font-size: 8pt;
+font-weight: 700;
+font-style: normal;
+font-family: "Arial","Helvetica","Times",serif;
+color: #360;
+z-index: 2
+}
+
+.white{
+font-size: 1pt;
+font-weight: 100;
+font-style: normal;
+color: #FFFFFF;
+}
+
+

@@ -1,0 +1,295 @@
+body{
+margin: 0px;
+}
+
+
+
+.button1 {
+    border: 1px solid #616163;
+    background:  #4A4B4C;
+    font-size: 8pt;
+    font-weight: 200;
+    font-style: normal;
+    /*font-family: "Arial","Helvetica","Times",serif;*/ font-family: "Open Sans", "Arial", "Helvetica", sans-serif;
+    color: #FCB040;
+
+    background: #fff;
+    color: #000;
+}
+
+
+.button1:hover  {
+    font-size: 8pt;
+    font-weight: 200;
+    font-style: normal;
+    /*font-family: "Arial","Helvetica","Times",serif;*/ font-family: "Open Sans", "Arial", "Helvetica", sans-serif;
+    color: #FFFFFF;
+
+    color: #ccc;
+}
+
+.space {
+word-spacing: 5px;
+font-size: 8pt;
+font-weight: 500;
+font-style: normal;
+/*font-family: "Arial","Helvetica","Times",serif;*/ font-family: "Open Sans", "Arial", "Helvetica", sans-serif;
+color: #000000;
+}
+
+
+#contractTypeHeader  {
+position: relative;
+margin-left: auto; 
+margin-right: auto;
+margin-bottom: 15px;
+height: auto;
+width: 800px;
+top:  20px;
+text-align: center;
+font-size: 15pt;
+font-weight: 600;
+font-style: normal;
+/*font-family: "Arial","Helvetica","Times",serif;*/ font-family: "Open Sans", "Arial", "Helvetica", sans-serif;
+color: #000000;
+z-index: 2;
+}
+
+#userHeader,
+.userHeader {
+    position: relative; 
+    top:  20px;
+    margin-left: auto; 
+    margin-right: auto;
+    text-align: center;
+    font-size: 15pt;
+    font-weight: 600;
+    font-style: normal;
+    font-family: "Arial","Helvetica","Times",serif;
+    color: #000000;
+    z-index: 1;
+
+    font-family: "Open Sans", "Arial", "Helvetica", sans-serif;
+    font-weight: normal;
+    color: #003a5d;
+    font-size: 20pt;
+    text-align: left;
+    padding-left: 100px;
+}
+
+.black {
+font-size: 8pt;
+font-weight: 500;
+font-style: normal;
+/*font-family: "Arial","Helvetica","Times",serif;*/ font-family: "Open Sans", "Arial", "Helvetica", sans-serif;
+color: #000000;
+z-index: 2
+}
+
+
+input{
+background: #FFFFFF;
+border: 1px solid #616163
+}
+
+#colorKeyTab {
+position: relative;
+top:35px;
+height: 30px;
+width: 500px;
+}
+
+.tabText1_div {
+    border: none;
+    background: #e4e6e9;
+    width: 100% !important;
+    /*width: 98%;*/
+    height: auto !important;
+}
+
+.tabText1 {
+position: relative;
+right: 0px;
+top: 3px;
+font-size: 10pt;
+font-weight: 300;
+font-style: normal;
+/*font-family: "Arial","Helvetica","Times",serif;*/ font-family: "Open Sans", "Arial", "Helvetica", sans-serif;
+color: #000000;
+outline: 1px solid #999999;
+background-color: #D8D8D8;
+padding-top: 5px;
+padding-bottom: 5px;
+padding-left: 10px;
+padding-right: 20px;
+
+
+    background: #e4e6e9;
+    border: none;
+    height: 52px;
+    /* max-height: 52px; */
+    /* min-height: 52px; */
+    text-transform: uppercase;
+    color: #003d5c;
+    font-weight: 600;
+    /* font-size: 10pt; */
+    /* display: block; */
+    line-height: 52px;
+    outline: none;
+    padding-left: 100px;
+    top: 0;
+}
+
+.tabText1:before {
+    content: "► ";
+}
+
+.keyText {
+font-size: 8pt;
+font-weight: 800;
+font-style: normal;
+/*font-family: "Arial","Helvetica","Times",serif;*/ font-family: "Open Sans", "Arial", "Helvetica", sans-serif;
+color: #000000;
+}
+
+#keyContent .keyText,
+#accountResults .keyText,
+#keyContent .keyHeader,
+#accountResults .keyHeader {
+font-weight: normal;
+}
+
+.exText {
+font-size: 8pt;
+font-weight: 800;
+font-style: normal;
+/*font-family: "Arial","Helvetica","Times",serif;*/ font-family: "Open Sans", "Arial", "Helvetica", sans-serif;
+color: #666;
+}
+
+.keyHeader {
+font-size: 8pt;
+font-weight: 900;
+font-style: normal;
+/*font-family: "Arial","Helvetica","Times",serif;*/ font-family: "Open Sans", "Arial", "Helvetica", sans-serif;
+color: #FFF;
+}
+
+#keyContent  {
+position: relative;
+top:50px;
+left: 25px;
+width: 800px;
+height: 30px;
+margin-left 15px;
+
+    left: 0;
+    padding-left: 100px;
+    width: auto;
+}
+
+
+#white {
+float: left;
+height: 15px;
+width: 13px;
+outline: 1px solid #000000;
+background-color: #FFF;
+}
+#current {
+float: left;
+padding-left: 5px;
+padding-right: 20px;
+}
+
+
+#green {
+float: left;
+height: 15px;
+width: 13px;
+outline: 1px solid #000000;
+background-color: #CCC;
+}
+#expired {
+float: left;
+padding-left: 5px;
+padding-right: 20px;
+}
+
+
+#blue {
+float: left;
+height: 15px;
+width: 13px;
+outline: 1px solid #000000;
+background-color: #06C;
+}
+#canceled {
+float: left;
+padding-left: 5px;
+padding-right: 20px;
+}
+
+
+#red {
+float: left;
+height: 15px;
+width: 13px;
+outline: 1px solid #000000;
+background-color: #900;
+}
+#hold {
+float: left;
+padding-left: 5px;
+padding-right: 20px;
+}
+
+#black {
+float: left;
+height: 15px;
+width: 13px;
+outline: 1px solid #000000;
+background-color: #7FFF00;
+}
+#collections {
+float: left;
+padding-left: 5px;
+padding-right: 20px;
+}
+
+
+
+#resultKeyTab  {
+position: relative;
+top: 80px;
+left: 0px;
+margin-bottom: 15px;
+margin-top: 15px;
+height: 30px;
+width: 500px;
+}
+
+#accountResults   {
+position: relative; 
+margin-left: auto; 
+margin-right: auto;
+top:  85px;
+width: 800px;
+z-index: 2;
+
+    height: 400px;
+}
+
+table {
+border-collapse:collapse;
+}
+
+tr {
+border:1px solid #4A4B4C;
+}
+
+
+.endFoot {
+border: none;
+}
+

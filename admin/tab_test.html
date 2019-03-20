@@ -1,0 +1,106 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+        "http://www.w3.org/TR/html4/loose.dtd">
+<head>
+
+
+<link rel="stylesheet" href="css/index.css">
+<script type="text/javascript" src="scripts/jquery.js"></script>
+<script type="text/javascript" src="scripts/showHide.js"></script>
+<script type="text/javascript" src="scripts/switchTabs.js"></script>
+
+
+<title>Untitled</title>
+</head>
+<body>
+
+<div id="headerHouse" class="headerHouse">
+<div id="headerImg" class="headerImg">
+<div class="imgPos">
+<img src="images/logo.jpg"border="0"\ >
+</div>
+</div>
+</div>
+
+<div id= "divStripe1" class="divStripe1">
+</div>
+
+<div id= "divStripe2" class="divStripe2">
+<div id="logTxt" class="logTxt">
+<div class="txtForm">
+<span class="hello">Hello Peter</span>
+<span class="log"><a class="logOut" href = "logout.php">Log out</a></span>
+
+<br>
+Logged In:  psnowden@metaphase.cc 
+</div>
+</div>
+</div>
+
+
+<div id="container" class="container">
+
+<div class="msg_list">
+<p class="list_head">Add/Edit Users</p>
+		<div class="list_body">
+        <a class="listLinks" href = "addUsers.php" target="content">Add New User</a><br>
+
+        <a class="listLinks" href = "searchUsers.php" target="content">Search/Edit  Users</a><br>	
+		</div>
+<p class="list_head">Add/Edit Services</p>
+		<div class="list_body">
+        <a class="listLinks" href = "services/addService.php" target="content">Add Services</a><br>
+        <a class="listLinks" href = "services/searchServices.php" target="content">Search/Edit Services</a><br>
+        <a class="listLinks" href = "clubs/addLocation.php" target="content">Add Service Location</a><br>
+
+        <a class="listLinks" href = "clubs/editLocation.php" target="content">Edit Service Location</a>
+		</div>
+<p class="list_head">Add/Edit Employees</p>
+		<div class="list_body">
+		<a class="listLinks" href = "employees/addEmployee.php" target="content">Add Employee</a><br>
+        <a class="listLinks" href = "employees/searchEmployee.php" target="content">Search/Edit Employee</a><br>
+        <a class="listLinks" href = "employees/addEmployeeType.php"  target="content">Add Employee Type</a><br>
+
+        <a class="listLinks" href = "employees/searchEmployeeType.php"  target="content">Search/Edit Employee Type</a>
+		</div>
+<p class="list_head">Contract Tools</p>
+		<div class="list_body">
+		<a class="listLinks" href = "contracts/editFees.php" target="content">Edit Grace Periods/Fees/Rates</a><br>
+		<a class="listLinks" href = "contracts/editCycleDates.php" target="content">Edit Payment Cycle Dates</a><br>
+        <a class="listLinks" href = "contracts/setLogo.php" target="content">Set Company Logo</a><br>
+
+        <a class="listLinks" href = "contracts/editTerms.php" target="content">Edit Contract Terms</a><br>
+        <a class="listLinks" href = "contracts/editLibTerms.php" target="content">Edit Liability Terms</a><br>
+         <a class="listLinks" href = "contracts/editPaymentOptions.php" target="content">Edit Payment Options</a><br>
+        <a class="listLinks" href = "contracts/editPins.php" target="content">Edit Overide PIN</a><br>
+		</div>
+<p class="list_head">Billing Tools</p>
+		<div class="list_body">
+
+		<a class="listLinks" href = "billing/searchAccounts.php" target="content">Search Client Accounts</a><br>
+		</div>
+ 
+</div>	
+
+
+
+<div id="contentHeader" class="tabHeader">
+<div id="tabOne" class="headText">Account Information</div>  
+<div id="tabTwo" class="headText">Payment History</div>   
+<div id="tabThree" class="headText">Member History</div> 
+<div id="tabFour" class="headText">Notes</div> 
+<div id="tabFive" class="headText">Cybersource</div> 
+</div>
+
+<div id="contentFrame" class="contentFrame">
+<iframe src="frame_c.html" width="855" height="520" frameborder="0" name="content" scrolling="auto">
+</iframe>
+</div>
+
+</div>
+
+<div class="footer">
+&copy; 2012  Essential Management Systems Inc.
+</div>  
+
+</body>
+</html>
