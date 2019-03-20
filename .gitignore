@@ -1,0 +1,9 @@
+# Created by .ignore support plugin (hsz.mobi)
+.gitignore
+.idea/rips/
+.idea/sonarlint/
+.idea/workspace.xml
+admin/css/base/images/
+admin/memberphotos/
+admin/sigs/
+composer.phar
